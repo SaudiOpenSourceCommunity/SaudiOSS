@@ -22,6 +22,10 @@
       <li> المبرمج : عبدالله الغثامي <a href="https://github.com/efrontsa/carbony">Hijri date library on top of Carbon</a></li>
       <li> المبرمج : عبدالعزيز العبودي <a href="https://github.com/Alaboudi1/sameik">sameik</a></li>
         <li> المبرمج : فؤاد المالكي <a href="https://github.com/Eng-Fouad/JTelegramBot">JTelegramBot</a></li>
+          <li> المبرمج : حسين السلمان <a href="https://github.com/Hussain-Alsalman/Interactive_map_SA_imports">JInteractive_map_SA_imports</a></li>
+        <li> المبرمج : حمود الحقباني <a href="https://github.com/alhoqbani/laravel-mobily-ws-notification">laravel-mobily-ws-notification</a></li>
+ 
+
 
 </ul>
 <h1>
