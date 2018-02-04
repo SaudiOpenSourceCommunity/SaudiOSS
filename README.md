@@ -24,7 +24,7 @@
         <li> المبرمج : فؤاد المالكي <a href="https://github.com/Eng-Fouad/JTelegramBot">JTelegramBot</a></li>
           <li> المبرمج : حسين السلمان <a href="https://github.com/Hussain-Alsalman/Interactive_map_SA_imports">JInteractive_map_SA_imports</a></li>
         <li> المبرمج : حمود الحقباني <a href="https://github.com/alhoqbani/laravel-mobily-ws-notification">laravel-mobily-ws-notification</a></li>
-     <li> المبرمج : معاذ <a href="https://github.com/moathdev/laravel-onesignal">aravel-onesignal</a></li>
+     <li> المبرمج : معاذ <a href="https://github.com/moathdev/laravel-onesignal">laravel-onesignal</a></li>
 
 
 </ul>
