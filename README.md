@@ -21,6 +21,8 @@
       <li> المبرمج : عمار العمار <a href="https://github.com/a3ammar/arabic-jekyll">arabic-jekyll</a></li>
       <li> المبرمج : عبدالله الغثامي <a href="https://github.com/efrontsa/carbony">Hijri date library on top of Carbon</a></li>
       <li> المبرمج : عبدالعزيز العبودي <a href="https://github.com/Alaboudi1/sameik">sameik</a></li>
+        <li> المبرمج : فؤاد المالكي <a href="https://github.com/Eng-Fouad/JTelegramBot">JTelegramBot</a></li>
+
 </ul>
 <h1>
 كيف أضيف مشروعي ؟
