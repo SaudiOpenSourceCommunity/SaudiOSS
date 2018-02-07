@@ -31,6 +31,8 @@
      <li> المبرمج : معاذ <a href="https://github.com/moathdev/laravel-onesignal">laravel-onesignal</a></li>
      <li> المبرمج : محمد الدهيمي <a href="https://github.com/hak5/wifipineapple-modules/tree/master/HTTPProxy">HTTPProxy</a></li>
      <li> المبرمج : صالح الدهوبي <a href="https://github.com/SalehAlDhobaie/Offline-Clean-Arch">Offline-Clean-Arch</a></li>
+     <li> المبرمج : عمر باحارث <a href="https://github.com/obahareth/base16-builder-elixir">base16-builder-elixir</a></li>
+     <li> المبرمج : منى، خلود الغامدي، روان المعثم، أروى الرزوق، إيمان النخيلان <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a></li>
 
 
 </ul>
