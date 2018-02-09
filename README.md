@@ -17,7 +17,17 @@
   </li> 
     <li> المبرمج : ضيف الله العتيبي <a href="https://github.com/daif/ertikazos">ertikazos</a></li>
     <li> المبرمج : عبدالله الحازمي <a href="https://github.com/alhazmy13/MediaPicker">MediaPicker</a>,  
-  <a href="https://github.com/alhazmy13/HijriDatePicker">HijriDatePicker</a>
+  <a href="https://github.com/alhazmy13/HijriDatePicker">HijriDatePicker</a>,
+  <a href="https://github.com/alhazmy13/Gota">Gota</a>,
+  <a href="https://github.com/alhazmy13/MediaRecorderDialog">MediaRecorderDialog</a>,
+  <a href="https://github.com/alhazmy13/Catcho">Catcho</a>,
+  <a href="https://github.com/alhazmy13/ImageFilters">ImageFilters</a>,      
+  <a href="https://github.com/alhazmy13/Angular4-word-cloud">Angular4-word-cloud</a>,      
+  <a href="https://github.com/alhazmy13/MediaGallery">MediaGallery</a>,      
+  <a href="https://github.com/alhazmy13/Contact-Form-7-Submission-limit">Contact-Form-7-Submission-limit</a>,      
+  <a href="https://github.com/alhazmy13/AndroidWordCloud">AndroidWordCloud</a>,      
+  <a href="https://github.com/alhazmy13/PrayerTimesSwift">PrayerTimesSwift</a>, 
+   <a href="https://github.com/alhazmy13/PrayerTimes">PrayerTimesAndroid</a>, 
   </li>
     <li> المبرمج : أحمد الشمري <a href="https://github.com/ahmads/arabicString">arabicString</a></li>
     <li> المبرمج : عبدالعزيز الشتوي <a href="https://github.com/ecleel/hijri">hijri</a></li>
