@@ -24,8 +24,7 @@
             <a href="https://github.com/alhazmy13/HijriDatePicker">HijriDatePicker</a>,
             <a href="https://github.com/alhazmy13/Gota">Gota</a>,
             <a href="https://github.com/alhazmy13/MediaRecorderDialog">MediaRecorderDialog</a>,
-            <a href="https://github.com/alhazmy13/Catcho">Catcho</a>,
-            <a href="https://github.com/alhazmy13/ImageFilters">ImageFilters</a>,
+            <a href="https://github.com/alhazmy13/Catcho">Catcho</a>,            <a href="https://github.com/alhazmy13/ImageFilters">ImageFilters</a>,
             <a href="https://github.com/alhazmy13/Angular4-word-cloud">Angular4-word-cloud</a>,
             <a href="https://github.com/alhazmy13/MediaGallery">MediaGallery</a>,
             <a href="https://github.com/alhazmy13/Contact-Form-7-Submission-limit">Contact-Form-7-Submission-limit</a>,
@@ -69,7 +68,6 @@
         </li>
         <li>المبرمج : أنس الحمود  <a href="https://github.com/abo3desa/quran-project-repo">quran-project</a>
         </li>
-
     </ul>
     <h1>
 كيف أضيف مشروعي ؟
