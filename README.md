@@ -77,7 +77,7 @@
         <ul>
             <li> <a href="https://github.com/Alaboudi1/SaudiOSS/issues">issue</a> 
             </li>
-            <li> <a href="https://github.com/Alaboudi1/SaudiOSS/pulls">pull request</a> 
+            <li> <a href="https://github.com/Alaboudi1/SaudiOSS/edit/master/README.md">Edit</a> 
             </li>
         </ul>
     </p>
