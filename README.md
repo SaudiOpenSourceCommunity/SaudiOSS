@@ -44,6 +44,7 @@
      <li> المبرمج : عمر باحارث <a href="https://github.com/obahareth/base16-builder-elixir">base16-builder-elixir</a></li>
      <li> المبرمج : منى، خلود الغامدي، روان المعثم، أروى الرزوق، إيمان النخيلان <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a></li>
      <li> المبرمج : سهيل المزيني <a href="https://github.com/i-Sohel/event-notf">event-notf</a></li>
+     <li> المبرمج :  ابراهيم الخليفة <a href="https://github.com/ibraheamkh/go-solr">go-solr</a></li>
 
 
 </ul>
