@@ -9,7 +9,10 @@
 المشاريع:
 </h1>
     <ul>
-        <li>المبرمج : سهيل الكويليت <a href="https://github.com/xsoh/moment-hijri">moment-hijri</a>
+        <li>المبرمج : سهيل الكويليت <a href="https://github.com/xsoh/moment-hijri">moment-hijri</a>,
+            <a href="https://github.com/Etar-Group/Etar-Calendar">Etar Calendar</a>,
+            <a href="https://github.com/xsoh/Hijri.js">Hijri.js</a>,
+            <a href="https://github.com/xsoh/solarHijri-js">SolarHijri-js</a>
         </li>
         <li>المبرمج : عبدالله الأنصاري <a href="https://github.com/Ahimta/donation-web-platform">donation-web-platform</a>
         </li>
