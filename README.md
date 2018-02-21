@@ -71,6 +71,8 @@
         </li>
         <li>المبرمج : أنس الحمود  <a href="https://github.com/abo3desa/quran-project-repo">quran-project</a>
         </li>
+         <li>المبرمج :عبدالعزيز الفهيقي  <a href="https://github.com/alfuhigi/medicines-expired-date">medicines-expired-date</a>
+        </li>
     </ul>
     <h1>
 كيف أضيف مشروعي ؟
