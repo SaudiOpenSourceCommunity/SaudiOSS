@@ -57,7 +57,7 @@
         </li>
         <li>المبرمج : محمد الدهيمي <a href="https://github.com/hak5/wifipineapple-modules/tree/master/HTTPProxy">HTTPProxy</a>
         </li>
-        <li>المبرمج : صالح الدهوبي <a href="https://github.com/SalehAlDhobaie/Offline-Clean-Arch">Offline-Clean-Arch</a>
+        <li>المبرمج : صالح الضبيعي <a href="https://github.com/SalehAlDhobaie/Offline-Clean-Arch">Offline-Clean-Arch</a>
         </li>
         <li>المبرمج : عمر باحارث <a href="https://github.com/obahareth/base16-builder-elixir">base16-builder-elixir</a>
         </li>
