@@ -73,6 +73,10 @@
         </li>
          <li>المبرمج :عبدالعزيز الفهيقي  <a href="https://github.com/alfuhigi/medicines-expired-date">medicines-expired-date</a>
         </li>
+        <li>المبرمج : ناصر الشمري
+            <a href="https://github.com/openshs/openshs">OpenSHS</a>,
+            <a href="https://github.com/nashamri/spacemacs-theme">spacemacs-theme</a>
+        </li>
     </ul>
     <h1>
 كيف أضيف مشروعي ؟
