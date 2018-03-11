@@ -79,6 +79,8 @@
             <a href="https://github.com/openshs/openshs">OpenSHS</a>,
             <a href="https://github.com/nashamri/spacemacs-theme">spacemacs-theme</a>
         </li>
+         <li>المبرمج :حمود القصير  <a href="https://github.com/HamoudAQ/QattaBot">medicines-expired-date</a>
+        </li>
     </ul>
     <h1>
 كيف أضيف مشروعي ؟
