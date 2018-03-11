@@ -45,7 +45,7 @@
         </li>
         <li>المبرمج : عمار العمار <a href="https://github.com/a3ammar/arabic-jekyll">arabic-jekyll</a>
         </li>
-        <li>المبرمج : عبدالله الغثامي <a href="https://github.com/efrontsa/carbony">Hijri date library on top of Carbon</a>
+        <li>المبرمج : عبدالله القثامي <a href="https://github.com/efrontsa/carbony">Hijri date library on top of Carbon</a>
         </li>
         <li>المبرمج : عبدالعزيز العبودي <a href="https://github.com/Alaboudi1/sameik">sameik</a>
         </li>
