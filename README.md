@@ -81,6 +81,8 @@
         </li>
          <li>المبرمج :حمود القصير  <a href="https://github.com/HamoudAQ/QattaBot">medicines-expired-date</a>
         </li>
+         <li>المبرمج :أبو صالح  <a href="https://github.com/bosaleh/ar-en-replace">ar-en replacement script</a>
+        </li>
     </ul>
     <h1>
 كيف أضيف مشروعي ؟
