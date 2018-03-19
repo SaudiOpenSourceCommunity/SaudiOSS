@@ -77,7 +77,8 @@
         </li>
         <li>المبرمج : ناصر الشمري
             <a href="https://github.com/openshs/openshs">OpenSHS</a>,
-            <a href="https://github.com/nashamri/spacemacs-theme">spacemacs-theme</a>
+            <a href="https://github.com/nashamri/spacemacs-theme">spacemacs-theme</a>,
+            <a href="https://github.com/nashamri/academic-phrases">academic-phrases</a>
         </li>
          <li>المبرمج :حمود القصير  <a href="https://github.com/HamoudAQ/QattaBot">medicines-expired-date</a>
         </li>
