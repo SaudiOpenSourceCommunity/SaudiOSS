@@ -14,9 +14,9 @@
       <th>المشروع</th>
       <th>الوصف</th>
   </tr>
-  <!-- Row Temolplte
+  <!-- Row Template
   <tr>
-      <td rowspan="Repos count"><a href="user url">user name</a></td>
+      <td rowspan="{{User Repos count}}"><a href="{{user url}}">user name</a></td>
       <td><a href="Repo Url">Repo</a></td>
       <td>Description</td>
   </tr> -->
@@ -35,7 +35,7 @@
   </tr>
   <tr>
       <td><a href="https://github.com/xsoh/solarHijri-js">SolarHijri-js</a></td>
-      <td>تحويل من وإلى هجري ميلادي</td>
+      <td>تحويل من وإلى التاريخ الهجري والميلادي</td>
   </tr>
   <tr>
       <td rowspan="1"><a href="https://github.com/Ahimta">عبدالله الأنصاري</a></td>
@@ -45,25 +45,25 @@
   <tr>
       <td rowspan="2"><a href="https://github.com/lafikl">خالد لافي</a></td>
       <td><a href="https://github.com/lafikl/consistent">consistent</a></td>
-      <td>Description</td>
+      <td> A Go library that implements Consistent Hashing and Consistent Hashing With Bounded Loads</td>
   </tr>
   <tr>
       <td><a href="https://github.com/lafikl/liblb">liblb</a></td>
-      <td>Description</td>
+      <td>A golang library that implements load balancing algorithms</td>
   </tr>
   <tr>
       <td rowspan="2"><a href="https://github.com/homaily">عبدالعزيز الهميلي</a></td>
       <td><a href="https://github.com/homaily/countries">countries</a></td>
-      <td>Description</td>
+      <td>قائمة الدول باللغة العربية</td>
   </tr>
   <tr>
       <td><a href="https://github.com/homaily/fix-arabic-numbers">fix-arabic-numbers</a></td>
-      <td>Description</td>
+      <td>سكربت لتبديل الارقام العربية إلى الإنجليزية بلغة الجافاسكربت</td>
   </tr>
   <tr>
       <td rowspan="1"><a href="https://github.com/homaily">ضيف الله العتيبي</a></td>
       <td><a href="https://github.com/daif/ertikazos">ertikazos</a></td>
-      <td>Description</td>
+      <td>منصة PHP لتطوير تطبيقات الويب</td>
   </tr>
   <tr>
       <td rowspan="14"><a href="https://github.com/alhazmy13">عبدالله الحازمي</a></td>
@@ -88,7 +88,7 @@
   </tr>
   <tr>
       <td><a href="https://github.com/alhazmy13/ImageFilters">ImageFilters</a></td>
-      <td>Image Filter is an Android Libary that lets you to Filtering any image</td>
+      <td>مكتبة أندرويد تسمح لك بإضافة الفلاتر إلى الصور</td>
   </tr>
   <tr>
       <td><a href="https://github.com/alhazmy13/Angular4-word-cloud">Angular4-word-cloud</a></td>
@@ -108,11 +108,11 @@
   </tr>
   <tr>
       <td><a href="https://github.com/alhazmy13/PrayerTimesSwift">PrayerTimesSwift</a></td>
-      <td>Prayer Times provides a set of handy functions to calculate prayer times for any location around the world </td>
+      <td>مكتبة سويفت تضيف العديد من الدوال لحساب اوقات الصلاة بمختلف أصقاع الأرض</td>
   </tr>
   <tr>
       <td><a href="https://github.com/alhazmy13/PrayerTimes">PrayerTimesAndroid</a></td>
-      <td>Prayer Times provides a set of handy functions to calculate prayer times for any location around the world, based on a variety of calculation methods currently used in Muslim communities</td>
+      <td>مكتبة للأندرويد تضيف العديد من الدوال لحساب أوقات الصلاة بمختلف أنحاء العالم. تعتمد على طرق متعددة مستخدمة من المسلمين لحساب الاوقات</td>
   </tr>
   <tr>
       <td><a href="https://github.com/alhazmy13/angular5-csv">Angular5Csv</a></td>
@@ -129,17 +129,17 @@
     <td>
       <a href="https://github.com/ahmads/arabicString">arabicString</a>
     </td>
-    <td>Description</td>
+    <td>مكتبة جافاسكربت تضيف دوال إلى الكائنات النصية تسمح بالتعامل مع اللغة العربية بشكل أفضل. تعمل على نود والمتصفح</td>
   </tr>
   
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/ecleel">عبدالعزيز الشتوي </a>
+      <a href="https://github.com/ecleel">عبدالعزيز الشتوي</a>
     </td>
     <td>
       <a href="https://github.com/ecleel/hijri">hijri</a>
     </td>
-    <td>Description</td>
+    <td>مكتبة تاريخ هجري للغة روبي</td>
   </tr>
   
   <tr>
@@ -149,17 +149,17 @@
     <td>
       <a href="https://github.com/mznmel/AlDftr">AlDftr</a>
     </td>
-    <td>Description</td>
+    <td>Wiki-Based Knowledge Organizer</td>
   </tr>
   
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/a3ammar">عمار العمار </a>
+      <a href="https://github.com/a3ammar">عمار العمار</a>
     </td>
     <td>
       <a href="https://github.com/a3ammar/arabic-jekyll">arabic-jekyll</a>
     </td>
-    <td>Description</td>
+    <td>ابدأ بالتدوين باستخدام جيكل بلحضات وبدون لمس سطر الأوامر</td>
   </tr>
   
   <tr>
@@ -167,29 +167,29 @@
       <a href="https://github.com/efrontsa">عبدالله القثامي </a>
     </td>
     <td>
-      <a href="https://github.com/efrontsa/carbony">Hijri date library on top of Carbon</a>
+      <a href="https://github.com/efrontsa/carbony">Carbony</a>
     </td>
-    <td>Description</td>
+    <td>مكتبة للتعامل مع التواريخ الهجرية للغة PHP مبنية على أسس مكتبة Carbon الشهيرة</td>
   </tr>
   
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/Alaboudi1">عبدالعزيز العبودي </a>
+      <a href="https://github.com/Alaboudi1">عبدالعزيز العبودي</a>
     </td>
     <td>
       <a href="https://github.com/Alaboudi1/sameik">sameik</a>
     </td>
-    <td>Description</td>
+    <td>هو موقع رائع يقوم بعمل مقارنة بين الأشخاص الذين يحملون نفس الاسم. بمعنى لو اسمك نورة، نقوم بسؤلك عدة أسئلة بسيطة ونقارن إجاباتك بالأشخاص الذين يحملون نفس اسمك بطريقة سرية تحفظ لك خصوصيتك</td>
   </tr>
   
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/Eng-Fouad">فؤاد المالكي </a>
+      <a href="https://github.com/Eng-Fouad">فؤاد المالكي</a>
     </td>
     <td>
       <a href="https://github.com/Eng-Fouad/JTelegramBot">JTelegramBot</a>
     </td>
-    <td>Description</td>
+    <td>JTelegramBot is a Java library that wraps Telegram Bot API with a simpler API using Builder design pattern</td>
   </tr>
   
   <tr>
@@ -199,7 +199,7 @@
     <td>
       <a href="https://github.com/Hussain-Alsalman/Interactive_map_SA_imports">JInteractive_map_SA_imports</a>
     </td>
-    <td>Description</td>
+    <td>&nbsp;</td>
   </tr>
   
   <tr>
@@ -209,7 +209,7 @@
     <td>
       <a href="https://github.com/alhoqbani/laravel-mobily-ws-notification">laravel-mobily-ws-notification</a>
     </td>
-    <td>Description</td>
+    <td>Mobily.ws SMS channel for Laravel notification system</td>
   </tr>
   
   <tr>
@@ -219,7 +219,7 @@
     <td>
       <a href="https://github.com/moathdev/laravel-onesignal">laravel-onesignal</a>
     </td>
-    <td>Description</td>
+    <td>A Onesignal package for Laravel 5.2 or higher</td>
   </tr>
   
   <tr>
@@ -229,7 +229,7 @@
     <td>
       <a href="https://github.com/hak5/wifipineapple-modules/tree/master/HTTPProxy">HTTPProxy</a>
     </td>
-    <td>Description</td>
+    <td>The Official WiFi Pineapple Module Repository</td>
   </tr>
   
   <tr>
@@ -239,7 +239,7 @@
     <td>
       <a href="https://github.com/SalehAlDhobaie/Offline-Clean-Arch">Offline-Clean-Arch</a>
     </td>
-    <td>Description</td>
+    <td>this example is implement offline first concept</td>
   </tr>
   
   <tr>
@@ -249,7 +249,7 @@
     <td>
       <a href="https://github.com/obahareth/base16-builder-elixir">base16-builder-elixir</a>
     </td>
-    <td>Description</td>
+    <td>An Elixir implementation of a Base16 builder</td>
   </tr>
   
   <tr>
@@ -259,7 +259,7 @@
     <td>
       <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
     </td>
-    <td>Description</td>
+    <td>هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية</td>
   </tr>
   
   <tr>
@@ -269,86 +269,86 @@
     <td>
       <a href="https://github.com/i-Sohel/event-notf">event-notf</a>
     </td>
-    <td>Description</td>
+    <td>مشروع لتنظيم المناسبات مبني بلغة PHP</td>
   </tr>
   
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/ibraheamkh">ابراهيم الخليفة </a>
+      <a href="https://github.com/ibraheamkh">ابراهيم الخليفة</a>
     </td>
     <td>
       <a href="https://github.com/ibraheamkh/go-solr">go-solr</a>
     </td>
-    <td>Description</td>
+    <td>&nbsp;</td>
   </tr>
   
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/ish3lan">محمد الشعلان </a>
+      <a href="https://github.com/ish3lan">محمد الشعلان</a>
     </td>
     <td>
       <a href="https://github.com/ish3lan/Swift-Extensions">Swift-Extensions</a>
     </td>
-    <td>Description</td>
+    <td>awsome swift extensions, will help you stop struggling with those frequent small problems</td>
   </tr>
   
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/abo3desa">أنس الحمود </a>
+      <a href="https://github.com/abo3desa">أنس الحمود</a>
     </td>
     <td>
       <a href="https://github.com/abo3desa/quran-project-repo">quran-project</a>
     </td>
-    <td>Description</td>
+    <td>&nbsp;</td>
   </tr>
 
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/alfuhigi">عبدالعزيز الفهيقي </a>
+      <a href="https://github.com/alfuhigi">عبدالعزيز الفهيقي</a>
     </td>
     <td>
       <a href="https://github.com/alfuhigi/medicines-expired-date">medicines-expired-date</a>
     </td>
-    <td>Description</td>
+    <td>انتهاء تواريخ الادوية</td>
   </tr>
   <tr>
     <td rowspan="3">
-      <a href="https://github.com/alfuhigi">ناصر الشمري</a>
+      <a href="https://github.com/nashamri">ناصر الشمري</a>
     </td>
     <td>
       <a href="https://github.com/openshs/openshs">OpenSHS</a>
     </td>
-    <td>Description</td>
+    <td>Open Smart Home Simulator</td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/nashamri/spacemacs-theme">spacemacs-theme</a>
     </td>
-    <td>Description</td>
+    <td>Light and dark theme for spacemacs that supports GUI and terminal</td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/nashamri/academic-phrases">academic-phrases</a>
     </td>
-    <td>Description</td>
+    <td>Bypass that mental block when writing your papers</td>
   </tr>
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/alfuhigi">حمود القصير </a>
+      <a href="https://github.com/HamoudAQ">حمود القصير </a>
     </td>
     <td>
-      <a href="https://github.com/HamoudAQ/QattaBot">medicines-expired-date</a>
+      <a href="https://github.com/HamoudAQ/QattaBot">QattaBot</a>
     </td>
-    <td>Description</td>
+    <td>بوت تيليجرام لحساب القطّات</td>
   </tr>
   <tr>
     <td rowspan="1">
-      <a href="https://github.com/alfuhigi">أبو صالح </a>
+      <a href="https://github.com/bosaleh">أبو صالح </a>
     </td>
     <td>
       <a href="https://github.com/bosaleh/ar-en-replace">ar-en replacement script</a>
     </td>
-    <td>Description</td>
+    <td>A script that changes arabic text to english text and vice-versa then switches to the language you meant to write in</td>
   </tr>
 </table>
     <h1>
