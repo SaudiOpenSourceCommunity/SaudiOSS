@@ -304,11 +304,12 @@
     </tr>
     <tr>
       <td rowspan="1">
-        <a href="https://github.com/ArwaAlrazooq">منى
-          <br> خلود الغامدي
-          <br> روان المعثم
-          <br> أروى الرزوق
-          <br> إيمان النخيلان </a>
+        منى الرزقان
+        <br>خلود الغامدي
+        <br>روان المعثم
+        <br>
+        <a href="https://github.com/ArwaAlrazooq">أروى الرزوق</a>
+        <br>إيمان النخيلان
       </td>
       <td>
         <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
@@ -323,15 +324,6 @@
         <a href="https://github.com/i-Sohel/event-notf">event-notf</a>
       </td>
       <td>مشروع لتنظيم المناسبات مبني بلغة PHP</td>
-    </tr>
-    <tr>
-      <td rowspan="1">
-        <a href="https://github.com/ibraheamkh">ابراهيم الخليفة</a>
-      </td>
-      <td>
-        <a href="https://github.com/ibraheamkh/go-solr">go-solr</a>
-      </td>
-      <td>&nbsp;</td>
     </tr>
     <tr>
       <td rowspan="1">
