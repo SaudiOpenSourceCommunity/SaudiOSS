@@ -266,15 +266,27 @@
       </td>
       <td>Mobily.ws SMS channel for Laravel notification system</td>
     </tr>
-    <tr>
-      <td rowspan="1">
-        <a href="https://github.com/moathdev">معاذ </a>
-      </td>
-      <td>
-        <a href="https://github.com/moathdev/laravel-onesignal">laravel-onesignal</a>
-      </td>
-      <td>A Onesignal package for Laravel 5.2 or higher</td>
-    </tr>
+            <tr>
+            <td rowspan="3">
+                <a href="https://github.com/moathdev">معاذ الجهني</a>
+            </td>
+            <td>
+                <a href="https://github.com/moathdev/office365-Laravel">office365-Laravel</a>
+            </td>
+            <td>A Office365 package for Laravel 5.2 or higher</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/moathdev/laravel-onesignal">onesigna-Laravel</a>
+            </td>
+            <td>A Onesignal package for Laravel 5.2 or higher</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/moathdev/sweetalert">sweetalert-laravel</a>
+            </td>
+            <td>A Sweetalert package for Laravel 5.2 or higher</td>
+        </tr>
     <tr>
       <td rowspan="1">
         <a href="https://github.com/hak5">محمد الدهيمي </a>
