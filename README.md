@@ -424,6 +424,15 @@
       <td>عميل FTP متكامل</td>
     </tr>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Faares">فارس البلادي</a>
+      </td>
+      <td>
+        <a href="https://github.com/Faares/Mowajjeh">Mowajjeh</a>
+      </td>
+      <td>Light PHP Router</td>
+    </tr>
   </table>
   <h1>
     كيف أضيف مشروعي ؟
