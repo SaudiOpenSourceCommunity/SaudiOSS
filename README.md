@@ -221,13 +221,25 @@
       <td>ابدأ بالتدوين باستخدام جيكل بلحضات وبدون لمس سطر الأوامر</td>
     </tr>
     <tr>
-      <td rowspan="1">
-        <a href="https://github.com/efrontsa">عبدالله القثامي </a>
-      </td>
-      <td>
-        <a href="https://github.com/efrontsa/carbony">Carbony</a>
-      </td>
-      <td>مكتبة للتعامل مع التواريخ الهجرية للغة PHP مبنية على أسس مكتبة Carbon الشهيرة</td>
+        <td rowspan="3">
+            <a href="https://github.com/efrontsa">عبدالله القثامي </a>
+        </td>
+        <td>
+            <a href="https://github.com/efrontsa/carbony">Carbony</a>
+        </td>
+        <td>مكتبة للتعامل مع التواريخ الهجرية للغة PHP مبنية على أسس مكتبة Carbon الشهيرة</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/efrontsa/sms">SMS</a>
+        </td>
+        <td>مكتبة للتعامل مع رسائل الجوال مثل البريد الالكتروني في Laravel</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/efrontsa/postmark">Postmark</a>
+        </td>
+        <td><a href="https://postmarkapp.com">Postmark</a> driver for Laravel</td>
     </tr>
     <tr>
       <td rowspan="1">
