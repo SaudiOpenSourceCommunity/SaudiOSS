@@ -460,6 +460,13 @@
                 <td>JS/Nodejs Template Engine</td>
             </tr>
         </tr>
+        <tr>
+                <td rowspan="1">
+                    <a href="https://github.com/MoAlyousef/">محمد اليوسف</a>
+                </td>
+                <td><a href="https://github.com/MoAlyousef/vcbld">vcbld</a></td>
+                <td>تطبيق لبناء برامج c++ باستخدام vcpkg</td>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
