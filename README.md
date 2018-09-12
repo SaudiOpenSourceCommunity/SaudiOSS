@@ -461,11 +461,19 @@
             </tr>
         </tr>
         <tr>
-                <td rowspan="1">
+                <td rowspan="2">
                     <a href="https://github.com/MoAlyousef/">محمد اليوسف</a>
                 </td>
-                <td><a href="https://github.com/MoAlyousef/vcbld">vcbld</a></td>
+                <td>
+                    <a href="https://github.com/MoAlyousef/vcbld">vcbld</a>
+                </td>
                 <td>تطبيق لبناء برامج c++ باستخدام vcpkg</td>
+                <tr>
+                    <td>
+                        <a href="https://github.com/MoAlyousef/Stereotaxis">Stereotaxis</a>
+                    </td>
+                    <td>تطبيق جراحي للآيفون والأندرويد لحساب الإحداثيات اللازمة للخزعات الدماغية</td>
+                </tr>
         </tr>
     </table>
     <h1>
