@@ -475,6 +475,11 @@
                     <td>تطبيق جراحي للآيفون والأندرويد لحساب الإحداثيات اللازمة للخزعات الدماغية</td>
                 </tr>
         </tr>
+        <tr>
+              <td rowspan="1"><a href="https://github.com/f22hd">فهد اللبدي</a></td>
+              <td><a href="https://github.com/f22hd/CreditCardValidator">CreditCardValidator</a></td>
+              <td>سكربت للتحقق من صحة بطاقة الكريديت كارد بلغة typescript</td>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
