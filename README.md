@@ -480,6 +480,21 @@
               <td><a href="https://github.com/f22hd/CreditCardValidator">CreditCardValidator</a></td>
               <td>سكربت للتحقق من صحة بطاقة الكريديت كارد بلغة typescript</td>
         </tr>
+        <tr>
+                <td rowspan="2">
+                    <a href="https://github.com/ahmedoid">أحمد الجعيد</a>
+                </td>
+                <td>
+                    <a href="https://pub.dartlang.org/packages/hijri">hijri</a>
+                </td>
+                <td>Umm Alqura Hijri Calendar Converter in Dart language</td>
+                <tr>
+                    <td>
+                        <a href="https://pub.dartlang.org/packages/hijri_picker">hijri_picker</a>
+                    </td>
+                    <td>Hijri date picker in Dart language</td>
+                </tr>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
