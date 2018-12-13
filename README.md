@@ -495,6 +495,31 @@
                     <td>Hijri date picker in Dart language</td>
                 </tr>
         </tr>
+        <tr>
+                <td rowspan="4"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
+                <td>
+                    <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
+                </td>
+                <td>Laravel package to manage cPanel email accounts.</td>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/saudiaddress">saudiaddress</a>
+                    </td>
+                    <td>PHP Laravel wrapper for the Saudi National Address APIs. you can get a list of all regions, cities and districts. Also geocode and address verification.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/mailchimp">mailchimp</a>
+                    </td>
+                    <td>A Nova Laravel tool that integrates with MailChimp to manage mail list subscribers and send mail newsletters.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-mysql">nova-mysql</a>
+                    </td>
+                    <td>A Nova Laravel MySQL Server Managment</td>
+                </tr>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
