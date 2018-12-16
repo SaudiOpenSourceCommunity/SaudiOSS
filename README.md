@@ -79,7 +79,7 @@
                 <a href="https://github.com/homaily/countries">countries</a>
             </td>
             <td>قائمة الدول باللغة العربية</td>
-
+        </tr>
                 <tr>
                     <td>
                         <a href="https://github.com/naifalshaye/nova-mysql">nova-mysql</a>
