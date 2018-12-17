@@ -32,7 +32,7 @@
         <tr>
       <td ><a href="https://github.com/HOST-Oman">HOST-Oman</a></td>
       <td><a href="https://github.com/HOST-Oman/libraqm">مكتبة رقم</a></td>
-      <td>Description</td>
+      <td>مكتبة لتنسيق النصوص المعقدة </td>
   </tr>
     </table>
     <h1>
