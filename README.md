@@ -25,9 +25,9 @@
                 <a href="https://github.com/xsoh">حارث المعولي</a>
             </td>
             <td>
-                <a href="https://github.com/xsoh/moment-hijri">moment-hijri</a>
+                <a href="https://www.digi77.com/linux-kodachi/">Kudachi OS</a>
             </td>
-            <td>اضافة لـmoment.js لدعم التاريخ الهجري</td>
+            <td>نظام تشغيل أمني </td>
         </tr>
     </table>
     <h1>
@@ -37,10 +37,10 @@
         لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح:
         <ul>
             <li>
-                <a href="https://github.com/Alaboudi1/SaudiOSS/issues">Issue</a>
+                <a href="https://github.com/OmaniOpenSourceCommunity/OmaniOSS/issues">Issue</a>
             </li>
             <li>
-                <a href="https://github.com/Alaboudi1/SaudiOSS/edit/master/README.md">Fork</a>
+                <a href="https://github.com/OmaniOpenSourceCommunity/OmaniOSS/edit/master/README.md">Fork</a>
             </li>
         </ul>
     </p>
