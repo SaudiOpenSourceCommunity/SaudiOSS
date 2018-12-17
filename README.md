@@ -25,7 +25,7 @@
                 <a href="https://github.com/xsoh">حارث المعولي</a>
             </td>
             <td>
-                <a href="https://www.digi77.com/linux-kodachi/">Kudachi OS</a>
+                <a href="https://www.digi77.com/linux-kodachi/">Kudachi OS …  نظام تشغيل كوداتشي</a>
             </td>
             <td>نظام تشغيل أمني </td>
         </tr>
