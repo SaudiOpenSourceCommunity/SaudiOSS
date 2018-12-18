@@ -496,7 +496,7 @@
                 </tr>
         </tr>
         <tr>
-                <td rowspan="4"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
+                <td rowspan="15"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
                 <td>
                     <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
                 </td>
@@ -518,6 +518,72 @@
                         <a href="https://github.com/naifalshaye/nova-mysql">nova-mysql</a>
                     </td>
                     <td>A Nova Laravel MySQL Server Managment</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/worldclock">worldclock</a>
+                    </td>
+                    <td>A Laravel Nova card to display world clocks</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-cpanel-mail">nova-cpanel-mail</a>
+                    </td>
+                    <td>A Laravel Nova tool that integrates with Cpanel Mail to manage Email Addresses</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/soundcloud">soundcloud</a>
+                    </td>
+                    <td>A Laravel Nova field to play a SoundCloud audio</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-map-address">nova-map-address</a>
+                    </td>
+                    <td>A Nova field to place a marker on the map to get coordinates then it reverses geocoding the coordinates to get a street address</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-address-autocomplete">nova-address-autocomplete</a>
+                    </td>
+                    <td>Nova address field that autocompletes the user input to show suggested addresses using Google Place service.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-random-password-generation">nova-random-password-generation</a>
+                    </td>
+                    <td>A Laravel Nova password field with generating random password option</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-text-field-with-icon">nova-text-field-with-icon</a>
+                    </td>
+                    <td>A Laravel Nova text field with a custom icon</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-paypal">nova-paypal</a>
+                    </td>
+                    <td>A Laravel Nova card to display PayPal current balance and latest transactions.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-saudi-id-number-validation">nova-saudi-id-number-validation</a>
+                    </td>
+                    <td>Saudi national ID number validation field for Laravel Nova, just for the frontend it will not prevent from submitting the form.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-twitter-timeline">nova-twitter-timeline</a>
+                    </td>
+                    <td>Nova card that displays the latest user timeline and mentions tweets</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/toggle-switch">toggle-switch</a>
+                    </td>
+                    <td>A Laravel Nova toggle switch field</td>
                 </tr>
         </tr>
     </table>
