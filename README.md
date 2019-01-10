@@ -592,6 +592,13 @@
                     <td>Monitor Nova Login via Slack notifications, Receive a notification every time someone's login to your system.</td>
                 </tr>
         </tr>
+        <tr>
+                <td rowspan="1"><a href="https://github.com/balbarak">بدر البراك</a></td>
+                <td>
+                    <a href="https://github.com/balbarak/WeasyPrint-netcore">WeasyPrint-netcore</a>
+                </td>
+                <td>مكتبة دوت نت لتحويل ملفات html الى pdf </td>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
