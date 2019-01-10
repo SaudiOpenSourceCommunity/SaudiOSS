@@ -496,7 +496,7 @@
                 </tr>
         </tr>
         <tr>
-                <td rowspan="15"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
+                <td rowspan="16"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
                 <td>
                     <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
                 </td>
@@ -584,6 +584,12 @@
                         <a href="https://github.com/naifalshaye/toggle-switch">toggle-switch</a>
                     </td>
                     <td>A Laravel Nova toggle switch field</td>
+                </tr>
+                 <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/Nova-Login-Monitor">Monitor Nova Login</a>
+                    </td>
+                    <td>Monitor Nova Login via Slack notifications, Receive a notification every time someone's login to your system.</td>
                 </tr>
         </tr>
     </table>
