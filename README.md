@@ -585,6 +585,12 @@
                     </td>
                     <td>A Laravel Nova toggle switch field</td>
                 </tr>
+                 <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/Nova-Login-Monitor">Monitor Nova Login</a>
+                    </td>
+                    <td>Monitor Nova Login via Slack notifications, Receive a notification every time someone's login to your system.</td>
+                </tr>
         </tr>
     </table>
     <h1>
