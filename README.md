@@ -496,7 +496,7 @@
                 </tr>
         </tr>
         <tr>
-                <td rowspan="16"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
+                <td rowspan="17"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
                 <td>
                     <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
                 </td>
@@ -590,6 +590,12 @@
                         <a href="https://github.com/naifalshaye/Nova-Login-Monitor">Monitor Nova Login</a>
                     </td>
                     <td>Monitor Nova Login via Slack notifications, Receive a notification every time someone's login to your system.</td>
+                </tr>
+                 <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/laravel-paypal">Laravel PayPal</a>
+                    </td>
+                    <td>To communicate with PayPal API to get current balance and transactions.</td>
                 </tr>
         </tr>
         <tr>
