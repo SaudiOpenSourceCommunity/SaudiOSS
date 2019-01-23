@@ -496,7 +496,7 @@
                 </tr>
         </tr>
         <tr>
-                <td rowspan="17"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
+                <td rowspan="18"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
                 <td>
                     <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
                 </td>
@@ -596,6 +596,12 @@
                         <a href="https://github.com/naifalshaye/laravel-paypal">Laravel PayPal</a>
                     </td>
                     <td>To communicate with PayPal API to get current balance and transactions.</td>
+                </tr>
+                 <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-sms">Laravel Nova SMS</a>
+                    </td>
+                    <td>A Laravel Nova SMS Tool to send SMS messages via the most popular providers.</td>
                 </tr>
         </tr>
         <tr>
