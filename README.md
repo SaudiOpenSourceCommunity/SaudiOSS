@@ -496,7 +496,7 @@
                 </tr>
         </tr>
         <tr>
-                <td rowspan="18"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
+                <td rowspan="19"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
                 <td>
                     <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
                 </td>
@@ -602,6 +602,12 @@
                         <a href="https://github.com/naifalshaye/nova-sms">Laravel Nova SMS</a>
                     </td>
                     <td>A Laravel Nova SMS Tool to send SMS messages via the most popular providers.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-push-notifications">Laravel Nova Push Notifications</a>
+                    </td>
+                    <td>A Laravel Nova tool to send push notifications.</td>
                 </tr>
         </tr>
         <tr>
