@@ -496,7 +496,7 @@
                 </tr>
         </tr>
         <tr>
-                <td rowspan="19"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
+                <td rowspan="20"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
                 <td>
                     <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
                 </td>
@@ -608,6 +608,12 @@
                         <a href="https://github.com/naifalshaye/nova-push-notifications">Laravel Nova Push Notifications</a>
                     </td>
                     <td>A Laravel Nova tool to send push notifications.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/twitterbot">Twitter Bot</a>
+                    </td>
+                    <td>An open source Laravel application for Twitter data automations and archiving.</td>
                 </tr>
         </tr>
         <tr>
