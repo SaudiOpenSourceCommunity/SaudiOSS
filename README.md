@@ -479,10 +479,12 @@
                      <a href="https://github.com/MoAlyousef/Stereotaxis">Stereotaxis</a>
                 </td>
               <td>تطبيق جراحي للآيفون والأندرويد لحساب الإحداثيات اللازمة للخزعات الدماغية</td>
+              <tr>
               <td>
                      <a href="https://github.com/MoAlyousef/Results">Results</a>
                 </td>
               <td>مكتبة للتعامل مع الأخطاء والحالات الاستثنائية في لغة C++</td>
+               </tr>
               </tr>
         </tr>
         <tr>
