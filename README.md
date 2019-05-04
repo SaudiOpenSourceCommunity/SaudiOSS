@@ -474,12 +474,10 @@
                     <a href="https://github.com/MoAlyousef/vcbld">vcbld</a>
                 </td>
                 <td>تطبيق لبناء برامج c++ باستخدام vcpkg</td>
-                <tr>
-                    <td>
-                        <a href="https://github.com/MoAlyousef/Stereotaxis">Stereotaxis</a>
-                    </td>
-                    <td>تطبيق جراحي للآيفون والأندرويد لحساب الإحداثيات اللازمة للخزعات الدماغية</td>
-                </tr>
+                <td>
+                     <a href="https://github.com/MoAlyousef/Stereotaxis">Stereotaxis</a>
+                </td>
+              <td>تطبيق جراحي للآيفون والأندرويد لحساب الإحداثيات اللازمة للخزعات الدماغية</td>
         </tr>
         <tr>
               <td rowspan="1"><a href="https://github.com/f22hd">فهد اللبدي</a></td>
