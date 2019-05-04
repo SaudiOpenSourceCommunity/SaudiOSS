@@ -359,13 +359,19 @@
             <td>مشروع لتنظيم المناسبات مبني بلغة PHP</td>
         </tr>
         <tr>
-            <td rowspan="1">
+            <td rowspan="2">
                 <a href="https://github.com/ish3lan">محمد الشعلان</a>
             </td>
             <td>
                 <a href="https://github.com/ish3lan/Swift-Extensions">Swift-Extensions</a>
             </td>
             <td>awsome swift extensions, will help you stop struggling with those frequent small problems</td>
+            <tr>
+                <td>
+                    <a href="https://github.com/ish3lan/Medical-Blockchain">Medical-Supplychain</a>
+                </td>
+                <td>Decentralized Medical Supply Chain (DApp) built on Ethereum blockchain</td>
+            </tr>
         </tr>
         <tr>
             <td rowspan="1">
@@ -479,6 +485,149 @@
               <td rowspan="1"><a href="https://github.com/f22hd">فهد اللبدي</a></td>
               <td><a href="https://github.com/f22hd/CreditCardValidator">CreditCardValidator</a></td>
               <td>سكربت للتحقق من صحة بطاقة الكريديت كارد بلغة typescript</td>
+        </tr>
+        <tr>
+                <td rowspan="2">
+                    <a href="https://github.com/ahmedoid">أحمد الجعيد</a>
+                </td>
+                <td>
+                    <a href="https://pub.dartlang.org/packages/hijri">hijri</a>
+                </td>
+                <td>Umm Alqura Hijri Calendar Converter in Dart language</td>
+                <tr>
+                    <td>
+                        <a href="https://pub.dartlang.org/packages/hijri_picker">hijri_picker</a>
+                    </td>
+                    <td>Hijri date picker in Dart language</td>
+                </tr>
+        </tr>
+        <tr>
+                <td rowspan="20"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
+                <td>
+                    <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
+                </td>
+                <td>Laravel package to manage cPanel email accounts.</td>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/saudiaddress">saudiaddress</a>
+                    </td>
+                    <td>PHP Laravel wrapper for the Saudi National Address APIs. you can get a list of all regions, cities and districts. Also geocode and address verification.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/mailchimp">mailchimp</a>
+                    </td>
+                    <td>A Nova Laravel tool that integrates with MailChimp to manage mail list subscribers and send mail newsletters.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-mysql">nova-mysql</a>
+                    </td>
+                    <td>A Nova Laravel MySQL Server Managment</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/worldclock">worldclock</a>
+                    </td>
+                    <td>A Laravel Nova card to display world clocks</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-cpanel-mail">nova-cpanel-mail</a>
+                    </td>
+                    <td>A Laravel Nova tool that integrates with Cpanel Mail to manage Email Addresses</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/soundcloud">soundcloud</a>
+                    </td>
+                    <td>A Laravel Nova field to play a SoundCloud audio</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-map-address">nova-map-address</a>
+                    </td>
+                    <td>A Nova field to place a marker on the map to get coordinates then it reverses geocoding the coordinates to get a street address</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-address-autocomplete">nova-address-autocomplete</a>
+                    </td>
+                    <td>Nova address field that autocompletes the user input to show suggested addresses using Google Place service.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-random-password-generation">nova-random-password-generation</a>
+                    </td>
+                    <td>A Laravel Nova password field with generating random password option</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-text-field-with-icon">nova-text-field-with-icon</a>
+                    </td>
+                    <td>A Laravel Nova text field with a custom icon</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-paypal">nova-paypal</a>
+                    </td>
+                    <td>A Laravel Nova card to display PayPal current balance and latest transactions.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-saudi-id-number-validation">nova-saudi-id-number-validation</a>
+                    </td>
+                    <td>Saudi national ID number validation field for Laravel Nova, just for the frontend it will not prevent from submitting the form.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-twitter-timeline">nova-twitter-timeline</a>
+                    </td>
+                    <td>Nova card that displays the latest user timeline and mentions tweets</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/toggle-switch">toggle-switch</a>
+                    </td>
+                    <td>A Laravel Nova toggle switch field</td>
+                </tr>
+                 <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/Nova-Login-Monitor">Monitor Nova Login</a>
+                    </td>
+                    <td>Monitor Nova Login via Slack notifications, Receive a notification every time someone's login to your system.</td>
+                </tr>
+                 <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/laravel-paypal">Laravel PayPal</a>
+                    </td>
+                    <td>To communicate with PayPal API to get current balance and transactions.</td>
+                </tr>
+                 <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-sms">Laravel Nova SMS</a>
+                    </td>
+                    <td>A Laravel Nova SMS Tool to send SMS messages via the most popular providers.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/nova-push-notifications">Laravel Nova Push Notifications</a>
+                    </td>
+                    <td>A Laravel Nova tool to send push notifications.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/naifalshaye/twitterbot">Twitter Bot</a>
+                    </td>
+                    <td>An open source Laravel application for Twitter data automations and archiving.</td>
+                </tr>
+        </tr>
+        <tr>
+                <td rowspan="1"><a href="https://github.com/balbarak">بدر البراك</a></td>
+                <td>
+                    <a href="https://github.com/balbarak/WeasyPrint-netcore">WeasyPrint-netcore</a>
+                </td>
+                <td>مكتبة دوت نت لتحويل ملفات html الى pdf </td>
         </tr>
     </table>
     <h1>
