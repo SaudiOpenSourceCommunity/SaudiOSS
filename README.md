@@ -96,6 +96,93 @@
             <td>منصة PHP لتطوير تطبيقات الويب</td>
         </tr>
         <tr>
+            <td rowspan="14">
+                <a href="https://github.com/cs4alhaider">عبدالله الحيدر</a>
+            </td>
+            <td>
+                <a href="https://github.com/cs4alhaider/Helper4Swift">Helper4Swift</a>
+            </td>
+            <td>Helpful extensions and methods to short your coding time</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/Prims-algorithm">Prims-algorithm</a>
+            </td>
+            <td>تطبيق وشرح لخوارزمية Prims</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/DhawaAlkhreej">ضوء الخريج</a>
+            </td>
+            <td>تطبيق iOS يساعد خريجين الثانوية باختيار تخصصهم الجامعي والتعرف على الجامعات ومعدلات القبول وحساب النسبة الموزونة</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/Hackthon">Hajj-Hackthon</a>
+            </td>
+            <td>تطبيق لادارة الحجيج والزحام - مشاركة هاكثون الحج</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/realm-with-Swift-codable">Realm DB with Swift Codable</a>
+            </td>
+            <td>Exercise on how to use realm with Swift codable and also how the sorts works in realm</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/TextLanguageChecker">Text language checker</a>
+            </td>
+            <td>التحقق من لغة النص المدخل هل هي بالعربي او أي لغة اخرى</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/WordMatching">WordMatching</a>
+            </td>
+            <td>تطبيق iOS يأخذ ملفين نصيين ويقوم بالبحث عن الكلمات المتطابقة بين الملفين وعددها ثم يقوم باصدار ملف جديد ويمكن ارسالة بالبريد الالكتروني</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/HappyEid">HappyEid</a>
+            </td>
+            <td>تطبيق iOS يقوم بعمل انيميشن للتهنئة بالعيد</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/DateDifference">DateDifference</a>
+            </td>
+            <td>C++ حساب الفرق بين تاريخين</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/VideoPlayerObjc">VideoPlayerObjc</a>
+            </td>
+            <td>مشغل فيديو بلغة Objective-C</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/VideoPlayerSwift">VideoPlayerSwift</a>
+            </td>
+            <td>مشغل فيديو بلغة Swift</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/SwiftProject">SwiftProject</a>
+            </td>
+            <td>تجهيز لأي مشروع، ايضاً اقوم بمشاركة اي فكرة مع اي مطور اخر عن طريق هذا المشروع</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/Flash-Chat">Flash-Chat</a>
+            </td>
+            <td>iOS app using real-time chatting via Firebase</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/CustomAD">CustomAD</a>
+            </td>
+            <td>Show a custom ad inside your app</td>
+        </tr>
+        <tr>
             <td rowspan="16">
                 <a href="https://github.com/alhazmy13">عبدالله الحازمي</a>
             </td>
