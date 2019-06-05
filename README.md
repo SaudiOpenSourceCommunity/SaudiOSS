@@ -728,6 +728,21 @@
                 </td>
                 <td>مكتبة دوت نت لتحويل ملفات html الى pdf </td>
         </tr>
+         <tr>
+            <td rowspan="2">
+                <a href="https://github.com/salsowelim">سليمان السويلم</a>
+            </td>
+            <td>
+                <a href="https://github.com/salsowelim/tawseem">توسيم</a>
+            </td>
+            <td> منصة تعهيد جماعي لمعالجة اللغات الطبيعية NLP crowdsourcing platform</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/salsowelim/dejavu_cpp_port">dejavu c++ port</a>
+            </td>
+            <td>c++ implementation of the algorithm suggested in dejavu audio fingerprinting project</td>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
