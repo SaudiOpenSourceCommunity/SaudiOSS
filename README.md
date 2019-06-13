@@ -722,11 +722,17 @@
                 </tr>
         </tr>
         <tr>
-                <td rowspan="1"><a href="https://github.com/balbarak">بدر البراك</a></td>
+                <td rowspan="2"><a href="https://github.com/balbarak">بدر البراك</a></td>
                 <td>
                     <a href="https://github.com/balbarak/WeasyPrint-netcore">WeasyPrint-netcore</a>
                 </td>
                 <td>مكتبة دوت نت لتحويل ملفات html الى pdf </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/balbarak/bootstrap-hijri-datepicker">bootstrap-hijri-datepicker</a>
+            </td>
+            <td>Bootstrap 4 Hijri Date picker</td>
         </tr>
          <tr>
             <td rowspan="2">
