@@ -749,6 +749,25 @@
             </td>
             <td>c++ implementation of the algorithm suggested in dejavu audio fingerprinting project</td>
         </tr>
+                <tr>
+                <td rowspan="3"><a href="https://github.com/lamoboos223">لمى العصيمي</a></td>
+                <td>
+                    <a href="https://github.com/lamoboos223/web_scraping">Python - web scraping</a>
+                </td>
+                <td>This is a very basic web scraping app that will send email when episode of your show is out.</td>
+                <tr>
+                    <td>
+                        <a href="https://github.com/lamoboos223/facial-landmarks">Python - facial landmarks</a>
+                    </td>
+                    <td>This code is just a refernce for my personal further projects. all credits goes to pyimagesearch blog for the wonderful lesson.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/lamoboos223/whatsapp-direct-chat">Vue js - whatsapp direct char</a>
+                    </td>
+                    <td>A web app to directly chat with someone om whatsapp without saving their numbers</td>
+                </tr>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
