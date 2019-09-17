@@ -768,6 +768,37 @@
                     <td>A web app to directly chat with someone om whatsapp without saving their numbers</td>
                 </tr>
         </tr>
+                <tr>
+                <td rowspan="5"><a href="https://github.com/usernane">إبراهيم الإبن الشيخ</a></td>
+                <td>
+                    <a href="https://github.com/usernane/webfiori">WebFiori Framework</a>
+                </td>
+                <td>إطار برمجة متكامل بالإمكان إستخدامه في تطوير تطبيقات الشبكة و المواقع الإلكترونية.</td>
+                <tr>
+                    <td>
+                        <a href="https://github.com/usernane/phMysql">phMySql</a>
+                    </td>
+                    <td>مكتبة تساعد على إنشاء MySQL Queries بشكل سهل و مبسط بإستخدام لغة PHP.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/usernane/jsonx">JsonX</a>
+                    </td>
+                    <td>مكتبة تساعد على إنشاء سلاسل Json النصية في لغة PHP.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/usernane/phpStructs">phpStructs</a>
+                    </td>
+                    <td>مكتبة تحوي على هياكل البيانات الأساسية مثل Linked List و Stack. بالإضافة, بالإمكان إستخدامها لإنشاء DOM الخاص بصفحات المواقع الإلكترونية.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/usernane/restEasy">restEasy</a>
+                    </td>
+                    <td>مكتبة تساعد على تطوير REST APIs بإستخدام لغة PHP.</td>
+                </tr>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
