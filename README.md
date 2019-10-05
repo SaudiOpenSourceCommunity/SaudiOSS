@@ -425,11 +425,42 @@
         <tr>
             <td rowspan="1">
                 منى الرزقان
-                <br>خلود الغامدي
-                <br>روان المعثم
-                <br>
+            </td>
+            <td>
+                <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
+            </td>
+            <td>هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية</td>
+        </tr>
+        <tr>
+            <td rowspan="1">
+               خلود الغامدي
+            </td>
+            <td>
+                <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
+            </td>
+            <td>هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية</td>
+        </tr>
+        <tr>
+            <td rowspan="1">
+               روان المعثم
+            </td>
+            <td>
+                <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
+            </td>
+            <td>هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية</td>
+        </tr>
+        <tr>
+            <td rowspan="1">
                 <a href="https://github.com/ArwaAlrazooq">أروى الرزوق</a>
-                <br>إيمان النخيلان
+            </td>
+            <td>
+                <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
+            </td>
+            <td>هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية</td>
+        </tr>
+        <tr>
+            <td rowspan="1">
+               إيمان النخيلان
             </td>
             <td>
                 <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
