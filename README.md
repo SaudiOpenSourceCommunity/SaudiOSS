@@ -493,12 +493,12 @@
         </tr>
         <tr>
             <td rowspan="1">
-                <a href="https://github.com/abo3desa">أنس الحمود</a>
+                <a href="https://github.com/a-alhm">أنس الحمود</a>
             </td>
             <td>
-                <a href="https://github.com/abo3desa/quran-project-repo">quran-project</a>
+                <a href="https://github.com/a-alhm/Quran-Reading-Plan">quran-project</a>
             </td>
-            <td>&nbsp;</td>
+            <td>Quran Reading Plan is PWA (Progressive Web App) which can help you plan for your reading and get the most out of your time</td>
         </tr>
         <tr>
             <td rowspan="1">
@@ -586,7 +586,7 @@
         </tr>
         <tr>
                 <td rowspan="4">
-                    <a href="https://github.com/MoAlyousef/">محمد اليوسف</a>
+                    <a href="https://github.com/MoAlyousef">محمد اليوسف</a>
                 </td>
                 <td>
                     <a href="https://github.com/MoAlyousef/vcbld">vcbld</a>
