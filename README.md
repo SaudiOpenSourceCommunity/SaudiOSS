@@ -830,6 +830,21 @@
                     <td>مكتبة تساعد على تطوير REST APIs بإستخدام لغة PHP.</td>
                 </tr>
         </tr>
+        <tr>
+            <td rowspan="2">
+                <a href="https://github.com/usefksa">يوسف الرشيدي
+            </td>
+            <td>
+                <a href="https://github.com/usefksa/Saudi_GIS_Data">Saudi_GIS_Data</a>
+            </td>
+            <td>قائمة باسماء المدن و الاحياء السعودية مع معلومات حدود الاحياء الجغرافية.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/usefksa/engAraDictionaryFrom_ArabEyes">engAraDictionaryFrom_ArabEyes</a>
+            </td>
+    <td>قاعدة بيانات SQL للقاموس الانجليزي العربي المقدم من مجموعة عيون عربية.</td>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
