@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SaudiOSS/static/css/main.3ed300ab.chunk.css",
+    "main.js": "/SaudiOSS/static/js/main.bbb90652.chunk.js",
+    "main.js.map": "/SaudiOSS/static/js/main.bbb90652.chunk.js.map",
+    "runtime-main.js": "/SaudiOSS/static/js/runtime-main.7ea02f8b.js",
+    "runtime-main.js.map": "/SaudiOSS/static/js/runtime-main.7ea02f8b.js.map",
+    "static/css/2.6f294a06.chunk.css": "/SaudiOSS/static/css/2.6f294a06.chunk.css",
+    "static/js/2.df611ddd.chunk.js": "/SaudiOSS/static/js/2.df611ddd.chunk.js",
+    "static/js/2.df611ddd.chunk.js.map": "/SaudiOSS/static/js/2.df611ddd.chunk.js.map",
+    "index.html": "/SaudiOSS/index.html",
+    "precache-manifest.c30efe498fb743a7582a0c0986771113.js": "/SaudiOSS/precache-manifest.c30efe498fb743a7582a0c0986771113.js",
+    "service-worker.js": "/SaudiOSS/service-worker.js",
+    "static/css/2.6f294a06.chunk.css.map": "/SaudiOSS/static/css/2.6f294a06.chunk.css.map",
+    "static/css/main.3ed300ab.chunk.css.map": "/SaudiOSS/static/css/main.3ed300ab.chunk.css.map",
+    "static/media/rainbow-styles.css": "/SaudiOSS/static/media/Lato-Regular.e9d329fb.svg"
+  }
+}
