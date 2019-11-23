@@ -45,5 +45,5 @@
       "pre-commit": "pretty-quick --staged"
     }
   },
-  "homepage": "https://alaboudi1.github.io/SaudiOSS/"
+  "homepage": "https://github.com/SaudiOpenSourceCommunity/SaudiOSS"
 }
