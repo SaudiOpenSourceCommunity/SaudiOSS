@@ -845,6 +845,17 @@
             </td>
     <td>قاعدة بيانات SQL للقاموس الانجليزي العربي المقدم من مجموعة عيون عربية.</td>
         </tr>
+                <tr>
+                    <td rowspan="4">
+                        <a href="https://github.com/nuhamozaini">نُهى المزيني</a>
+                    </td>
+                    <td>
+                         <a href="https://github.com/nuhamozaini/Manateq">مناطق | Manateq</a>
+                    </td>
+                    <td>
+                         A Ruby gem to facilitate working with regions, cities and districts in Saudi Arabia
+                    </td>
+                </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
