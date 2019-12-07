@@ -846,7 +846,7 @@
     <td>قاعدة بيانات SQL للقاموس الانجليزي العربي المقدم من مجموعة عيون عربية.</td>
         </tr>
                 <tr>
-                    <td rowspan="4">
+                    <td rowspan="1">
                         <a href="https://github.com/nuhamozaini">نُهى المزيني</a>
                     </td>
                     <td>
