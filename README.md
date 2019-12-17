@@ -766,7 +766,7 @@
             <td>Bootstrap 4 Hijri Date picker</td>
         </tr>
          <tr>
-            <td rowspan="2">
+            <td rowspan="4">
                 <a href="https://github.com/salsowelim">سليمان السويلم</a>
             </td>
             <td>
@@ -779,6 +779,18 @@
                 <a href="https://github.com/salsowelim/dejavu_cpp_port">dejavu c++ port</a>
             </td>
             <td>c++ implementation of the algorithm suggested in dejavu audio fingerprinting project</td>
+        </tr>
+         <tr>
+            <td>
+                <a href="https://github.com/salsowelim/tadween">تدوين</a>
+            </td>
+            <td> منصة مبسطة لنشر التدوينات. تدعم العربية بشكل كامل، وتستخدم محرر نصوص حديث</td>
+        </tr>
+          <tr>
+            <td>
+                <a href="https://github.com/salsowelim/odoo_hijri_datepicker">Odoo hijri datepicker</a>
+            </td>
+            <td>التقويم الهجري لنظام أودو نسخة ١١ hijri datepicker for odoo ERP v11</td>
         </tr>
                 <tr>
                 <td rowspan="3"><a href="https://github.com/lamoboos223">لمى العصيمي</a></td>
