@@ -884,7 +884,7 @@
     <td>Riyadh Coffee shops Data obtained by a web scrapping.</td>
         </tr>
 
-    </table>
+   </table>
     <h1>
     كيف أضيف مشروعي ؟
   </h1>
