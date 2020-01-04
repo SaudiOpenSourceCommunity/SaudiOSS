@@ -857,7 +857,7 @@
             </td>
     <td>قاعدة بيانات SQL للقاموس الانجليزي العربي المقدم من مجموعة عيون عربية.</td>
         </tr>
-                <tr>
+            <tr>
                     <td rowspan="1">
                         <a href="https://github.com/nuhamozaini">نُهى المزيني</a>
                     </td>
@@ -868,6 +868,22 @@
                          A Ruby gem to facilitate working with regions, cities and districts in Saudi Arabia
                     </td>
                 </tr>
+        <tr>
+            <td rowspan="2">
+                <a href="https://github.com/mohammedhalosaimi">محمد العصيمي
+            </td>
+            <td>
+                <a href="https://github.com/mohammedhalosaimi/IoT-Application-Building-a-Smart-Library">IoT Smart Library Application</a>
+            </td>
+            <td>مكتبة ذكية تمكنك من تسجيل دخول واستعارة كتب. مزايا: استخدام الوجه لتسجيل الدخول, اضافة موعد ارجاع الكتب لـ Google Calendar, استخدام الصوت في طلب الكتب.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mohammedhalosaimi/Riyadh-Coffee-Shops-Web-Scraping">Riyadh Coffee Shops Web Scraping</a>
+            </td>
+    <td>Riyadh Coffee shops Data obtained by a web scrapping.</td>
+        </tr>
+
     </table>
     <h1>
     كيف أضيف مشروعي ؟
