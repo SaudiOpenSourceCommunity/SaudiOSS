@@ -857,7 +857,7 @@
             </td>
     <td>قاعدة بيانات SQL للقاموس الانجليزي العربي المقدم من مجموعة عيون عربية.</td>
         </tr>
-                <tr>
+            <tr>
                     <td rowspan="1">
                         <a href="https://github.com/nuhamozaini">نُهى المزيني</a>
                     </td>
@@ -868,6 +868,17 @@
                          A Ruby gem to facilitate working with regions, cities and districts in Saudi Arabia
                     </td>
                 </tr>
+                <tr>
+                <td rowspan="1">
+                    <a href="https://github.com/nuhamozaini">محمد العصيمي</a>
+                </td>
+                <td>
+                     <a href="https://github.com/mohammedhalosaimi/Riyadh-Coffee-Shopes-Web-Scraping">Riyadh-Coffee-Shopes-Web-Scraping</a>
+                </td>
+                <td>
+                   Riyadh Coffee shops Data obtaine by a web scrapping.
+            </td>
+        </tr>
     </table>
     <h1>
     كيف أضيف مشروعي ؟
