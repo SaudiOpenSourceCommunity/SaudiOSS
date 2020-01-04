@@ -870,7 +870,7 @@
                 </tr>
                 <tr>
                 <td rowspan="1">
-                    <a href="https://github.com/nuhamozaini">محمد العصيمي</a>
+                    <a href="https://github.com/mohammedhalosaimi">محمد العصيمي</a>
                 </td>
                 <td>
                      <a href="https://github.com/mohammedhalosaimi/Riyadh-Coffee-Shopes-Web-Scraping">Riyadh-Coffee-Shopes-Web-Scraping</a>
@@ -878,6 +878,12 @@
                 <td>
                    Riyadh Coffee shops Data obtaine by a web scrapping.
             </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mohammedhalosaimi/IoT-Application-Building-a-Smart-Library">IoT Smart Library Application</a>
+            </td>
+    <td>مكتبة ذكية تمكنك من تسجيل دخول واستعارة كتب. مزايا: استخدام الوجه لتسجيل الدخول, اضافة موعد ارجاع الكتب لـ Google Calendar, استخدام الصوت في طلب الكتب.</td>
         </tr>
     </table>
     <h1>
