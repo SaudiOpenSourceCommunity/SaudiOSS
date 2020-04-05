@@ -1,0 +1,49 @@
+{
+  "name": "oss-saudi",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.5",
+    "mdbreact": "^4.20.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-flippy": "^0.1.5",
+    "react-rainbow-components": "^1.6.1",
+    "react-scripts": "3.1.2",
+    "shuffle-array": "^1.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "husky": "^2.3.0",
+    "prettier": "^1.17.1",
+    "pretty-quick": "^1.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "homepage": "https://github.com/SaudiOpenSourceCommunity/SaudiOSS"
+}
