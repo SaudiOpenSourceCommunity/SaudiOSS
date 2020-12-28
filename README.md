@@ -21,6 +21,45 @@
       <td>Description</td>
   </tr> -->
         <tr>
+            <td rowspan="6">
+                <a href="https://github.com/hadialqattan">هادي القطان</a>
+            </td>
+            <td>
+                <a href="https://github.com/hadialqattan/pycln">Pycln</a>
+            </td>
+            <td>Formatter for finding and removing unused import statements (for python)</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/hadialqattan/go-compose">Go Compose</a>
+            </td>
+            <td>Lightweight services composer written in Golang for managing services (processes) in a development environment</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/hadialqattan/lc3-vm-golang">LC3-VM (Golang)</a>
+            </td>
+            <td>LC3-VM Go implementation, an educational computer architecture</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/hadialqattan/arabic-ms-forms-extension">Arabic Microsoft Forms Extensions</a>
+            </td>
+            <td>Cross-browser extension to change the display language of Microsoft Forms to Arabic</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/hadialqattan/sudoku">Sudoku</a>
+            </td>
+            <td>GUI Sudoku game with a solver. The solver was implemented using the backtracking algorithm</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/hadialqattan/maze-solver-visualizer">Maze Solver Visualizer</a>
+            </td>
+            <td>Visual shortest path finder, using A*, BFS, and DFS algorithms</td>
+        </tr>
+        <tr>
             <td rowspan="4">
                 <a href="https://github.com/xsoh">سهيل الكويليت</a>
             </td>
