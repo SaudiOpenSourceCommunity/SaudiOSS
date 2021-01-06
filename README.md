@@ -954,6 +954,13 @@
                 </td>
                 <td>Saudi IBAN validator is a small javascript file to validate Saudi IBANs</td>
         </tr>
+           <tr>
+                <td rowspan="1"><a href="https://github.com/alioh">علي العوهلي</a></td>
+                <td>
+                    <a href="https://github.com/alioh/Saudi-Districts-Dataset">Saudi Arabia Districts Dataset</a>
+                </td>
+                <td>This dataset is a collection of files related to Saudi Arabia's districts. The data were collected manually from This data includes general information about                   districts of the Kingdom of Saudi Arabia, such as the number of residents, the proportion of Saudis and foreigners, the distribution of males and females, in                     addition to the average income. Data were collected manually from Nine Tenths.</td>
+        </tr>
    </table>
     <h1>
     كيف أضيف مشروعي ؟
