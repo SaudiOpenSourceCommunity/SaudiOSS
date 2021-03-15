@@ -400,9 +400,9 @@
                 <a href="https://github.com/Alaboudi1">عبدالعزيز العبودي</a>
             </td>
             <td>
-                <a href="https://github.com/Alaboudi1/sameik">sameik</a>
+                <a href="https://github.com/ArabJs/arabJs">ArabJs</a>
             </td>
-            <td>هو موقع رائع يقوم بعمل مقارنة بين الأشخاص الذين يحملون نفس الاسم. بمعنى لو اسمك نورة، نقوم بسؤلك عدة أسئلة بسيطة ونقارن إجاباتك بالأشخاص الذين يحملون نفس اسمك بطريقة سرية تحفظ لك خصوصيتك</td>
+            <td>برمج جافاسكربت بالكامل باللغة العربية</td>
         </tr>
         <tr>
             <td rowspan="1">
