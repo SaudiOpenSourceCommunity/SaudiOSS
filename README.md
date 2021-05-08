@@ -974,6 +974,13 @@
                     <td>Uploady is a Simple File Uploader Script with Multi File Upload Support, It comes with more than 20 features and you can set up it in less than 5 minutes.</td>
                 </tr>
         </tr>
+        <tr>
+                <td rowspan="2"><a href="https://github.com/Nawaf-Almansour">نواف المنصور</a></td>
+                <td>
+                    <a href="https://github.com/Nawaf-Almansour/country-nationality-list-Arabic">List of nationalities and countries in Arabic</a>
+                </td>
+                <td>A list of countries includes information from more than 240 countries around the world in the Arabic language, which helps in knowing information and helps the user in writing his data. The data you will find in the file (dial code, country name, nationality name, code)</td>
+                </tr>
    </table>
     <h1>
     كيف أضيف مشروعي ؟
