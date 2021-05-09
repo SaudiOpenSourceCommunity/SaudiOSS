@@ -975,7 +975,7 @@
                 </tr>
         </tr>
         <tr>
-                <td rowspan="2"><a href="https://github.com/Nawaf-Almansour">نواف المنصور</a></td>
+                <td rowspan="1"><a href="https://github.com/Nawaf-Almansour">نواف المنصور</a></td>
                 <td>
                     <a href="https://github.com/Nawaf-Almansour/country-nationality-list-Arabic">List of nationalities and countries in Arabic</a>
                 </td>
