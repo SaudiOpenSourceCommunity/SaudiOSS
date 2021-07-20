@@ -981,6 +981,19 @@
                 </td>
                 <td>A list of countries includes information from more than 240 countries around the world in the Arabic language, which helps in knowing information and helps the user in writing his data. The data you will find in the file (dial code, country name, nationality name, code)</td>
                 </tr>
+        <tr>
+                <td rowspan="2"><a href="https://github.com/AzizAk">عبدالعزيز الخراشي</a></td>
+                <td>
+                    <a href="https://github.com/AzizAK/react-native-detector">react-native-detector</a>
+                </td>
+                <td>screenshots detector for react native</td>
+        <tr>
+                <td>
+                    <a href="https://github.com/AzizAK/whatsapp-bot">whatsapp-bot</a>
+                </td>
+                <td>sends automated whatsapp messages</td>
+                </tr>
+        </tr>
    </table>
     <h1>
     كيف أضيف مشروعي ؟
