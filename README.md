@@ -994,7 +994,66 @@
                 <td>sends automated whatsapp messages</td>
                 </tr>
         </tr>
-   </table>
+         <tr>
+            <td rowspan="9">
+                <a href="https://github.com/DevMoath">معاذ الهاجري</a>
+            </td>
+            <td>
+                <a href="https://github.com/DevMoath/infosystems.blog">infosystems.blog</a>
+            </td>
+            <td>مدونة لطلاب تخصص نظم المعلومات جامعة الملك سعود تركز على شرح الخطة الدراسية وتجميع موارد المواد</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/tailwindcss-typography-rtl">tailwindcss-typography-rtl</a>
+            </td>
+            <td>Add RTL support for tailwindcss-typography plugin</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/tailwindcss-capitalize-first">tailwindcss-capitalize-first</a>
+            </td>
+            <td>Add utility class to capitalize first letter of a paragraph.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/copy-text">copy-text</a>
+            </td>
+            <td>Copy text to user clipboard.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/pass">pass</a>
+            </td>
+            <td>Node.js cli to generate passwords.</td>
+        </tr>
+         <tr>
+            <td>
+                <a href="https://github.com/DevMoath/ar-num-to-en-num">ar-num-to-en-num</a>
+            </td>
+            <td>Convert Arabic numbers to English numbers.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/hide-twitter-trends">hide-twitter-trends</a>
+            </td>
+            <td>Hide Twitter (Trending now, Who to follow, Topics to follow) taps.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/online-jwt-builder">online-jwt-builder</a>
+            </td>
+            <td>Web page used to generate fake, but valid, JSON Web Tokens.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/password-generator-app">password-generator-app</a>
+            </td>
+            <td>Password generator app to give you strong password.</td>
+        </tr>
+   </
+   
+   >
     <h1>
     كيف أضيف مشروعي ؟
   </h1>
