@@ -994,6 +994,13 @@
                 <td>sends automated whatsapp messages</td>
                 </tr>
         </tr>
+        <tr>
+                <td rowspan="2"><a href="https://github.com/MohaTech10">محمد الغموي</a></td>
+                <td>
+                    <a href="https://github.com/MohaTech10/UQUCompiler">Typed Programming Language</a>
+                </td>
+                <td>A compiler written in Java targeting MIPS-32bit architecture</td>
+        </tr>
    </table>
     <h1>
     كيف أضيف مشروعي ؟
