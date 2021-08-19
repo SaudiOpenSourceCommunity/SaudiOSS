@@ -1051,9 +1051,7 @@
             </td>
             <td>Password generator app to give you strong password.</td>
         </tr>
-   </
-   
-   >
+   </table>
     <h1>
     كيف أضيف مشروعي ؟
   </h1>
