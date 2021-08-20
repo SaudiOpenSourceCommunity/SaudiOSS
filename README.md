@@ -994,6 +994,7 @@
                 <td>sends automated whatsapp messages</td>
                 </tr>
         </tr>
+<<<<<<< HEAD
          <tr>
             <td rowspan="9">
                 <a href="https://github.com/DevMoath">معاذ الهاجري</a>
@@ -1050,6 +1051,14 @@
                 <a href="https://github.com/DevMoath/password-generator-app">password-generator-app</a>
             </td>
             <td>Password generator app to give you strong password.</td>
+=======
+        <tr>
+                <td rowspan="2"><a href="https://github.com/MohaTech10">محمد الغموي</a></td>
+                <td>
+                    <a href="https://github.com/MohaTech10/UQUCompiler">Typed Programming Language</a>
+                </td>
+                <td>A compiler written in Java targeting MIPS-32bit architecture</td>
+>>>>>>> 78b2b220b478231cbd316e4975fce32eb50a47b0
         </tr>
    </table>
     <h1>
