@@ -1051,7 +1051,7 @@
             </td>
             <td>Password generator app to give you strong password.</td>
         <tr>
-                <td rowspan="2"><a href="https://github.com/MohaTech10">محمد الغموي</a></td>
+                <td rowspan="1"><a href="https://github.com/MohaTech10">محمد الغموي</a></td>
                 <td>
                     <a href="https://github.com/MohaTech10/UQUCompiler">Typed Programming Language</a>
                 </td>
