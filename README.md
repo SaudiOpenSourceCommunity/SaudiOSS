@@ -1057,6 +1057,21 @@
                 </td>
                 <td>A compiler written in Java targeting MIPS-32bit architecture</td>
         </tr>
+        <tr>
+                <td rowspan="2"><a href="https://github.com/Mzaien">عبدالله مزين</a></td>
+                <td>
+                    <a href="https://github.com/Mzaien/Next-libs">Next.js Packge template</a>
+                </td>
+                <td>A package template to make new Next.js libraries</td>
+        <tr>
+                <td>
+                    <a href="https://github.com/Mzaien/Next-redirects">Next.js client side Redirect library</a>
+                </td>
+                <td>Next.js library that redirect pages depending on a condition you provide</td>
+        </tr>
+
+        </tr>
+
    </table>
     <h1>
     كيف أضيف مشروعي ؟
