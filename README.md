@@ -1069,9 +1069,6 @@
                 </td>
                 <td>Next.js library that redirect pages depending on a condition you provide</td>
         </tr>
-
-        </tr>
-
    </table>
     <h1>
     كيف أضيف مشروعي ؟
