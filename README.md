@@ -1069,6 +1069,31 @@
                 </td>
                 <td>Next.js library that redirect pages depending on a condition you provide</td>
         </tr>
+        <tr>
+                <td rowspan="4"><a href="https://github.com/yazeed44">يزيد المقوشي</a></td>
+                <td>
+                    <a href="https://github.com/yazeed44/gjf">Fix invalid GeoJSON objects</a>
+                </td>
+                <td>A tool to fix invalid GeoJSON objects through Python or command line</td>
+        <tr>
+                <td>
+                    <a href="https://github.com/yazeed44/MultiImagePicker">MultiImagePicker</a>
+                </td>
+                <td> A library to pick multi images in Android</td>
+        </tr>
+        <tr>
+                <td>
+                    <a href="https://github.com/yazeed44/social-media-detector-api">social-media-detector-api</a>
+                </td>
+                <td>This api would allow you to check if a phone number has a certain social media app</td>
+        </tr>
+         <tr>
+                <td>
+                    <a href="https://github.com/yazeed44/pptxer">pptxer</a>
+                </td>
+                <td>This project is made to make it as easy as possible to scrape presentations (pptx files) from the internet and extract their text (body and notes). It can be used in Python or command line</td>
+        </tr>
+       </tr>
    </table>
     <h1>
     كيف أضيف مشروعي ؟
