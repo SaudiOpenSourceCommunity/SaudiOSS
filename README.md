@@ -22,7 +22,7 @@
   </tr> -->
         <tr>
         <td rowspan="4">
-                <a href="https://abdullahamdi.com/">عبدالله حمدي</a>
+                <a href="https://github.com/ajhamdi">عبدالله حمدي</a>
             </td>
             <td>
                 <a href="https://github.com/ajhamdi/SADA">SADA</a>
