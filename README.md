@@ -21,6 +21,33 @@
       <td>Description</td>
   </tr> -->
         <tr>
+        <td rowspan="4">
+                <a href="https://abdullahamdi.com/">عبدالله حمدي</a>
+            </td>
+            <td>
+                <a href="https://github.com/ajhamdi/SADA">SADA</a>
+            </td>
+            <td> A adverserial attacks on deep learning used in autonomous driving applications </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/ajhamdi/AdvPC">AdvPC</a>
+            </td>
+            <td>A adverserial attacks on 3D point clouds deep learning models</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/ajhamdi/Pytorch_tutorials_3D">Pytorch 3D tutorials</a>
+            </td>
+            <td>A collection of tutorials on Pytorch for 3D applications </td>
+        </tr>
+        <tr>
+        <td>
+                <a href="https://github.com/ajhamdi/MVTN">MVTN</a>
+            </td>
+            <td>Pytorch model for deep learning classification and retrieval on 3D objects </td>
+        </tr>
+        <tr>
             <td rowspan="6">
                 <a href="https://github.com/hadialqattan">هادي القطان</a>
             </td>
