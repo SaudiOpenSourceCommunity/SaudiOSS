@@ -21,6 +21,33 @@
       <td>Description</td>
   </tr> -->
         <tr>
+        <td rowspan="4">
+                <a href="https://abdullahamdi.com/">عبدالله حمدي</a>
+            </td>
+            <td>
+                <a href="https://github.com/ajhamdi/SADA">SADA</a>
+            </td>
+            <td> A adverserial attacks on deep learning used in autonomous driving applications </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/ajhamdi/AdvPC">AdvPC</a>
+            </td>
+            <td>A adverserial attacks on 3D point clouds deep learning models</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/ajhamdi/Pytorch_tutorials_3D">Pytorch 3D tutorials</a>
+            </td>
+            <td>A collection of tutorials on Pytorch for 3D applications </td>
+        </tr>
+        <tr>
+        <td>
+                <a href="https://github.com/ajhamdi/MVTN">MVTN</a>
+            </td>
+            <td>Pytorch model for deep learning classification and retrieval on 3D objects </td>
+        </tr>
+        <tr>
             <td rowspan="6">
                 <a href="https://github.com/hadialqattan">هادي القطان</a>
             </td>
@@ -1001,6 +1028,106 @@
                 </td>
                 <td>command line tool help you to organise your files based on type of files</td>
         <tr>
+         <tr>
+            <td rowspan="9">
+                <a href="https://github.com/DevMoath">معاذ الهاجري</a>
+            </td>
+            <td>
+                <a href="https://github.com/DevMoath/infosystems.blog">infosystems.blog</a>
+            </td>
+            <td>مدونة لطلاب تخصص نظم المعلومات جامعة الملك سعود تركز على شرح الخطة الدراسية وتجميع موارد المواد</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/tailwindcss-typography-rtl">tailwindcss-typography-rtl</a>
+            </td>
+            <td>Add RTL support for tailwindcss-typography plugin</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/tailwindcss-capitalize-first">tailwindcss-capitalize-first</a>
+            </td>
+            <td>Add utility class to capitalize first letter of a paragraph.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/copy-text">copy-text</a>
+            </td>
+            <td>Copy text to user clipboard.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/pass">pass</a>
+            </td>
+            <td>Node.js cli to generate passwords.</td>
+        </tr>
+         <tr>
+            <td>
+                <a href="https://github.com/DevMoath/ar-num-to-en-num">ar-num-to-en-num</a>
+            </td>
+            <td>Convert Arabic numbers to English numbers.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/hide-twitter-trends">hide-twitter-trends</a>
+            </td>
+            <td>Hide Twitter (Trending now, Who to follow, Topics to follow) taps.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/online-jwt-builder">online-jwt-builder</a>
+            </td>
+            <td>Web page used to generate fake, but valid, JSON Web Tokens.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/password-generator-app">password-generator-app</a>
+            </td>
+            <td>Password generator app to give you strong password.</td>
+        <tr>
+                <td rowspan="1"><a href="https://github.com/MohaTech10">محمد الغموي</a></td>
+                <td>
+                    <a href="https://github.com/MohaTech10/UQUCompiler">Typed Programming Language</a>
+                </td>
+                <td>A compiler written in Java targeting MIPS-32bit architecture</td>
+        </tr>
+        <tr>
+                <td rowspan="2"><a href="https://github.com/Mzaien">عبدالله مزين</a></td>
+                <td>
+                    <a href="https://github.com/Mzaien/Next-libs">Next.js Packge template</a>
+                </td>
+                <td>A package template to make new Next.js libraries</td>
+        <tr>
+                <td>
+                    <a href="https://github.com/Mzaien/Next-redirects">Next.js client side Redirect library</a>
+                </td>
+                <td>Next.js library that redirect pages depending on a condition you provide</td>
+        </tr>
+        <tr>
+                <td rowspan="4"><a href="https://github.com/yazeed44">يزيد المقوشي</a></td>
+                <td>
+                    <a href="https://github.com/yazeed44/gjf">Fix invalid GeoJSON objects</a>
+                </td>
+                <td>A tool to fix invalid GeoJSON objects through Python or command line</td>
+        <tr>
+                <td>
+                    <a href="https://github.com/yazeed44/MultiImagePicker">MultiImagePicker</a>
+                </td>
+                <td> A library to pick multi images in Android</td>
+        </tr>
+        <tr>
+                <td>
+                    <a href="https://github.com/yazeed44/social-media-detector-api">social-media-detector-api</a>
+                </td>
+                <td>This api would allow you to check if a phone number has a certain social media app</td>
+        </tr>
+         <tr>
+                <td>
+                    <a href="https://github.com/yazeed44/pptxer">pptxer</a>
+                </td>
+                <td>This project is made to make it as easy as possible to scrape presentations (pptx files) from the internet and extract their text (body and notes). It can be used in Python or command line</td>
+        </tr>
+       </tr>
    </table>
     <h1>
     كيف أضيف مشروعي ؟
