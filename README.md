@@ -1021,6 +1021,13 @@
                 <td>sends automated whatsapp messages</td>
                 </tr>
         </tr>
+        <tr>
+                <td rowspan="1"><a href="https://github.com/moayadalsariya">مؤيد السريع</a></td>
+                <td>
+                    <a href="https://github.com/moayadalsariya/file_organizer">file-organizer</a>
+                </td>
+                <td>command line tool help you to organise your files based on type of files</td>
+        <tr>
          <tr>
             <td rowspan="9">
                 <a href="https://github.com/DevMoath">معاذ الهاجري</a>
