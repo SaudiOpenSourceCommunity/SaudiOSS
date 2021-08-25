@@ -989,14 +989,14 @@
                 <td>This dataset is a collection of files related to Saudi Arabia's districts. The data were collected manually from This data includes general information about                   districts of the Kingdom of Saudi Arabia, such as the number of residents, the proportion of Saudis and foreigners, the distribution of males and females, in                     addition to the average income. Data were collected manually from Nine Tenths.</td>
         </tr>
         <tr>
-                <td rowspan="2"><a href="https://github.com/fariscode511">فارس العتيبي</a></td>
+                <td rowspan="2"><a href="https://github.com/farisd3v">فارس العتيبي</a></td>
                 <td>
-                    <a href="https://github.com/fariscode511/PhpSanitization">PhpSanitization</a>
+                    <a href="https://github.com/farisd3v/PhpSanitization">PhpSanitization</a>
                 </td>
                 <td>Simple PHP Sanitization Class, This is a simple class that can verify and clean values to assure they are valid. It can take a given string and remove or encode certain types of text values, so it can be displayed in Web pages lowering the risk of being used to perform security attacks. The class can also sanitize arrays of data by processing the array values one by one.</td>
                 <tr>
                     <td>
-                        <a href="https://github.com/fariscode511/Uploady">Uploady</a>
+                        <a href="https://github.com/farisd3v/Uploady">Uploady</a>
                     </td>
                     <td>Uploady is a Simple File Uploader Script with Multi File Upload Support, It comes with more than 20 features and you can set up it in less than 5 minutes.</td>
                 </tr>
