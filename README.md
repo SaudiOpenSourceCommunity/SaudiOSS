@@ -1128,6 +1128,14 @@
                 <td>This project is made to make it as easy as possible to scrape presentations (pptx files) from the internet and extract their text (body and notes). It can be used in Python or command line</td>
         </tr>
        </tr>
+       <tr>
+                <td rowspan="1"><a href="https://github.com/SaudRD">سعود المطيري</a></td>
+                <td>
+                    <a href="https://github.com/SaudRD/JobsEmailSenderr">Jobs Email Sender</a>
+                </td>
+                <td>A twitter bot who check if there any IT jobs from a particular user and send you an Email of the job.
+                </td>
+        </tr>
    </table>
     <h1>
     كيف أضيف مشروعي ؟
