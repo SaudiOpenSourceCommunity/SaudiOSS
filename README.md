@@ -1131,7 +1131,7 @@
        <tr>
                 <td rowspan="1"><a href="https://github.com/SaudRD">سعود المطيري</a></td>
                 <td>
-                    <a href="https://github.com/SaudRD/JobsEmailSenderr">Jobs Email Sender</a>
+                    <a href="https://github.com/SaudRD/JobsEmailSender">Jobs Email Sender</a>
                 </td>
                 <td>A twitter bot who check if there any IT jobs from a particular user and send you an Email of the job.
                 </td>
