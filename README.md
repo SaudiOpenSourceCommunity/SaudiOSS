@@ -1029,13 +1029,19 @@
                 <td>command line tool help you to organise your files based on type of files</td>
         </tr>
          <tr>
-            <td rowspan="9">
+            <td rowspan="10">
                 <a href="https://github.com/DevMoath">معاذ الهاجري</a>
             </td>
             <td>
                 <a href="https://github.com/DevMoath/infosystems.blog">infosystems.blog</a>
             </td>
             <td>مدونة لطلاب تخصص نظم المعلومات جامعة الملك سعود تركز على شرح الخطة الدراسية وتجميع موارد المواد</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DevMoath/jql-builder">jql-builder</a>
+            </td>
+            <td>Simple JQL builder for Jira search</td>
         </tr>
         <tr>
             <td>
