@@ -1150,10 +1150,10 @@
         لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح:
         <ul>
             <li>
-                <a href="https://github.com/Alaboudi1/SaudiOSS/issues">Issue</a>
+                <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/issues/new">Issue</a>
             </li>
             <li>
-                <a href="https://github.com/Alaboudi1/SaudiOSS/edit/master/README.md">Fork</a>
+                <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/edit/master/README.md">Fork</a>
             </li>
         </ul>
     </p>
