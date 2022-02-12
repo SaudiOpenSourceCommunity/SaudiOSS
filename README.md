@@ -1142,6 +1142,11 @@
                 <td>A twitter bot who check if there any IT jobs from a particular user and send you an Email of the job.
                 </td>
         </tr>
+        <tr>
+              <td rowspan="1"><a href="https://github.com/ahmedelq/">احمد</a></td>
+              <td><a href="https://github.com/ahmedelq/nattynote">NattyNote</a></td>
+              <td>NattyNote: A browser extension to take time-stamped YouTube notes.</td>
+        </tr>
    </table>
     <h1>
     كيف أضيف مشروعي ؟
