@@ -21,7 +21,7 @@
       <td>Description</td>
   </tr> -->
         <tr>
-        <td rowspan="4">
+            <td rowspan="4">
                 <a href="https://github.com/ajhamdi">عبدالله حمدي</a>
             </td>
             <td>
@@ -42,7 +42,7 @@
             <td>A collection of tutorials on Pytorch for 3D applications </td>
         </tr>
         <tr>
-        <td>
+            <td>
                 <a href="https://github.com/ajhamdi/MVTN">MVTN</a>
             </td>
             <td>Pytorch model for deep learning classification and retrieval on 3D objects </td>
@@ -260,21 +260,21 @@
             </td>
             <td>Iban Validator (Swift, Kotlin, Java)</td>
         </tr>
-         <tr>
+        <tr>
             <td>
                 <a href="https://github.com/alhazmy13/aws-serverless-skeleton"> aws-serverless-skeleton </a>
             </td>
             <td>A Serverless skeleton project using Python </td>
         </tr>
-             <tr>
+        <tr>
             <td>
-                <a href=""https://github.com/alhazmy13/Saudi-ID-Validator"> Saudi-ID-Validator </a>
+                <a href="https://github.com/alhazmy13/Saudi-ID-Validator"> Saudi-ID-Validator </a>
             </td>
             <td>Saudi-ID-Validator (Swift, Kotlin, Java, Go, JS, Python, TypeScript, PHP, Scala, ruby, c#, vb, SQL)</td>
         </tr>
-             <tr>
+        <tr>
             <td>
-                <a href=""https://github.com/alhazmy13/angular-csv-ext"> angular-csv-ext </a>
+                <a href="https://github.com/alhazmy13/angular-csv-ext"> angular-csv-ext </a>
             </td>
             <td>Helper library for create CSV file in Angular</td>
         </tr>
@@ -299,7 +299,7 @@
             </td>
             <td>تطبيق iOS يساعد خريجين الثانوية باختيار تخصصهم الجامعي والتعرف على الجامعات ومعدلات القبول وحساب النسبة الموزونة</td>
         </tr>
-      <tr>
+        <tr>
             <td>
                 <a href="https://github.com/cs4alhaider/Hackthon">Hajj-Hackthon</a>
             </td>
@@ -323,49 +323,49 @@
             </td>
             <td>تطبيق iOS يأخذ ملفين نصيين ويقوم بالبحث عن الكلمات المتطابقة بين الملفين وعددها ثم يقوم باصدار ملف جديد ويمكن ارسالة بالبريد الالكتروني</td>
         </tr>
-      <tr>
+        <tr>
             <td>
                 <a href="https://github.com/cs4alhaider/HappyEid">HappyEid</a>
             </td>
             <td>تطبيق iOS يقوم بعمل انيميشن للتهنئة بالعيد</td>
         </tr>
-      <tr>
+        <tr>
             <td>
                 <a href="https://github.com/cs4alhaider/DateDifference">DateDifference</a>
             </td>
             <td>C++ حساب الفرق بين تاريخين</td>
         </tr>
-      <tr>
+        <tr>
             <td>
                 <a href="https://github.com/cs4alhaider/VideoPlayerObjc">VideoPlayerObjc</a>
             </td>
             <td>مشغل فيديو بلغة Objective-C</td>
         </tr>
-      <tr>
+        <tr>
             <td>
                 <a href="https://github.com/cs4alhaider/VideoPlayerSwift">VideoPlayerSwift</a>
             </td>
             <td>مشغل فيديو بلغة Swift</td>
         </tr>
-      <tr>
+        <tr>
             <td>
                 <a href="https://github.com/cs4alhaider/SwiftProject">SwiftProject</a>
             </td>
             <td>تجهيز لأي مشروع، ايضاً اقوم بمشاركة اي فكرة مع اي مطور اخر عن طريق هذا المشروع</td>
         </tr>
-      <tr>
+        <tr>
             <td>
                 <a href="https://github.com/cs4alhaider/Flash-Chat">Flash-Chat</a>
             </td>
             <td>iOS app using real-time chatting via Firebase</td>
         </tr>
-      <tr>
+        <tr>
             <td>
                 <a href="https://github.com/cs4alhaider/CustomAD">CustomAD</a>
             </td>
             <td>Show a custom ad inside your app</td>
         </tr>
-                <tr>
+        <tr>
             <td rowspan="1">
                 <a href="https://github.com/ahmads">أحمد الشمري </a>
             </td>
@@ -517,7 +517,7 @@
         </tr>
         <tr>
             <td rowspan="1">
-               خلود الغامدي
+                خلود الغامدي
             </td>
             <td>
                 <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
@@ -526,7 +526,7 @@
         </tr>
         <tr>
             <td rowspan="1">
-               روان المعثم
+                روان المعثم
             </td>
             <td>
                 <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
@@ -544,7 +544,7 @@
         </tr>
         <tr>
             <td rowspan="1">
-               إيمان النخيلان
+                إيمان النخيلان
             </td>
             <td>
                 <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
@@ -574,592 +574,587 @@
                 </td>
                 <td>Decentralized Medical Supply Chain (DApp) built on Ethereum blockchain</td>
             </tr>
-        </tr>
-        <tr>
-            <td rowspan="1">
-                <a href="https://github.com/a-alhm">أنس الحمود</a>
-            </td>
-            <td>
-                <a href="https://github.com/a-alhm/Quran-Reading-Plan">quran-project</a>
-            </td>
-            <td>Quran Reading Plan is PWA (Progressive Web App) which can help you plan for your reading and get the most out of your time</td>
-        </tr>
-        <tr>
-            <td rowspan="1">
-                <a href="https://github.com/alfuhigi">عبدالعزيز الفهيقي</a>
-            </td>
-            <td>
-                <a href="https://github.com/alfuhigi/medicines-expired-date">medicines-expired-date</a>
-            </td>
-            <td>انتهاء تواريخ الادوية</td>
-        </tr>
-        <tr>
-            <td rowspan="3">
-                <a href="https://github.com/nashamri">ناصر الشمري</a>
-            </td>
-            <td>
-                <a href="https://github.com/openshs/openshs">OpenSHS</a>
-            </td>
-            <td>Open Smart Home Simulator</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/nashamri/spacemacs-theme">spacemacs-theme</a>
-            </td>
-            <td>Light and dark theme for spacemacs that supports GUI and terminal</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/nashamri/academic-phrases">academic-phrases</a>
-            </td>
-            <td>Bypass that mental block when writing your papers</td>
-        </tr>
-        <tr>
-            <td rowspan="1">
-                <a href="https://github.com/HamoudAQ">حمود القصير </a>
-            </td>
-            <td>
-                <a href="https://github.com/HamoudAQ/QattaBot">QattaBot</a>
-            </td>
-            <td>بوت تيليجرام لحساب القطّات</td>
-        </tr>
-        <tr>
-            <td rowspan="1">
-                <a href="https://github.com/bosaleh">أبو صالح </a>
-            </td>
-            <td>
-                <a href="https://github.com/bosaleh/ar-en-replace">ar-en replacement script</a>
-            </td>
-            <td>A script that changes arabic text to english text and vice-versa then switches to the language you meant to write in</td>
-        </tr>
-        <tr>
-            <td rowspan="3">
-                <a href="https://github.com/top7up">عبدالعزيز العريج</a>
-            </td>
-            <td>
-                <a href="https://github.com/top7up/ID">Saudi ID Validator</a>
-            </td>
-            <td>التحقق من الهوية السعودية</td>
             <tr>
-                <td>
-                    <a href="https://github.com/top7up/Hijri">Um AlQura Hijri Calendar</a>
+                <td rowspan="1">
+                    <a href="https://github.com/a-alhm">أنس الحمود</a>
                 </td>
-                <td>تقويم أم القرى</td>
+                <td>
+                    <a href="https://github.com/a-alhm/Quran-Reading-Plan">quran-project</a>
+                </td>
+                <td>Quran Reading Plan is PWA (Progressive Web App) which can help you plan for your reading and get the most out of your time</td>
+            </tr>
+            <tr>
+                <td rowspan="1">
+                    <a href="https://github.com/alfuhigi">عبدالعزيز الفهيقي</a>
+                </td>
+                <td>
+                    <a href="https://github.com/alfuhigi/medicines-expired-date">medicines-expired-date</a>
+                </td>
+                <td>انتهاء تواريخ الادوية</td>
+            </tr>
+            <tr>
+                <td rowspan="3">
+                    <a href="https://github.com/nashamri">ناصر الشمري</a>
+                </td>
+                <td>
+                    <a href="https://github.com/openshs/openshs">OpenSHS</a>
+                </td>
+                <td>Open Smart Home Simulator</td>
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/top7up/FTP">PHP FTP Client</a>
+                    <a href="https://github.com/nashamri/spacemacs-theme">spacemacs-theme</a>
                 </td>
-                <td>عميل FTP متكامل</td>
+                <td>Light and dark theme for spacemacs that supports GUI and terminal</td>
             </tr>
-        </tr>
-        <tr>
-            <td rowspan="2">
-                <a href="https://github.com/Faares">فارس البلادي</a>
-            </td>
-            <td>
-                <a href="https://github.com/Faares/Mowajjeh">Mowajjeh</a>
-            </td>
-            <td>Light PHP Router</td>
             <tr>
                 <td>
-                    <a href="https://github.com/Faares/Mokawleb">Mokawleb</a>
+                    <a href="https://github.com/nashamri/academic-phrases">academic-phrases</a>
                 </td>
-                <td>JS/Nodejs Template Engine</td>
+                <td>Bypass that mental block when writing your papers</td>
             </tr>
-        </tr>
-        <tr>
-                <td rowspan="4">
-                    <a href="https://github.com/MoAlyousef">محمد اليوسف</a>
-                </td>
-                <td>
-                    <a href="https://github.com/MoAlyousef/vcbld">vcbld</a>
-                </td>
-                <td>تطبيق لبناء برامج c++ باستخدام vcpkg</td>
             <tr>
-                <td>
-                     <a href="https://github.com/MoAlyousef/Stereotaxis">Stereotaxis</a>
+                <td rowspan="1">
+                    <a href="https://github.com/HamoudAQ">حمود القصير </a>
                 </td>
-              <td>تطبيق جراحي للآيفون والأندرويد لحساب الإحداثيات اللازمة للخزعات الدماغية</td>
+                <td>
+                    <a href="https://github.com/HamoudAQ/QattaBot">QattaBot</a>
+                </td>
+                <td>بوت تيليجرام لحساب القطّات</td>
             </tr>
-        <tr>
-              <td>
-                     <a href="https://github.com/MoAlyousef/Results">Results</a>
-              </td>
-              <td>مكتبة للتعامل مع الأخطاء والحالات الاستثنائية في لغة C++</td>
-               </tr>
-               <tr>
-              <td>
-                     <a href="https://github.com/MoAlyousef/vcpkg_wasm">vcpkg_wasm</a>
-              </td>
-              <td>أداة لربط مكتبات C++ بتطبيقات الشبكة العنكبوتية</td>
-               </tr>
-        </tr>
-        <tr>
-              <td rowspan="1"><a href="https://github.com/f22hd">فهد اللبدي</a></td>
-              <td><a href="https://github.com/f22hd/CreditCardValidator">CreditCardValidator</a></td>
-              <td>سكربت للتحقق من صحة بطاقة الكريديت كارد بلغة typescript</td>
-        </tr>
-        <tr>
-                <td rowspan="2">
-                    <a href="https://github.com/ahmedoid">أحمد الجعيد</a>
-                </td>
-                <td>
-                    <a href="https://pub.dartlang.org/packages/hijri">hijri</a>
-                </td>
-                <td>Umm Alqura Hijri Calendar Converter in Dart language</td>
-                <tr>
-                    <td>
-                        <a href="https://pub.dartlang.org/packages/hijri_picker">hijri_picker</a>
-                    </td>
-                    <td>Hijri date picker in Dart language</td>
-                </tr>
-        </tr>
-        <tr>
-                <td rowspan="20"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
-                <td>
-                    <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
-                </td>
-                <td>Laravel package to manage cPanel email accounts.</td>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/saudiaddress">saudiaddress</a>
-                    </td>
-                    <td>PHP Laravel wrapper for the Saudi National Address APIs. you can get a list of all regions, cities and districts. Also geocode and address verification.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/mailchimp">mailchimp</a>
-                    </td>
-                    <td>A Nova Laravel tool that integrates with MailChimp to manage mail list subscribers and send mail newsletters.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-mysql">nova-mysql</a>
-                    </td>
-                    <td>A Nova Laravel MySQL Server Managment</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/worldclock">worldclock</a>
-                    </td>
-                    <td>A Laravel Nova card to display world clocks</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-cpanel-mail">nova-cpanel-mail</a>
-                    </td>
-                    <td>A Laravel Nova tool that integrates with Cpanel Mail to manage Email Addresses</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/soundcloud">soundcloud</a>
-                    </td>
-                    <td>A Laravel Nova field to play a SoundCloud audio</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-map-address">nova-map-address</a>
-                    </td>
-                    <td>A Nova field to place a marker on the map to get coordinates then it reverses geocoding the coordinates to get a street address</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-address-autocomplete">nova-address-autocomplete</a>
-                    </td>
-                    <td>Nova address field that autocompletes the user input to show suggested addresses using Google Place service.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-random-password-generation">nova-random-password-generation</a>
-                    </td>
-                    <td>A Laravel Nova password field with generating random password option</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-text-field-with-icon">nova-text-field-with-icon</a>
-                    </td>
-                    <td>A Laravel Nova text field with a custom icon</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-paypal">nova-paypal</a>
-                    </td>
-                    <td>A Laravel Nova card to display PayPal current balance and latest transactions.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-saudi-id-number-validation">nova-saudi-id-number-validation</a>
-                    </td>
-                    <td>Saudi national ID number validation field for Laravel Nova, just for the frontend it will not prevent from submitting the form.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-twitter-timeline">nova-twitter-timeline</a>
-                    </td>
-                    <td>Nova card that displays the latest user timeline and mentions tweets</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/toggle-switch">toggle-switch</a>
-                    </td>
-                    <td>A Laravel Nova toggle switch field</td>
-                </tr>
-                 <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/Nova-Login-Monitor">Monitor Nova Login</a>
-                    </td>
-                    <td>Monitor Nova Login via Slack notifications, Receive a notification every time someone's login to your system.</td>
-                </tr>
-                 <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/laravel-paypal">Laravel PayPal</a>
-                    </td>
-                    <td>To communicate with PayPal API to get current balance and transactions.</td>
-                </tr>
-                 <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-sms">Laravel Nova SMS</a>
-                    </td>
-                    <td>A Laravel Nova SMS Tool to send SMS messages via the most popular providers.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/nova-push-notifications">Laravel Nova Push Notifications</a>
-                    </td>
-                    <td>A Laravel Nova tool to send push notifications.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/naifalshaye/twitterbot">Twitter Bot</a>
-                    </td>
-                    <td>An open source Laravel application for Twitter data automations and archiving.</td>
-                </tr>
-        </tr>
-        <tr>
-                <td rowspan="2"><a href="https://github.com/balbarak">بدر البراك</a></td>
-                <td>
-                    <a href="https://github.com/balbarak/WeasyPrint-netcore">WeasyPrint-netcore</a>
-                </td>
-                <td>مكتبة دوت نت لتحويل ملفات html الى pdf </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/balbarak/bootstrap-hijri-datepicker">bootstrap-hijri-datepicker</a>
-            </td>
-            <td>Bootstrap 4 Hijri Date picker</td>
-        </tr>
-         <tr>
-            <td rowspan="4">
-                <a href="https://github.com/salsowelim">سليمان السويلم</a>
-            </td>
-            <td>
-                <a href="https://github.com/salsowelim/tawseem">توسيم</a>
-            </td>
-            <td> منصة تعهيد جماعي لمعالجة اللغات الطبيعية NLP crowdsourcing platform</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/salsowelim/dejavu_cpp_port">dejavu c++ port</a>
-            </td>
-            <td>c++ implementation of the algorithm suggested in dejavu audio fingerprinting project</td>
-        </tr>
-         <tr>
-            <td>
-                <a href="https://github.com/salsowelim/tadween">تدوين</a>
-            </td>
-            <td> منصة مبسطة لنشر التدوينات. تدعم العربية بشكل كامل، وتستخدم محرر نصوص حديث</td>
-        </tr>
-          <tr>
-            <td>
-                <a href="https://github.com/salsowelim/odoo_hijri_datepicker">Odoo hijri datepicker</a>
-            </td>
-            <td>التقويم الهجري لنظام أودو نسخة ١١ hijri datepicker for odoo ERP v11</td>
-        </tr>
-                <tr>
-                <td rowspan="3"><a href="https://github.com/lamoboos223">لمى العصيمي</a></td>
-                <td>
-                    <a href="https://github.com/lamoboos223/web_scraping">Python - web scraping</a>
-                </td>
-                <td>This is a very basic web scraping app that will send email when episode of your show is out.</td>
-                <tr>
-                    <td>
-                        <a href="https://github.com/lamoboos223/facial-landmarks">Python - facial landmarks</a>
-                    </td>
-                    <td>This code is just a refernce for my personal further projects. all credits goes to pyimagesearch blog for the wonderful lesson.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/lamoboos223/whatsapp-direct-chat">Vue js - whatsapp direct char</a>
-                    </td>
-                    <td>A web app to directly chat with someone om whatsapp without saving their numbers</td>
-                </tr>
-        </tr>
-                <tr>
-                <td rowspan="5"><a href="https://github.com/usernane">إبراهيم الإبن الشيخ</a></td>
-                <td>
-                    <a href="https://github.com/usernane/webfiori">WebFiori Framework</a>
-                </td>
-                <td>إطار برمجة متكامل بالإمكان إستخدامه في تطوير تطبيقات الشبكة و المواقع الإلكترونية.</td>
-                <tr>
-                    <td>
-                        <a href="https://github.com/usernane/phMysql">phMySql</a>
-                    </td>
-                    <td>مكتبة تساعد على إنشاء MySQL Queries بشكل سهل و مبسط بإستخدام لغة PHP.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/usernane/jsonx">JsonX</a>
-                    </td>
-                    <td>مكتبة تساعد على إنشاء سلاسل Json النصية في لغة PHP.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/usernane/phpStructs">phpStructs</a>
-                    </td>
-                    <td>مكتبة تحوي على هياكل البيانات الأساسية مثل Linked List و Stack. بالإضافة, بالإمكان إستخدامها لإنشاء DOM الخاص بصفحات المواقع الإلكترونية.</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/usernane/restEasy">restEasy</a>
-                    </td>
-                    <td>مكتبة تساعد على تطوير REST APIs بإستخدام لغة PHP.</td>
-                </tr>
-        </tr>
-        <tr>
-            <td rowspan="2">
-                <a href="https://github.com/usefksa">يوسف الرشيدي
-            </td>
-            <td>
-                <a href="https://github.com/usefksa/Saudi_GIS_Data">Saudi_GIS_Data</a>
-            </td>
-            <td>قائمة باسماء المدن و الاحياء السعودية مع معلومات حدود الاحياء الجغرافية.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/usefksa/engAraDictionaryFrom_ArabEyes">engAraDictionaryFrom_ArabEyes</a>
-            </td>
-    <td>قاعدة بيانات SQL للقاموس الانجليزي العربي المقدم من مجموعة عيون عربية.</td>
-        </tr>
             <tr>
-                    <td rowspan="1">
-                        <a href="https://github.com/nuhamozaini">نُهى المزيني</a>
-                    </td>
-                    <td>
-                         <a href="https://github.com/nuhamozaini/Manateq">مناطق | Manateq</a>
-                    </td>
-                    <td>
-                         A Ruby gem to facilitate working with regions, cities and districts in Saudi Arabia
-                    </td>
-                </tr>
-        <tr>
-            <td rowspan="2">
-                <a href="https://github.com/mohammedhalosaimi">محمد العصيمي
-            </td>
-            <td>
-                <a href="https://github.com/mohammedhalosaimi/IoT-Application-Building-a-Smart-Library">IoT Smart Library Application</a>
-            </td>
-            <td>مكتبة ذكية تمكنك من تسجيل دخول واستعارة كتب. مزايا: استخدام الوجه لتسجيل الدخول, اضافة موعد ارجاع الكتب لـ Google Calendar, استخدام الصوت في طلب الكتب.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/mohammedhalosaimi/Riyadh-Coffee-Shops-Web-Scraping">Riyadh Coffee Shops Web Scraping</a>
-            </td>
-    <td>Riyadh Coffee shops Data obtained by a web scrapping.</td>
-        </tr>
-        <tr>
-                <td rowspan="1"><a href="https://github.com/ali-alharthi">علي الحارثي</a></td>
-                <td>
-                    <a href="https://github.com/ali-alharthi/SaudiAddress">SaudiAddress</a>
+                <td rowspan="1">
+                    <a href="https://github.com/bosaleh">أبو صالح </a>
                 </td>
-                <td>SaudiAddress is a PHP package/library built to consume the Saudi National Address API (<a href="https://api.address.gov.sa">api.address.gov.sa</a>). It makes it simple to use most of what the API has to offer.  You can for example retrieve regions, cities, districts, services and addresses from geo coordinates, verify an address and more!</td>
-        </tr>
-        <tr>
-                <td rowspan="1"><a href="https://github.com/yosif111">يوسف الخليفة</a></td>
                 <td>
-                    <a href="https://github.com/yosif111/saudi-iban-validator">Saudi IBAN Validator</a>
+                    <a href="https://github.com/bosaleh/ar-en-replace">ar-en replacement script</a>
                 </td>
-                <td>Saudi IBAN validator is a small javascript file to validate Saudi IBANs</td>
-        </tr>
-           <tr>
-                <td rowspan="1"><a href="https://github.com/alioh">علي العوهلي</a></td>
+                <td>A script that changes arabic text to english text and vice-versa then switches to the language you meant to write in</td>
+            </tr>
+            <tr>
+                <td rowspan="3">
+                    <a href="https://github.com/top7up">عبدالعزيز العريج</a>
+                </td>
                 <td>
-                    <a href="https://github.com/alioh/Saudi-Districts-Dataset">Saudi Arabia Districts Dataset</a>
+                    <a href="https://github.com/top7up/ID">Saudi ID Validator</a>
                 </td>
-                <td>This dataset is a collection of files related to Saudi Arabia's districts. The data were collected manually from This data includes general information about                   districts of the Kingdom of Saudi Arabia, such as the number of residents, the proportion of Saudis and foreigners, the distribution of males and females, in                     addition to the average income. Data were collected manually from Nine Tenths.</td>
-        </tr>
-        <tr>
-                <td rowspan="2"><a href="https://github.com/farisd3v">فارس العتيبي</a></td>
-                <td>
-                    <a href="https://github.com/farisd3v/PhpSanitization">PhpSanitization</a>
-                </td>
-                <td>Simple PHP Sanitization Class, This is a simple class that can verify and clean values to assure they are valid. It can take a given string and remove or encode certain types of text values, so it can be displayed in Web pages lowering the risk of being used to perform security attacks. The class can also sanitize arrays of data by processing the array values one by one.</td>
+                <td>التحقق من الهوية السعودية</td>
                 <tr>
                     <td>
-                        <a href="https://github.com/farisd3v/Uploady">Uploady</a>
+                        <a href="https://github.com/top7up/Hijri">Um AlQura Hijri Calendar</a>
                     </td>
-                    <td>Uploady is a Simple File Uploader Script with Multi File Upload Support, It comes with more than 20 features and you can set up it in less than 5 minutes.</td>
+                    <td>تقويم أم القرى</td>
                 </tr>
-        </tr>
-        <tr>
-                <td rowspan="1"><a href="https://github.com/Nawaf-Almansour">نواف المنصور</a></td>
-                <td>
-                    <a href="https://github.com/Nawaf-Almansour/country-nationality-list-Arabic">List of nationalities and countries in Arabic</a>
-                </td>
-                <td>A list of countries includes information from more than 240 countries around the world in the Arabic language, which helps in knowing information and helps the user in writing his data. The data you will find in the file (dial code, country name, nationality name, code)</td>
+                <tr>
+                    <td>
+                        <a href="https://github.com/top7up/FTP">PHP FTP Client</a>
+                    </td>
+                    <td>عميل FTP متكامل</td>
                 </tr>
-        <tr>
-                <td rowspan="2"><a href="https://github.com/AzizAk">عبدالعزيز الخراشي</a></td>
-                <td>
-                    <a href="https://github.com/AzizAK/react-native-detector">react-native-detector</a>
-                </td>
-                <td>screenshots detector for react native</td>
-        <tr>
-                <td>
-                    <a href="https://github.com/AzizAK/whatsapp-bot">whatsapp-bot</a>
-                </td>
-                <td>sends automated whatsapp messages</td>
-                </tr>
-        </tr>
-        <tr>
-                <td rowspan="1"><a href="https://github.com/moayadalsariya">مؤيد السريع</a></td>
-                <td>
-                    <a href="https://github.com/moayadalsariya/file_organizer">file-organizer</a>
-                </td>
-                <td>command line tool help you to organise your files based on type of files</td>
-        </tr>
-         <tr>
-            <td rowspan="10">
-                <a href="https://github.com/DevMoath">معاذ الهاجري</a>
-            </td>
-            <td>
-                <a href="https://github.com/DevMoath/infosystems.blog">infosystems.blog</a>
-            </td>
-            <td>مدونة لطلاب تخصص نظم المعلومات جامعة الملك سعود تركز على شرح الخطة الدراسية وتجميع موارد المواد</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DevMoath/jql-builder">jql-builder</a>
-            </td>
-            <td>Simple JQL builder for Jira search</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DevMoath/tailwindcss-typography-rtl">tailwindcss-typography-rtl</a>
-            </td>
-            <td>Add RTL support for tailwindcss-typography plugin</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DevMoath/tailwindcss-capitalize-first">tailwindcss-capitalize-first</a>
-            </td>
-            <td>Add utility class to capitalize first letter of a paragraph.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DevMoath/copy-text">copy-text</a>
-            </td>
-            <td>Copy text to user clipboard.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DevMoath/pass">pass</a>
-            </td>
-            <td>Node.js cli to generate passwords.</td>
-        </tr>
-         <tr>
-            <td>
-                <a href="https://github.com/DevMoath/ar-num-to-en-num">ar-num-to-en-num</a>
-            </td>
-            <td>Convert Arabic numbers to English numbers.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DevMoath/hide-twitter-trends">hide-twitter-trends</a>
-            </td>
-            <td>Hide Twitter (Trending now, Who to follow, Topics to follow) taps.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DevMoath/online-jwt-builder">online-jwt-builder</a>
-            </td>
-            <td>Web page used to generate fake, but valid, JSON Web Tokens.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DevMoath/password-generator-app">password-generator-app</a>
-            </td>
-            <td>Password generator app to give you strong password.</td>
-        <tr>
-                <td rowspan="1"><a href="https://github.com/MohaTech10">محمد الغموي</a></td>
-                <td>
-                    <a href="https://github.com/MohaTech10/UQUCompiler">Typed Programming Language</a>
-                </td>
-                <td>A compiler written in Java targeting MIPS-32bit architecture</td>
-        </tr>
-        <tr>
-                <td rowspan="2"><a href="https://github.com/Mzaien">عبدالله مزين</a></td>
-                <td>
-                    <a href="https://github.com/Mzaien/Next-libs">Next.js Packge template</a>
-                </td>
-                <td>A package template to make new Next.js libraries</td>
-        <tr>
-                <td>
-                    <a href="https://github.com/Mzaien/Next-redirects">Next.js client side Redirect library</a>
-                </td>
-                <td>Next.js library that redirect pages depending on a condition you provide</td>
-        </tr>
-        <tr>
-                <td rowspan="4"><a href="https://github.com/yazeed44">يزيد المقوشي</a></td>
-                <td>
-                    <a href="https://github.com/yazeed44/gjf">Fix invalid GeoJSON objects</a>
-                </td>
-                <td>A tool to fix invalid GeoJSON objects through Python or command line</td>
-        <tr>
-                <td>
-                    <a href="https://github.com/yazeed44/MultiImagePicker">MultiImagePicker</a>
-                </td>
-                <td> A library to pick multi images in Android</td>
-        </tr>
-        <tr>
-                <td>
-                    <a href="https://github.com/yazeed44/social-media-detector-api">social-media-detector-api</a>
-                </td>
-                <td>This api would allow you to check if a phone number has a certain social media app</td>
-        </tr>
-         <tr>
-                <td>
-                    <a href="https://github.com/yazeed44/pptxer">pptxer</a>
-                </td>
-                <td>This project is made to make it as easy as possible to scrape presentations (pptx files) from the internet and extract their text (body and notes). It can be used in Python or command line</td>
-        </tr>
-       </tr>
-       <tr>
-                <td rowspan="1"><a href="https://github.com/SaudRD">سعود المطيري</a></td>
-                <td>
-                    <a href="https://github.com/SaudRD/JobsEmailSender">Jobs Email Sender</a>
-                </td>
-                <td>A twitter bot who check if there any IT jobs from a particular user and send you an Email of the job.
-                </td>
-        </tr>
-        <tr>
-              <td rowspan="1"><a href="https://github.com/ahmedelq/">احمد</a></td>
-              <td><a href="https://github.com/ahmedelq/nattynote">NattyNote</a></td>
-              <td>NattyNote: A browser extension to take time-stamped YouTube notes.</td>
-        </tr>
-   </table>
-    <h1>
-    كيف أضيف مشروعي ؟
-  </h1>
-    <p>
-        لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح:
-        <ul>
-            <li>
-                <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/issues/new">Issue</a>
-            </li>
-            <li>
-                <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/edit/master/README.md">Fork</a>
-            </li>
-        </ul>
-    </p>
+                <tr>
+                    <td rowspan="2">
+                        <a href="https://github.com/Faares">فارس البلادي</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/Faares/Mowajjeh">Mowajjeh</a>
+                    </td>
+                    <td>Light PHP Router</td>
+                    <tr>
+                        <td>
+                            <a href="https://github.com/Faares/Mokawleb">Mokawleb</a>
+                        </td>
+                        <td>JS/Nodejs Template Engine</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="4">
+                            <a href="https://github.com/MoAlyousef">محمد اليوسف</a>
+                        </td>
+                        <td>
+                            <a href="https://github.com/MoAlyousef/vcbld">vcbld</a>
+                        </td>
+                        <td>تطبيق لبناء برامج c++ باستخدام vcpkg</td>
+                        <tr>
+                            <td>
+                                <a href="https://github.com/MoAlyousef/Stereotaxis">Stereotaxis</a>
+                            </td>
+                            <td>تطبيق جراحي للآيفون والأندرويد لحساب الإحداثيات اللازمة للخزعات الدماغية</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://github.com/MoAlyousef/Results">Results</a>
+                            </td>
+                            <td>مكتبة للتعامل مع الأخطاء والحالات الاستثنائية في لغة C++</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://github.com/MoAlyousef/vcpkg_wasm">vcpkg_wasm</a>
+                            </td>
+                            <td>أداة لربط مكتبات C++ بتطبيقات الشبكة العنكبوتية</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="4">
+                                <a href="https://github.com/f22hd">فهد اللبدي</a>
+                            </td>
+                            <td>
+                                <a href="https://github.com/f22hd/CreditCardValidator">CreditCardValidator</a>
+                            </td>
+                            <td>سكربت للتحقق من صحة بطاقة الكريديت كارد بلغة typescript</td>
+            <tr><td> <a href="https://github.com/f22hd/netlify-plugin-nx-skip-build">netlify-plugin-nx-skip-build</a></td><td>A netlify plugin that skipping not affected apps in your nx workspace</td></tr>
+            
+   <tr><td> <a href="https://github.com/f22hd/ng-nocopy">ng-nocopy</a></td><td>A directive that prevents a user from copying a specific element content</td></tr>
+            
+   <tr><td> <a href="https://github.com/f22hd/ng-lazy-img">ng-lazy-img</a></td><td>An angular directive that using to load images lazily</td></tr>                        </tr>
+                        <tr>
+                            <td rowspan="2">
+                                <a href="https://github.com/ahmedoid">أحمد الجعيد</a>
+                            </td>
+                            <td>
+                                <a href="https://pub.dartlang.org/packages/hijri">hijri</a>
+                            </td>
+                            <td>Umm Alqura Hijri Calendar Converter in Dart language</td>
+                            <tr>
+                                <td>
+                                    <a href="https://pub.dartlang.org/packages/hijri_picker">hijri_picker</a>
+                                </td>
+                                <td>Hijri date picker in Dart language</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="20"><a href="https://github.com/naifalshaye">نايف الشايع</a></td>
+                                <td>
+                                    <a href="https://github.com/naifalshaye/php-cpanel-email">php-cpanel-email</a>
+                                </td>
+                                <td>Laravel package to manage cPanel email accounts.</td>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/saudiaddress">saudiaddress</a>
+                                    </td>
+                                    <td>PHP Laravel wrapper for the Saudi National Address APIs. you can get a list of all regions, cities and districts. Also geocode and address verification.</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/mailchimp">mailchimp</a>
+                                    </td>
+                                    <td>A Nova Laravel tool that integrates with MailChimp to manage mail list subscribers and send mail newsletters.</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-mysql">nova-mysql</a>
+                                    </td>
+                                    <td>A Nova Laravel MySQL Server Managment</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/worldclock">worldclock</a>
+                                    </td>
+                                    <td>A Laravel Nova card to display world clocks</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-cpanel-mail">nova-cpanel-mail</a>
+                                    </td>
+                                    <td>A Laravel Nova tool that integrates with Cpanel Mail to manage Email Addresses</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/soundcloud">soundcloud</a>
+                                    </td>
+                                    <td>A Laravel Nova field to play a SoundCloud audio</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-map-address">nova-map-address</a>
+                                    </td>
+                                    <td>A Nova field to place a marker on the map to get coordinates then it reverses geocoding the coordinates to get a street address</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-address-autocomplete">nova-address-autocomplete</a>
+                                    </td>
+                                    <td>Nova address field that autocompletes the user input to show suggested addresses using Google Place service.</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-random-password-generation">nova-random-password-generation</a>
+                                    </td>
+                                    <td>A Laravel Nova password field with generating random password option</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-text-field-with-icon">nova-text-field-with-icon</a>
+                                    </td>
+                                    <td>A Laravel Nova text field with a custom icon</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-paypal">nova-paypal</a>
+                                    </td>
+                                    <td>A Laravel Nova card to display PayPal current balance and latest transactions.</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-saudi-id-number-validation">nova-saudi-id-number-validation</a>
+                                    </td>
+                                    <td>Saudi national ID number validation field for Laravel Nova, just for the frontend it will not prevent from submitting the form.</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-twitter-timeline">nova-twitter-timeline</a>
+                                    </td>
+                                    <td>Nova card that displays the latest user timeline and mentions tweets</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/toggle-switch">toggle-switch</a>
+                                    </td>
+                                    <td>A Laravel Nova toggle switch field</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/Nova-Login-Monitor">Monitor Nova Login</a>
+                                    </td>
+                                    <td>Monitor Nova Login via Slack notifications, Receive a notification every time someone's login to your system.</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/laravel-paypal">Laravel PayPal</a>
+                                    </td>
+                                    <td>To communicate with PayPal API to get current balance and transactions.</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-sms">Laravel Nova SMS</a>
+                                    </td>
+                                    <td>A Laravel Nova SMS Tool to send SMS messages via the most popular providers.</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/nova-push-notifications">Laravel Nova Push Notifications</a>
+                                    </td>
+                                    <td>A Laravel Nova tool to send push notifications.</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/naifalshaye/twitterbot">Twitter Bot</a>
+                                    </td>
+                                    <td>An open source Laravel application for Twitter data automations and archiving.</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2"><a href="https://github.com/balbarak">بدر البراك</a></td>
+                                    <td>
+                                        <a href="https://github.com/balbarak/WeasyPrint-netcore">WeasyPrint-netcore</a>
+                                    </td>
+                                    <td>مكتبة دوت نت لتحويل ملفات html الى pdf </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/balbarak/bootstrap-hijri-datepicker">bootstrap-hijri-datepicker</a>
+                                    </td>
+                                    <td>Bootstrap 4 Hijri Date picker</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="4">
+                                        <a href="https://github.com/salsowelim">سليمان السويلم</a>
+                                    </td>
+                                    <td>
+                                        <a href="https://github.com/salsowelim/tawseem">توسيم</a>
+                                    </td>
+                                    <td> منصة تعهيد جماعي لمعالجة اللغات الطبيعية NLP crowdsourcing platform</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/salsowelim/dejavu_cpp_port">dejavu c++ port</a>
+                                    </td>
+                                    <td>c++ implementation of the algorithm suggested in dejavu audio fingerprinting project</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/salsowelim/tadween">تدوين</a>
+                                    </td>
+                                    <td> منصة مبسطة لنشر التدوينات. تدعم العربية بشكل كامل، وتستخدم محرر نصوص حديث</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="https://github.com/salsowelim/odoo_hijri_datepicker">Odoo hijri datepicker</a>
+                                    </td>
+                                    <td>التقويم الهجري لنظام أودو نسخة ١١ hijri datepicker for odoo ERP v11</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="3"><a href="https://github.com/lamoboos223">لمى العصيمي</a></td>
+                                    <td>
+                                        <a href="https://github.com/lamoboos223/web_scraping">Python - web scraping</a>
+                                    </td>
+                                    <td>This is a very basic web scraping app that will send email when episode of your show is out.</td>
+                                    <tr>
+                                        <td>
+                                            <a href="https://github.com/lamoboos223/facial-landmarks">Python - facial landmarks</a>
+                                        </td>
+                                        <td>This code is just a refernce for my personal further projects. all credits goes to pyimagesearch blog for the wonderful lesson.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="https://github.com/lamoboos223/whatsapp-direct-chat">Vue js - whatsapp direct char</a>
+                                        </td>
+                                        <td>A web app to directly chat with someone om whatsapp without saving their numbers</td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="5"><a href="https://github.com/usernane">إبراهيم الإبن الشيخ</a></td>
+                                        <td>
+                                            <a href="https://github.com/usernane/webfiori">WebFiori Framework</a>
+                                        </td>
+                                        <td>إطار برمجة متكامل بالإمكان إستخدامه في تطوير تطبيقات الشبكة و المواقع الإلكترونية.</td>
+                                        <tr>
+                                            <td>
+                                                <a href="https://github.com/usernane/phMysql">phMySql</a>
+                                            </td>
+                                            <td>مكتبة تساعد على إنشاء MySQL Queries بشكل سهل و مبسط بإستخدام لغة PHP.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a href="https://github.com/usernane/jsonx">JsonX</a>
+                                            </td>
+                                            <td>مكتبة تساعد على إنشاء سلاسل Json النصية في لغة PHP.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a href="https://github.com/usernane/phpStructs">phpStructs</a>
+                                            </td>
+                                            <td>مكتبة تحوي على هياكل البيانات الأساسية مثل Linked List و Stack. بالإضافة, بالإمكان إستخدامها لإنشاء DOM الخاص بصفحات المواقع الإلكترونية.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a href="https://github.com/usernane/restEasy">restEasy</a>
+                                            </td>
+                                            <td>مكتبة تساعد على تطوير REST APIs بإستخدام لغة PHP.</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2">
+                                                <a href="https://github.com/usefksa">يوسف الرشيدي</a>
+                                            </td>
+                                            <td>
+                                                <a href="https://github.com/usefksa/Saudi_GIS_Data">Saudi_GIS_Data</a>
+                                            </td>
+                                            <td>قائمة باسماء المدن و الاحياء السعودية مع معلومات حدود الاحياء الجغرافية.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a href="https://github.com/usefksa/engAraDictionaryFrom_ArabEyes">engAraDictionaryFrom_ArabEyes</a>
+                                            </td>
+                                            <td>قاعدة بيانات SQL للقاموس الانجليزي العربي المقدم من مجموعة عيون عربية.</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="1">
+                                                <a href="https://github.com/nuhamozaini">نُهى المزيني</a>
+                                            </td>
+                                            <td>
+                                                <a href="https://github.com/nuhamozaini/Manateq">مناطق | Manateq</a>
+                                            </td>
+                                            <td>
+                                                A Ruby gem to facilitate working with regions, cities and districts in Saudi Arabia
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2">
+                                                <a href="https://github.com/mohammedhalosaimi">محمد العصيمي</a>
+                                            </td>
+                                            <td>
+                                                <a href="https://github.com/mohammedhalosaimi/IoT-Application-Building-a-Smart-Library">IoT Smart Library Application</a>
+                                            </td>
+                                            <td>مكتبة ذكية تمكنك من تسجيل دخول واستعارة كتب. مزايا: استخدام الوجه لتسجيل الدخول, اضافة موعد ارجاع الكتب لـ Google Calendar, استخدام الصوت في طلب الكتب.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a href="https://github.com/mohammedhalosaimi/Riyadh-Coffee-Shops-Web-Scraping">Riyadh Coffee Shops Web Scraping</a>
+                                            </td>
+                                            <td>Riyadh Coffee shops Data obtained by a web scrapping.</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="1"><a href="https://github.com/ali-alharthi">علي الحارثي</a></td>
+                                            <td>
+                                                <a href="https://github.com/ali-alharthi/SaudiAddress">SaudiAddress</a>
+                                            </td>
+                                            <td>SaudiAddress is a PHP package/library built to consume the Saudi National Address API (<a href="https://api.address.gov.sa">api.address.gov.sa</a>). It makes it simple to use most of what the API has to offer. You can for example retrieve regions, cities, districts, services and addresses from geo coordinates, verify an address and more!</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="1"><a href="https://github.com/yosif111">يوسف الخليفة</a></td>
+                                            <td>
+                                                <a href="https://github.com/yosif111/saudi-iban-validator">Saudi IBAN Validator</a>
+                                            </td>
+                                            <td>Saudi IBAN validator is a small javascript file to validate Saudi IBANs</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="1"><a href="https://github.com/alioh">علي العوهلي</a></td>
+                                            <td>
+                                                <a href="https://github.com/alioh/Saudi-Districts-Dataset">Saudi Arabia Districts Dataset</a>
+                                            </td>
+                                            <td>This dataset is a collection of files related to Saudi Arabia's districts. The data were collected manually from This data includes general information about districts of the Kingdom of Saudi Arabia, such as the number of residents, the proportion of Saudis and foreigners, the distribution of males and females, in addition to the average income. Data were collected manually from Nine Tenths.</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2"><a href="https://github.com/farisd3v">فارس العتيبي</a></td>
+                                            <td>
+                                                <a href="https://github.com/farisd3v/PhpSanitization">PhpSanitization</a>
+                                            </td>
+                                            <td>Simple PHP Sanitization Class, This is a simple class that can verify and clean values to assure they are valid. It can take a given string and remove or encode certain types of text values, so it can be displayed in Web pages lowering the risk of being used to perform security attacks. The class can also sanitize arrays of data by processing the array values one by one.</td>
+                                            <tr>
+                                                <td>
+                                                    <a href="https://github.com/farisd3v/Uploady">Uploady</a>
+                                                </td>
+                                                <td>Uploady is a Simple File Uploader Script with Multi File Upload Support, It comes with more than 20 features and you can set up it in less than 5 minutes.</td>
+                                            </tr>
+                                            <tr>
+                                                <td rowspan="1"><a href="https://github.com/Nawaf-Almansour">نواف المنصور</a></td>
+                                                <td>
+                                                    <a href="https://github.com/Nawaf-Almansour/country-nationality-list-Arabic">List of nationalities and countries in Arabic</a>
+                                                </td>
+                                                <td>A list of countries includes information from more than 240 countries around the world in the Arabic language, which helps in knowing information and helps the user in writing his data. The data you will find in the file (dial code, country name, nationality name, code)</td>
+                                            </tr>
+                                            <tr>
+                                                <td rowspan="2"><a href="https://github.com/AzizAk">عبدالعزيز الخراشي</a></td>
+                                                <td>
+                                                    <a href="https://github.com/AzizAK/react-native-detector">react-native-detector</a>
+                                                </td>
+                                                <td>screenshots detector for react native</td>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/AzizAK/whatsapp-bot">whatsapp-bot</a>
+                                                    </td>
+                                                    <td>sends automated whatsapp messages</td>
+                                                </tr>
+                                                <tr>
+                                                    <td rowspan="1"><a href="https://github.com/moayadalsariya">مؤيد السريع</a></td>
+                                                    <td>
+                                                        <a href="https://github.com/moayadalsariya/file_organizer">file-organizer</a>
+                                                    </td>
+                                                    <td>command line tool help you to organise your files based on type of files</td>
+                                                </tr>
+                                                <tr>
+                                                    <td rowspan="10">
+                                                        <a href="https://github.com/DevMoath">معاذ الهاجري</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/infosystems.blog">infosystems.blog</a>
+                                                    </td>
+                                                    <td>مدونة لطلاب تخصص نظم المعلومات جامعة الملك سعود تركز على شرح الخطة الدراسية وتجميع موارد المواد</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/jql-builder">jql-builder</a>
+                                                    </td>
+                                                    <td>Simple JQL builder for Jira search</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/tailwindcss-typography-rtl">tailwindcss-typography-rtl</a>
+                                                    </td>
+                                                    <td>Add RTL support for tailwindcss-typography plugin</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/tailwindcss-capitalize-first">tailwindcss-capitalize-first</a>
+                                                    </td>
+                                                    <td>Add utility class to capitalize first letter of a paragraph.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/copy-text">copy-text</a>
+                                                    </td>
+                                                    <td>Copy text to user clipboard.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/pass">pass</a>
+                                                    </td>
+                                                    <td>Node.js cli to generate passwords.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/ar-num-to-en-num">ar-num-to-en-num</a>
+                                                    </td>
+                                                    <td>Convert Arabic numbers to English numbers.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/hide-twitter-trends">hide-twitter-trends</a>
+                                                    </td>
+                                                    <td>Hide Twitter (Trending now, Who to follow, Topics to follow) taps.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/online-jwt-builder">online-jwt-builder</a>
+                                                    </td>
+                                                    <td>Web page used to generate fake, but valid, JSON Web Tokens.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a href="https://github.com/DevMoath/password-generator-app">password-generator-app</a>
+                                                    </td>
+                                                    <td>Password generator app to give you strong password.</td>
+                                                    <tr>
+                                                        <td rowspan="1"><a href="https://github.com/MohaTech10">محمد الغموي</a></td>
+                                                        <td>
+                                                            <a href="https://github.com/MohaTech10/UQUCompiler">Typed Programming Language</a>
+                                                        </td>
+                                                        <td>A compiler written in Java targeting MIPS-32bit architecture</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td rowspan="2"><a href="https://github.com/Mzaien">عبدالله مزين</a></td>
+                                                        <td>
+                                                            <a href="https://github.com/Mzaien/Next-libs">Next.js Packge template</a>
+                                                        </td>
+                                                        <td>A package template to make new Next.js libraries</td>
+                                                        <tr>
+                                                            <td>
+                                                                <a href="https://github.com/Mzaien/Next-redirects">Next.js client side Redirect library</a>
+                                                            </td>
+                                                            <td>Next.js library that redirect pages depending on a condition you provide</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="4"><a href="https://github.com/yazeed44">يزيد المقوشي</a></td>
+                                                            <td>
+                                                                <a href="https://github.com/yazeed44/gjf">Fix invalid GeoJSON objects</a>
+                                                            </td>
+                                                            <td>A tool to fix invalid GeoJSON objects through Python or command line</td>
+                                                            <tr>
+                                                                <td>
+                                                                    <a href="https://github.com/yazeed44/MultiImagePicker">MultiImagePicker</a>
+                                                                </td>
+                                                                <td> A library to pick multi images in Android</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <a href="https://github.com/yazeed44/social-media-detector-api">social-media-detector-api</a>
+                                                                </td>
+                                                                <td>This api would allow you to check if a phone number has a certain social media app</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <a href="https://github.com/yazeed44/pptxer">pptxer</a>
+                                                                </td>
+                                                                <td>This project is made to make it as easy as possible to scrape presentations (pptx files) from the internet and extract their text (body and notes). It can be used in Python or command line</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td rowspan="1"><a href="https://github.com/SaudRD">سعود المطيري</a></td>
+                                                                <td>
+                                                                    <a href="https://github.com/SaudRD/JobsEmailSender">Jobs Email Sender</a>
+                                                                </td>
+                                                                <td>A twitter bot who check if there any IT jobs from a particular user and send you an Email of the job.
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td rowspan="1"><a href="https://github.com/ahmedelq/">احمد</a></td>
+                                                                <td><a href="https://github.com/ahmedelq/nattynote">NattyNote</a></td>
+                                                                <td>NattyNote: A browser extension to take time-stamped YouTube notes.</td>
+                                                            </tr>
+    </table>
+    <h1>كيف أضيف مشروعي ؟
+  </h1> لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح:
+   <div>     
+    <ul>
+        <li>
+            <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/issues/new">Issue</a>
+        </li>
+        <li>
+            <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/edit/master/README.md">Fork</a>
+        </li>
+    </ul>
+  </div>
 </div>
