@@ -1107,6 +1107,20 @@
                                                             </td>
                                                             <td>Next.js library that redirect pages depending on a condition you provide</td>
                                                         </tr>
+                                                  </tr>
+                                                        <tr>
+                                                        <td rowspan="2"><a href="https://github.com/devAhmed07"> احمد المالكي </a></td>
+                                                        <td>
+                                                            <a href="https://github.com/devAhmed07/mghrd">mghrd</a>
+                                                        </td>
+                                                        <td>سكربت مغرد للتغريد التلقائي</td>
+                                                        <tr>
+                                                            <td>
+                                                                <a href="https://github.com/devAhmed07/Twitter-bots">Twitter-bots</a>
+                                                            </td>
+                                                            <td></td>
+                                                        </tr>
+                                                      </tr>
                                                         <tr>
                                                             <td rowspan="4"><a href="https://github.com/yazeed44">يزيد المقوشي</a></td>
                                                             <td>
