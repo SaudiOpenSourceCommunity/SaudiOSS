@@ -383,6 +383,15 @@
             </td>
             <td>مكتبة تاريخ هجري للغة روبي</td>
         </tr>
+           <tr>
+            <td rowspan="1">
+                <a href="https://github.com/Sal7one"> صالح العنزي</a>
+            </td>
+            <td>
+                <a href="https://github.com/Sal7one/KSA-numbers-extractor">KSA-numbers-extractor</a>
+            </td>
+            <td>A small python script to extract Saudi phone numbers from the clipboard</td>
+        </tr>
         <tr>
             <td rowspan="1">
                 <a href="https://github.com/mznmel">مازن مليباري </a>
