@@ -1169,12 +1169,12 @@
                                                                 </td>
                                                             </tr>
                                                             <tr>
-                                                                <td rowspan="1"><a href="https://github.com/ahmedelq/">احمد</a></td>
+                                                                <td rowspan="1"><a href="https://github.com/ahmedelq">احمد</a></td>
                                                                 <td><a href="https://github.com/ahmedelq/nattynote">NattyNote</a></td>
                                                                 <td>NattyNote: A browser extension to take time-stamped YouTube notes.</td>
                                                             </tr>
                                                               <tr>
-                                                                <td rowspan="1"><a href="https://github.com/ahmedelq/">احمد الصاعدي</a></td>
+                                                                <td rowspan="1"><a href="https://github.com/AhmadAlsaadi">احمد الصاعدي</a></td>
                                                                 <td><a href="https://github.com/AhmadAlsaadi/Arabic-python-notebook">Arabic-python-notebook</a></td>
                                                                 <td>يهدف هذا الكتاب الى توفير محتوى عربي سهل يمكن القارئ من تعلم لغة بايثون بحيث يمكن استخدامه كمادة علمية جامعية تدرس خلال ترم فصلي واحد في احد التخصصات الهندسية</td>
                                                             </tr>
