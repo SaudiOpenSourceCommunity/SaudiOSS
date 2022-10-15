@@ -451,12 +451,12 @@
                 <a href="https://github.com/AbdullahAlhussein"> عبدالله ال حسين</a>
             </td>
             <td>
-                <a href="https://github.com/AbdullahAlhussein/PKI-Digital-Signature-PDF-USB-Token">Digital Signature PDF File</a>
+                <a href="https://github.com/AbdullahAlhussein/PKI-Digital-Signature-PDF-USB-Token">PKI Digital Signature</a>
             </td>
             <td>The Digital Signature is the result of the execution of a public key mathematical algorithm where the author uses his private key to sign the document                  and anyone can verify the authenticity of the document using the owner’s public key. In practice, the digital signature is part of the Public Key                      Infrastructure (PKI)</td>
             <tr>
             <td>
-                <a href="https://github.com/AbdullahAlhussein/PKI-Encryption-Decryption-PDF-USB-Token">Encryption and Decryption PDF File</a>
+                <a href="https://github.com/AbdullahAlhussein/PKI-Encryption-Decryption-PDF-USB-Token">PKI Encryption and Decryption</a>
             </td>
             <td>PKI Token provide secure storage for digital certificates and private keys. They allow public-key cryptography and digital signatures to be leveraged                   securely, without risk of leaking the private key information.</td>
             </tr>
