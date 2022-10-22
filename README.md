@@ -1253,14 +1253,29 @@
 </table>
     <h1>كيف أضيف مشروعي ؟
   </h1> لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح:
-   <div>     
-    <ul>
-        <li>
-            <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/issues/new">Issue</a>
-        </li>
-        <li>
-            <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/edit/master/devs.json">Fork</a>
-        </li>
-    </ul>
-  </div>
+    <br>
+    <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/issues/new">Issue</a>
+    <br>
+    او قم بإضافة مشاريعك بتعديل ملف <code>devs.json</code> ورفع pull request على المنصة 
+    <br><br>
+    تكوينة ملف json المطلوبة:
 </div>
+
+```
+{
+ "name": "إسمك",
+ "githubURL": "رابط حسابك على المنصة",
+ "projects": [
+        {
+            "name": "اسم المشروع الأول",
+            "URL": "رابط المشروع على المنصة",
+            "description": "شرح مختصر عن فكرة المشروع"
+        },
+        {
+            "name": "اسم المشروع الثاني",
+            "URL": "رابط المشروع على المنصة",
+            "description": "شرح مختصر عن فكرة المشروع"
+        },
+    ]
+
+```
