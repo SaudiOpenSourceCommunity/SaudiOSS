@@ -1,5 +1,8 @@
 const fs = require("fs");
 const path = require("path");
+const octokit = require("@octokit/core");
+
+const client = new octokit.Octokit({auth: process.env.GITHUB_TOKEN});
 const devs = require("./devs.json");
 const template = fs.readFileSync(path.resolve(__dirname, "template.md")).toString();
 
@@ -38,4 +41,18 @@ devs.forEach(dev => {
 readmeContent += `</table>`;
 
 readmeContent = template.replace('<!-- DEVELOPERS LIST -->', readmeContent)
-fs.writeFileSync(path.resolve(__dirname, "README.md"), readmeContent);
+// fs.writeFileSync(path.resolve(__dirname, "README.md"), readmeContent);
+
+(async () => {
+    try{
+        const res = await client.request("GET /repos/SaudiOpenSourceCommunity/SaudiOSS/contents/README.md");
+        const { sha, encoding } = res.data;
+        client.request("PUT /repos/SaudiOpenSourceCommunity/SaudiOSS/contents/README.md", {
+            message: "Update readme.md",
+            content: Buffer.from(readmeContent, "utf-8").toString(encoding),
+            sha
+        });
+    } catch(e){
+        console.log(e);
+    }
+})()

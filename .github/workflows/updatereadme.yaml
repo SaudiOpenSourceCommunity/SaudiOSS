@@ -1,0 +1,23 @@
+name: update-readme-file
+run-name: a new dev added to the list, let's update readme
+on:
+  pull_request:
+    types:
+      - closed
+jobs:
+  if_merged:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3
+      - name: setup nodejs
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: install dependency
+        run: npm ci
+      - name: run script
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        run: node OSS-update-readme.js
