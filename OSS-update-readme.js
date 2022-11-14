@@ -36,28 +36,23 @@ const readmeContent = `<table dir="rtl">
       .join("")}
 </table>`;
 
-readmeContent = template.replace(
-  "<!-- DEVELOPERS LIST -->",
-  readmeContent
-)(
-  // fs.writeFileSync(path.resolve(__dirname, "README.md"), readmeContent);
+const newTemplate = template.replace("<!-- DEVELOPERS LIST -->", readmeContent);
 
-  async () => {
-    try {
-      const res = await client.request(
-        "GET /repos/SaudiOpenSourceCommunity/SaudiOSS/contents/README.md"
-      );
-      const { sha, encoding } = res.data;
-      client.request(
-        "PUT /repos/SaudiOpenSourceCommunity/SaudiOSS/contents/README.md",
-        {
-          message: "Update readme.md",
-          content: Buffer.from(readmeContent, "utf-8").toString(encoding),
-          sha,
-        }
-      );
-    } catch (e) {
-      console.log(e);
-    }
+(async () => {
+  try {
+    const res = await client.request(
+      "GET /repos/SaudiOpenSourceCommunity/SaudiOSS/contents/README.md"
+    );
+    const { sha, encoding } = res.data;
+    client.request(
+      "PUT /repos/SaudiOpenSourceCommunity/SaudiOSS/contents/README.md",
+      {
+        message: "Update readme.md",
+        content: Buffer.from(newTemplate, "utf-8").toString(encoding),
+        sha,
+      }
+    );
+  } catch (e) {
+    console.log(e);
   }
-)();
+})();
