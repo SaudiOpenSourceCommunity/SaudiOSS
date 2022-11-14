@@ -1,0 +1,1256 @@
+[
+    {
+      "name": "عبدالله حمدي",
+      "githubURL": "https://github.com/ajhamdi",
+      "projects": [
+        {
+          "name": "SADA",
+          "URL": "https://github.com/ajhamdi/SADA",
+          "description": "A adverserial attacks on deep learning used in autonomous driving applications"
+        },
+        {
+          "name": "AdvPC",
+          "URL": "https://github.com/ajhamdi/AdvPC",
+          "description": "A adverserial attacks on 3D point clouds deep learning models"
+        },
+        {
+          "name": "Pytorch 3D tutorials",
+          "URL": "https://github.com/ajhamdi/Pytorch_tutorials_3D",
+          "description": "A collection of tutorials on Pytorch for 3D applications"
+        },
+        {
+          "name": "MVTN",
+          "URL": "https://github.com/ajhamdi/MVTN",
+          "description": "Pytorch model for deep learning classification and retrieval on 3D objects"
+        }
+      ]
+    },
+    {
+      "name": "هادي القطان",
+      "githubURL": "https://github.com/hadialqattan",
+      "projects": [
+        {
+          "name": "Pycln",
+          "URL": "https://github.com/hadialqattan/pycln",
+          "description": "Formatter for finding and removing unused import statements (for python)"
+        },
+        {
+          "name": "Go Compose",
+          "URL": "https://github.com/hadialqattan/go-compose",
+          "description": "Lightweight services composer written in Golang for managing services (processes) in a development environment"
+        },
+        {
+          "name": "LC3-VM (Golang)",
+          "URL": "https://github.com/hadialqattan/lc3-vm-golang",
+          "description": "LC3-VM Go implementation, an educational computer architecture"
+        },
+        {
+          "name": "Arabic Microsoft Forms Extensions",
+          "URL": "https://github.com/hadialqattan/arabic-ms-forms-extension",
+          "description": "Cross-browser extension to change the display language of Microsoft Forms to Arabic"
+        },
+        {
+          "name": "Sudoku",
+          "URL": "https://github.com/hadialqattan/sudoku",
+          "description": "GUI Sudoku game with a solver. The solver was implemented using the backtracking algorithm"
+        },
+        {
+          "name": "Maze Solver Visualizer",
+          "URL": "https://github.com/hadialqattan/maze-solver-visualizer",
+          "description": "Visual shortest path finder, using A*, BFS, and DFS algorithms"
+        }
+      ]
+    },
+    {
+      "name": "سهيل الكويليت",
+      "githubURL": "https://github.com/xsoh",
+      "projects": [
+        {
+          "name": "moment-hijri",
+          "URL": "https://github.com/xsoh/moment-hijri",
+          "description": "اضافة لـmoment.js لدعم التاريخ الهجري"
+        },
+        {
+          "name": "Etar Calendar",
+          "URL": "https://github.com/Etar-Group/Etar-Calendar",
+          "description": "تقويم اندرويد مفتوح المصدر"
+        },
+        {
+          "name": "Hijri.js",
+          "URL": "https://github.com/xsoh/Hijri.js",
+          "description": "اداة للتقويم الهجري بالجافاسكربت"
+        },
+        {
+          "name": "SolarHijri-js",
+          "URL": "https://github.com/xsoh/solarHijri-js",
+          "description": "تحويل من وإلى التاريخ الهجري والميلادي"
+        }
+      ]
+    },
+    {
+      "name": "عبدالله الأنصاري",
+      "githubURL": "https://github.com/Ahimta",
+      "projects": [
+        {
+          "name": "donation-web-platform",
+          "URL": "https://github.com/Ahimta/donation-web-platform",
+          "description": "منصة تبرع"
+        }
+      ]
+    },
+    {
+      "name": "خالد لافي",
+      "githubURL": "https://github.com/lafikl",
+      "projects": [
+        {
+          "name": "consistent",
+          "URL": "https://github.com/lafikl/consistent",
+          "description": "A Go library that implements Consistent Hashing and Consistent Hashing With Bounded Loads"
+        },
+        {
+          "name": "liblb",
+          "URL": "https://github.com/lafikl/liblb",
+          "description": "A golang library that implements load balancing algorithms"
+        }
+      ]
+    },
+    {
+      "name": "عبدالعزيز الهميلي",
+      "githubURL": "https://github.com/homaily",
+      "projects": [
+        {
+          "name": "countries",
+          "URL": "https://github.com/homaily/countries",
+          "description": "قائمة الدول باللغة العربية"
+        },
+        {
+          "name": "fix-arabic-numbers",
+          "URL": "https://github.com/homaily/fix-arabic-numbers",
+          "description": "سكربت لتبديل الارقام العربية إلى الإنجليزية بلغة الجافاسكربت"
+        }
+      ]
+    },
+    {
+      "name": "ضيف الله العتيبي",
+      "githubURL": "https://github.com/daif",
+      "projects": [
+        {
+          "name": "ertikazos",
+          "URL": "https://github.com/daif/ertikazos",
+          "description": "منصة PHP لتطوير تطبيقات الويب"
+        }
+      ]
+    },
+    {
+      "NumberOfProjects": "19",
+      "name": "عبدالله الحازمي",
+      "githubURL": "https://github.com/alhazmy13",
+      "projects": [
+        {
+          "name": "MediaPicker",
+          "URL": "https://github.com/alhazmy13/MediaPicker",
+          "description": "مكتبة أندرويد تسمح لك بإختيار اكثر من صورة او مقطع فيديو"
+        },
+        {
+          "name": "HijriDatePicker",
+          "URL": "https://github.com/alhazmy13/HijriDatePicker",
+          "description": "اداة لإختيار الوقت والتاريخ بتصميم ماتيريال"
+        },
+        {
+          "name": "Gota",
+          "URL": "https://github.com/alhazmy13/Gota",
+          "description": "مكتبة لتبسيط صلاحيات الاندرويد"
+        },
+        {
+          "name": "MediaRecorderDialog",
+          "URL": "https://github.com/alhazmy13/MediaRecorderDialog",
+          "description": "مكتبة لتسجيل الصوت بالأندرويد"
+        },
+        {
+          "name": "Catcho",
+          "URL": "https://github.com/alhazmy13/Catcho",
+          "description": "No Force close messages anymore"
+        },
+        {
+          "name": "ImageFilters",
+          "URL": "https://github.com/alhazmy13/ImageFilters",
+          "description": "مكتبة أندرويد تسمح لك بإضافة الفلاتر إلى الصور"
+        },
+        {
+          "name": "Angular4-word-cloud",
+          "URL": "https://github.com/alhazmy13/Angular4-word-cloud",
+          "description": "Word cloud directive for Angular4"
+        },
+        {
+          "name": "MediaGallery",
+          "URL": "https://github.com/alhazmy13/MediaGallery",
+          "description": "Android image slideshow with circular scrolling and custom view"
+        },
+        {
+          "name": "Contact-Form-7-Submission-limit",
+          "URL": "https://github.com/alhazmy13/Contact-Form-7-Submission-limit",
+          "description": "Contact form 7 submission limit"
+        },
+        {
+          "name": "AndroidWordCloud",
+          "URL": "https://github.com/alhazmy13/AndroidWordCloud",
+          "description": "Android Word Cloud"
+        },
+        {
+          "name": "PrayerTimesSwift",
+          "URL": "https://github.com/alhazmy13/PrayerTimesSwift",
+          "description": "مكتبة سويفت تضيف العديد من الدوال لحساب اوقات الصلاة بمختلف أصقاع الأرض"
+        },
+        {
+          "name": "PrayerTimesAndroid",
+          "URL": "https://github.com/alhazmy13/PrayerTimes",
+          "description": "مكتبة للأندرويد تضيف العديد من الدوال لحساب أوقات الصلاة بمختلف أنحاء العالم. تعتمد على طرق متعددة مستخدمة من المسلمين لحساب الاوقات"
+        },
+        {
+          "name": "Angular5Csv",
+          "URL": "https://github.com/alhazmy13/angular5-csv",
+          "description": "Helper library for create CSV file in Angular"
+        },
+        {
+          "name": "RadioButtonSwift3",
+          "URL": "https://github.com/alhazmy13/RadioButtonSwift3",
+          "description": "Custom radio button for swift 3"
+        },
+        {
+          "name": "Saudi-ID-Validator",
+          "URL": "https://github.com/alhazmy13/Saudi-ID-Validator",
+          "description": "Saudi-ID-Validator (Swift, Kotlin, Java, Go, JS, Python, TypeScript, PHP, Scala, ruby, c#, vb)"
+        },
+        {
+          "name": "IBAN-Validator",
+          "URL": "https://github.com/alhazmy13/IBAN-Validator",
+          "description": "Iban Validator (Swift, Kotlin, Java)"
+        },
+        {
+          "name": "aws-serverless-skeleton",
+          "URL": "https://github.com/alhazmy13/aws-serverless-skeleton",
+          "description": "A Serverless skeleton project using Python"
+        },
+        {
+          "name": "Saudi-ID-Validator",
+          "URL": "https://github.com/alhazmy13/Saudi-ID-Validator",
+          "description": "Saudi-ID-Validator (Swift, Kotlin, Java, Go, JS, Python, TypeScript, PHP, Scala, ruby, c#, vb, SQL)"
+        },
+        {
+          "name": "angular-csv-ext",
+          "URL": "https://github.com/alhazmy13/angular-csv-ext",
+          "description": "Helper library for create CSV file in Angular"
+        }
+      ]
+    },
+    {
+      "NumberOfProjects": "14",
+      "name": "عبدالله الحيدر",
+      "githubURL": "https://github.com/cs4alhaider",
+      "projects": [
+        {
+          "name": "Helper4Swift",
+          "URL": "https://github.com/cs4alhaider/Helper4Swift",
+          "description": "Helpful extensions and methods to short your coding time"
+        },
+        {
+          "name": "Prims-algorithm",
+          "URL": "https://github.com/cs4alhaider/Prims-algorithm",
+          "description": "تطبيق وشرح لخوارزمية Prims"
+        },
+        {
+          "name": "ضوء الخريج",
+          "URL": "https://github.com/cs4alhaider/DhawaAlkhreej",
+          "description": "تطبيق iOS يساعد خريجين الثانوية باختيار تخصصهم الجامعي والتعرف على الجامعات ومعدلات القبول وحساب النسبة الموزونة"
+        },
+        {
+          "name": "Hajj-Hackthon",
+          "URL": "https://github.com/cs4alhaider/Hackthon",
+          "description": "تطبيق لادارة الحجيج والزحام - مشاركة هاكثون الحج"
+        },
+        {
+          "name": "Realm DB with Swift Codable",
+          "URL": "https://github.com/cs4alhaider/realm-with-Swift-codable",
+          "description": "Exercise on how to use realm with Swift codable and also how the sorts works in realm"
+        },
+        {
+          "name": "Text language checker",
+          "URL": "https://github.com/cs4alhaider/TextLanguageChecker",
+          "description": "التحقق من لغة النص المدخل هل هي بالعربي او أي لغة اخرى"
+        },
+        {
+          "name": "WordMatching",
+          "URL": "https://github.com/cs4alhaider/WordMatching",
+          "description": "تطبيق iOS يأخذ ملفين نصيين ويقوم بالبحث عن الكلمات المتطابقة بين الملفين وعددها ثم يقوم باصدار ملف جديد ويمكن ارسالة بالبريد الالكتروني"
+        },
+        {
+          "name": "HappyEid",
+          "URL": "https://github.com/cs4alhaider/HappyEid",
+          "description": "تطبيق iOS يقوم بعمل انيميشن للتهنئة بالعيد"
+        },
+        {
+          "name": "DateDifference",
+          "URL": "https://github.com/cs4alhaider/DateDifference",
+          "description": "C++ حساب الفرق بين تاريخين"
+        },
+        {
+          "name": "VideoPlayerObjc",
+          "URL": "https://github.com/cs4alhaider/VideoPlayerObjc",
+          "description": "مشغل فيديو بلغة Objective-C"
+        },
+        {
+          "name": "VideoPlayerSwift",
+          "URL": "https://github.com/cs4alhaider/VideoPlayerSwift",
+          "description": "مشغل فيديو بلغة Swift"
+        },
+        {
+          "name": "SwiftProject",
+          "URL": "https://github.com/cs4alhaider/SwiftProject",
+          "description": "تجهيز لأي مشروع، ايضاً اقوم بمشاركة اي فكرة مع اي مطور اخر عن طريق هذا المشروع"
+        },
+        {
+          "name": "Flash-Chat",
+          "URL": "https://github.com/cs4alhaider/Flash-Chat",
+          "description": "iOS app using real-time chatting via Firebase"
+        },
+        {
+          "name": "CustomAD",
+          "URL": "https://github.com/cs4alhaider/CustomAD",
+          "description": "Show a custom ad inside your app"
+        }
+      ]
+    },
+    {
+      "name": "أحمد الشمري",
+      "githubURL": "https://github.com/ahmads",
+      "projects": [
+        {
+          "name": "arabicString",
+          "URL": "https://github.com/ahmads/arabicString",
+          "description": "مكتبة جافاسكربت تضيف دوال إلى الكائنات النصية تسمح بالتعامل مع اللغة العربية بشكل أفضل. تعمل على نود والمتصفح"
+        }
+      ]
+    },
+    {
+      "name": "عبدالعزيز الشتوي",
+      "githubURL": "https://github.com/ecleel",
+      "projects": [
+        {
+          "name": "hijri",
+          "URL": "https://github.com/ecleel/hijri",
+          "description": "مكتبة تاريخ هجري للغة روبي"
+        }
+      ]
+    },
+    {
+      "name": "صالح العنزي",
+      "githubURL": "https://github.com/Sal7one",
+      "projects": [
+        {
+          "name": "Android: Open Saudi Numbers With WhatsApp",
+          "URL": "https://github.com/Sal7one/Open-Saudi-Numbers-With-Whatsapp",
+          "description": "تطبيق في الخلفية يفتح ارقام الجوالات السعودية في الواتس اب مباشرة من اي مكان بدون حفظ"
+        },
+        {
+          "name": "KSA-numbers-extractor",
+          "URL": "https://github.com/Sal7one/KSA-numbers-extractor",
+          "description": "A Python script to extract Saudi phone numbers from the clipboard"
+        }
+      ]
+    },
+    {
+      "name": "مازن مليباري",
+      "githubURL": "https://github.com/mznmel",
+      "projects": [
+        {
+          "name": "AlDftr",
+          "URL": "https://github.com/mznmel/AlDftr",
+          "description": "Wiki-Based Knowledge Organizer"
+        }
+      ]
+    },
+    {
+      "name": "عمار العمار",
+      "githubURL": "https://github.com/a3ammar",
+      "projects": [
+        {
+          "name": "arabic-jekyll",
+          "URL": "https://github.com/a3ammar/arabic-jekyll",
+          "description": "ابدأ بالتدوين باستخدام جيكل بلحضات وبدون لمس سطر الأوامر"
+        }
+      ]
+    },
+    {
+      "name": "عبدالله القثامي",
+      "githubURL": "https://github.com/efrontsa",
+      "projects": [
+        {
+          "name": "Carbony",
+          "URL": "https://github.com/efrontsa/carbony",
+          "description": "مكتبة للتعامل مع التواريخ الهجرية للغة PHP مبنية على أسس مكتبة Carbon الشهيرة"
+        },
+        {
+          "name": "SMS",
+          "URL": "https://github.com/efrontsa/sms",
+          "description": "مكتبة للتعامل مع رسائل الجوال مثل البريد الالكتروني في Laravel"
+        },
+        {
+          "name": "Postmark",
+          "URL": "https://github.com/efrontsa/postmark",
+          "description": "<a href=\"https://postmarkapp.com\">Postmark</a> driver for Laravel"
+        }
+      ]
+    },
+    {
+      "name": "عبدالعزيز العبودي",
+      "githubURL": "https://github.com/Alaboudi1",
+      "projects": [
+        {
+          "name": "ArabJs",
+          "URL": "https://github.com/ArabJs/arabJs",
+          "description": "برمج جافاسكربت بالكامل باللغة العربية"
+        }
+      ]
+    },
+    {
+      "name": "عبدالله ال حسين",
+      "githubURL": "https://github.com/AbdullahAlhussein",
+      "projects": [
+        {
+          "name": "PKI Digital Signature",
+          "URL": "https://github.com/AbdullahAlhussein/PKI-Digital-Signature-PDF-USB-Token",
+          "description": "The Digital Signature is the result of the execution of a public key mathematical algorithm where the author uses his private key to sign the document and anyone can verify the authenticity of the document using the owner’s public key. In practice, the digital signature is part of the Public Key Infrastructure (PKI)"
+        },
+        {
+          "name": "PKI Encryption and Decryption",
+          "URL": "https://github.com/AbdullahAlhussein/PKI-Encryption-Decryption-PDF-USB-Token",
+          "description": "PKI Token provide secure storage for digital certificates and private keys. They allow public-key cryptography and digital signatures to be leveraged securely, without risk of leaking the private key information."
+        }
+      ]
+    },
+    {
+      "name": "فؤاد المالكي",
+      "githubURL": "https://github.com/Eng-Fouad",
+      "projects": [
+        {
+          "name": "JTelegramBot",
+          "URL": "https://github.com/Eng-Fouad/JTelegramBot",
+          "description": "JTelegramBot is a Java library that wraps Telegram Bot API with a simpler API using Builder design pattern"
+        }
+      ]
+    },
+    {
+      "name": "حسين السلمان",
+      "githubURL": "https://github.com/Hussain-Alsalman",
+      "projects": [
+        {
+          "name": "JInteractive_map_SA_imports",
+          "URL": "https://github.com/Hussain-Alsalman/Interactive_map_SA_imports",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "حمود الحقباني",
+      "githubURL": "https://github.com/alhoqbani",
+      "projects": [
+        {
+          "name": "laravel-mobily-ws-notification",
+          "URL": "https://github.com/alhoqbani/laravel-mobily-ws-notification",
+          "description": "Mobily.ws SMS channel for Laravel notification system"
+        }
+      ]
+    },
+    {
+      "name": "معاذ الجهني",
+      "githubURL": "https://github.com/moathdev",
+      "projects": [
+        {
+          "name": "office365-Laravel",
+          "URL": "https://github.com/moathdev/office365-Laravel",
+          "description": "A Office365 package for Laravel 5.2 or higher"
+        },
+        {
+          "name": "onesigna-Laravel",
+          "URL": "https://github.com/moathdev/laravel-onesignal",
+          "description": "A Onesignal package for Laravel 5.2 or higher"
+        },
+        {
+          "name": "sweetalert-laravel",
+          "URL": "https://github.com/moathdev/sweetalert",
+          "description": "A Sweetalert package for Laravel 5.2 or higher"
+        }
+      ]
+    },
+    {
+      "name": "محمد الدهيمي",
+      "githubURL": "https://github.com/hak5",
+      "projects": [
+        {
+          "name": "HTTPProxy",
+          "URL": "https://github.com/hak5/wifipineapple-modules/tree/master/HTTPProxy",
+          "description": "The Official WiFi Pineapple Module Repository"
+        }
+      ]
+    },
+    {
+      "name": "صالح الضبيعي",
+      "githubURL": "https://github.com/SalehAlDhobaie",
+      "projects": [
+        {
+          "name": "Offline-Clean-Arch",
+          "URL": "https://github.com/SalehAlDhobaie/Offline-Clean-Arch",
+          "description": "this example is implement offline first concept"
+        }
+      ]
+    },
+    {
+      "name": "عمر باحارث",
+      "githubURL": "https://github.com/obahareth",
+      "projects": [
+        {
+          "name": "base16-builder-elixir",
+          "URL": "https://github.com/obahareth/base16-builder-elixir",
+          "description": "An Elixir implementation of a Base16 builder"
+        }
+      ]
+    },
+    {
+      "name": "منى الرزقان",
+      "projects": [
+        {
+          "name": "Arabic-twitter-analysis",
+          "URL": "https://github.com/ArwaAlrazooq/Arabic-twitter-analysis",
+          "description": "هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية"
+        }
+      ]
+    },
+    {
+      "name": "خلود الغامدي",
+      "projects": [
+        {
+          "name": "Arabic-twitter-analysis",
+          "URL": "https://github.com/ArwaAlrazooq/Arabic-twitter-analysis",
+          "description": "هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية"
+        }
+      ]
+    },
+    {
+      "name": "روان المعثم",
+      "projects": [
+        {
+          "name": "Arabic-twitter-analysis",
+          "URL": "https://github.com/ArwaAlrazooq/Arabic-twitter-analysis",
+          "description": "هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية"
+        }
+      ]
+    },
+    {
+      "name": "أروى الرزوق",
+      "githubURL": "https://github.com/ArwaAlrazooq",
+      "projects": [
+        {
+          "name": "Arabic-twitter-analysis",
+          "URL": "https://github.com/ArwaAlrazooq/Arabic-twitter-analysis",
+          "description": "هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية"
+        }
+      ]
+    },
+    {
+      "name": "إيمان النخيلان",
+      "projects": [
+        {
+          "name": "Arabic-twitter-analysis",
+          "URL": "https://github.com/ArwaAlrazooq/Arabic-twitter-analysis",
+          "description": "هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية"
+        }
+      ]
+    },
+    {
+      "name": "سهيل المزيني",
+      "githubURL": "https://github.com/i-Sohel",
+      "projects": [
+        {
+          "name": "event-notf",
+          "URL": "https://github.com/i-Sohel/event-notf",
+          "description": "مشروع لتنظيم المناسبات مبني بلغة PHP"
+        }
+      ]
+    },
+    {
+      "name": "محمد الشعلان",
+      "githubURL": "https://github.com/ish3lan",
+      "projects": [
+        {
+          "name": "Swift-Extensions",
+          "URL": "https://github.com/ish3lan/Swift-Extensions",
+          "description": "awsome swift extensions, will help you stop struggling with those frequent small problems"
+        },
+        {
+          "name": "Medical-Supplychain",
+          "URL": "https://github.com/ish3lan/Medical-Blockchain",
+          "description": "Decentralized Medical Supply Chain (DApp) built on Ethereum blockchain"
+        }
+      ]
+    },
+    {
+      "name": "أنس الحمود",
+      "githubURL": "https://github.com/a-alhm",
+      "projects": [
+        {
+          "name": "quran-project",
+          "URL": "https://github.com/a-alhm/Quran-Reading-Plan",
+          "description": "Quran Reading Plan is PWA (Progressive Web App) which can help you plan for your reading and get the most out of your time"
+        }
+      ]
+    },
+    {
+      "name": "عبدالعزيز الفهيقي",
+      "githubURL": "https://github.com/alfuhigi",
+      "projects": [
+        {
+          "name": "medicines-expired-date",
+          "URL": "https://github.com/alfuhigi/medicines-expired-date",
+          "description": "انتهاء تواريخ الادوية"
+        }
+      ]
+    },
+    {
+      "name": "ناصر الشمري",
+      "githubURL": "https://github.com/nashamri",
+      "projects": [
+        {
+          "name": "OpenSHS",
+          "URL": "https://github.com/openshs/openshs",
+          "description": "Open Smart Home Simulator"
+        },
+        {
+          "name": "spacemacs-theme",
+          "URL": "https://github.com/nashamri/spacemacs-theme",
+          "description": "Light and dark theme for spacemacs that supports GUI and terminal"
+        },
+        {
+          "name": "academic-phrases",
+          "URL": "https://github.com/nashamri/academic-phrases",
+          "description": "Bypass that mental block when writing your papers"
+        }
+      ]
+    },
+    {
+      "name": "حمود القصير",
+      "githubURL": "https://github.com/HamoudAQ",
+      "projects": [
+        {
+          "name": "QattaBot",
+          "URL": "https://github.com/HamoudAQ/QattaBot",
+          "description": "بوت تيليجرام لحساب القطّات"
+        }
+      ]
+    },
+    {
+      "name": "أبو صالح",
+      "githubURL": "https://github.com/bosaleh",
+      "projects": [
+        {
+          "name": "ar-en replacement script",
+          "URL": "https://github.com/bosaleh/ar-en-replace",
+          "description": "A script that changes arabic text to english text and vice-versa then switches to the language you meant to write in"
+        }
+      ]
+    },
+    {
+      "name": "عبدالعزيز العريج",
+      "githubURL": "https://github.com/top7up",
+      "projects": [
+        {
+          "name": "Saudi ID Validator",
+          "URL": "https://github.com/top7up/ID",
+          "description": "التحقق من الهوية السعودية"
+        },
+        {
+          "name": "Um AlQura Hijri Calendar",
+          "URL": "https://github.com/top7up/Hijri",
+          "description": "تقويم أم القرى"
+        },
+        {
+          "name": "PHP FTP Client",
+          "URL": "https://github.com/top7up/FTP",
+          "description": "عميل FTP متكامل"
+        }
+      ]
+    },
+    {
+      "name": "فارس البلادي",
+      "githubURL": "https://github.com/Faares",
+      "projects": [
+        {
+          "name": "Mowajjeh",
+          "URL": "https://github.com/Faares/Mowajjeh",
+          "description": "Light PHP Router"
+        },
+        {
+          "name": "Mokawleb",
+          "URL": "https://github.com/Faares/Mokawleb",
+          "description": "JS/Nodejs Template Engine"
+        }
+      ]
+    },
+    {
+      "name": "محمد اليوسف",
+      "githubURL": "https://github.com/MoAlyousef",
+      "projects": [
+        {
+          "name": "vcbld",
+          "URL": "https://github.com/MoAlyousef/vcbld",
+          "description": "تطبيق لبناء برامج c++ باستخدام vcpkg"
+        },
+        {
+          "name": "Stereotaxis",
+          "URL": "https://github.com/MoAlyousef/Stereotaxis",
+          "description": "تطبيق جراحي للآيفون والأندرويد لحساب الإحداثيات اللازمة للخزعات الدماغية"
+        },
+        {
+          "name": "Results",
+          "URL": "https://github.com/MoAlyousef/Results",
+          "description": "مكتبة للتعامل مع الأخطاء والحالات الاستثنائية في لغة C++"
+        },
+        {
+          "name": "vcpkg_wasm",
+          "URL": "https://github.com/MoAlyousef/vcpkg_wasm",
+          "description": "أداة لربط مكتبات C++ بتطبيقات الشبكة العنكبوتية"
+        }
+      ]
+    },
+    {
+      "name": "فهد اللبدي",
+      "githubURL": "https://github.com/f22hd",
+      "projects": [
+        {
+          "name": "CreditCardValidator",
+          "URL": "https://github.com/f22hd/CreditCardValidator",
+          "description": "سكربت للتحقق من صحة بطاقة الكريديت كارد بلغة typescript"
+        },
+        {
+          "name": "netlify-plugin-nx-skip-build",
+          "URL": "https://github.com/f22hd/netlify-plugin-nx-skip-build",
+          "description": "A netlify plugin that skipping not affected apps in your nx workspace"
+        },
+        {
+          "name": "ng-nocopy",
+          "URL": "https://github.com/f22hd/ng-nocopy",
+          "description": "A directive that prevents a user from copying a specific element content"
+        },
+        {
+          "name": "ng-lazy-img",
+          "URL": "https://github.com/f22hd/ng-lazy-img",
+          "description": "An angular directive that using to load images lazily"
+        }
+      ]
+    },
+    {
+      "name": "أحمد الجعيد",
+      "githubURL": "https://github.com/ahmedoid",
+      "projects": [
+        {
+          "name": "hijri",
+          "URL": "https://pub.dartlang.org/packages/hijri",
+          "description": "Umm Alqura Hijri Calendar Converter in Dart language"
+        },
+        {
+          "name": "hijri_picker",
+          "URL": "https://pub.dartlang.org/packages/hijri_picker",
+          "description": "Hijri date picker in Dart language"
+        }
+      ]
+    },
+    {
+      "NumberOfProjects": "20",
+      "name": "نايف الشايع",
+      "githubURL": "https://github.com/naifalshaye",
+      "projects": [
+        {
+          "name": "php-cpanel-email",
+          "URL": "https://github.com/naifalshaye/php-cpanel-email",
+          "description": "Laravel package to manage cPanel email accounts."
+        },
+        {
+          "name": "saudiaddress",
+          "URL": "https://github.com/naifalshaye/saudiaddress",
+          "description": "PHP Laravel wrapper for the Saudi National Address APIs. you can get a list of all regions, cities and districts. Also geocode and address verification."
+        },
+        {
+          "name": "mailchimp",
+          "URL": "https://github.com/naifalshaye/mailchimp",
+          "description": "A Nova Laravel tool that integrates with MailChimp to manage mail list subscribers and send mail newsletters."
+        },
+        {
+          "name": "nova-mysql",
+          "URL": "https://github.com/naifalshaye/nova-mysql",
+          "description": "A Nova Laravel MySQL Server Managment"
+        },
+        {
+          "name": "worldclock",
+          "URL": "https://github.com/naifalshaye/worldclock",
+          "description": "A Laravel Nova card to display world clocks"
+        },
+        {
+          "name": "nova-cpanel-mail",
+          "URL": "https://github.com/naifalshaye/nova-cpanel-mail",
+          "description": "A Laravel Nova tool that integrates with Cpanel Mail to manage Email Addresses"
+        },
+        {
+          "name": "soundcloud",
+          "URL": "https://github.com/naifalshaye/soundcloud",
+          "description": "A Laravel Nova field to play a SoundCloud audio"
+        },
+        {
+          "name": "nova-map-address",
+          "URL": "https://github.com/naifalshaye/nova-map-address",
+          "description": "A Nova field to place a marker on the map to get coordinates then it reverses geocoding the coordinates to get a street address"
+        },
+        {
+          "name": "nova-address-autocomplete",
+          "URL": "https://github.com/naifalshaye/nova-address-autocomplete",
+          "description": "Nova address field that autocompletes the user input to show suggested addresses using Google Place service."
+        },
+        {
+          "name": "nova-random-password-generation",
+          "URL": "https://github.com/naifalshaye/nova-random-password-generation",
+          "description": "A Laravel Nova password field with generating random password option"
+        },
+        {
+          "name": "nova-text-field-with-icon",
+          "URL": "https://github.com/naifalshaye/nova-text-field-with-icon",
+          "description": "A Laravel Nova text field with a custom icon"
+        },
+        {
+          "name": "nova-paypal",
+          "URL": "https://github.com/naifalshaye/nova-paypal",
+          "description": "A Laravel Nova card to display PayPal current balance and latest transactions."
+        },
+        {
+          "name": "nova-saudi-id-number-validation",
+          "URL": "https://github.com/naifalshaye/nova-saudi-id-number-validation",
+          "description": "Saudi national ID number validation field for Laravel Nova, just for the frontend it will not prevent from submitting the form."
+        },
+        {
+          "name": "nova-twitter-timeline",
+          "URL": "https://github.com/naifalshaye/nova-twitter-timeline",
+          "description": "Nova card that displays the latest user timeline and mentions tweets"
+        },
+        {
+          "name": "toggle-switch",
+          "URL": "https://github.com/naifalshaye/toggle-switch",
+          "description": "A Laravel Nova toggle switch field"
+        },
+        {
+          "name": "Monitor Nova Login",
+          "URL": "https://github.com/naifalshaye/Nova-Login-Monitor",
+          "description": "Monitor Nova Login via Slack notifications, Receive a notification every time someone's login to your system."
+        },
+        {
+          "name": "Laravel PayPal",
+          "URL": "https://github.com/naifalshaye/laravel-paypal",
+          "description": "To communicate with PayPal API to get current balance and transactions."
+        },
+        {
+          "name": "Laravel Nova SMS",
+          "URL": "https://github.com/naifalshaye/nova-sms",
+          "description": "A Laravel Nova SMS Tool to send SMS messages via the most popular providers."
+        },
+        {
+          "name": "Laravel Nova Push Notifications",
+          "URL": "https://github.com/naifalshaye/nova-push-notifications",
+          "description": "A Laravel Nova tool to send push notifications."
+        },
+        {
+          "name": "Twitter Bot",
+          "URL": "https://github.com/naifalshaye/twitterbot",
+          "description": "An open source Laravel application for Twitter data automations and archiving."
+        }
+      ]
+    },
+    {
+      "name": "بدر البراك",
+      "githubURL": "https://github.com/balbarak",
+      "projects": [
+        {
+          "name": "WeasyPrint-netcore",
+          "URL": "https://github.com/balbarak/WeasyPrint-netcore",
+          "description": "مكتبة دوت نت لتحويل ملفات html الى pdf"
+        },
+        {
+          "name": "bootstrap-hijri-datepicker",
+          "URL": "https://github.com/balbarak/bootstrap-hijri-datepicker",
+          "description": "Bootstrap 4 Hijri Date picker"
+        }
+      ]
+    },
+    {
+      "name": "سليمان السويلم",
+      "githubURL": "https://github.com/salsowelim",
+      "projects": [
+        {
+          "name": "توسيم",
+          "URL": "https://github.com/salsowelim/tawseem",
+          "description": "منصة تعهيد جماعي لمعالجة اللغات الطبيعية NLP crowdsourcing platform"
+        },
+        {
+          "name": "dejavu c++ port",
+          "URL": "https://github.com/salsowelim/dejavu_cpp_port",
+          "description": "c++ implementation of the algorithm suggested in dejavu audio fingerprinting project"
+        },
+        {
+          "name": "تدوين",
+          "URL": "https://github.com/salsowelim/tadween",
+          "description": "منصة مبسطة لنشر التدوينات. تدعم العربية بشكل كامل، وتستخدم محرر نصوص حديث"
+        },
+        {
+          "name": "Odoo hijri datepicker",
+          "URL": "https://github.com/salsowelim/odoo_hijri_datepicker",
+          "description": "التقويم الهجري لنظام أودو نسخة ١١ hijri datepicker for odoo ERP v11"
+        }
+      ]
+    },
+    {
+      "name": "لمى العصيمي",
+      "githubURL": "https://github.com/lamoboos223",
+      "projects": [
+        {
+          "name": "Python - web scraping",
+          "URL": "https://github.com/lamoboos223/web_scraping",
+          "description": "This is a very basic web scraping app that will send email when episode of your show is out."
+        },
+        {
+          "name": "Python - facial landmarks",
+          "URL": "https://github.com/lamoboos223/facial-landmarks",
+          "description": "This code is just a refernce for my personal further projects. all credits goes to pyimagesearch blog for the wonderful lesson."
+        },
+        {
+          "name": "Vue js - whatsapp direct char",
+          "URL": "https://github.com/lamoboos223/whatsapp-direct-chat",
+          "description": "A web app to directly chat with someone om whatsapp without saving their numbers"
+        }
+      ]
+    },
+    {
+      "name": "إبراهيم الإبن الشيخ",
+      "githubURL": "https://github.com/usernane",
+      "projects": [
+        {
+          "name": "WebFiori Framework",
+          "URL": "https://github.com/usernane/webfiori",
+          "description": "إطار برمجة متكامل بالإمكان إستخدامه في تطوير تطبيقات الشبكة و المواقع الإلكترونية."
+        },
+        {
+          "name": "phMySql",
+          "URL": "https://github.com/usernane/phMysql",
+          "description": "مكتبة تساعد على إنشاء MySQL Queries بشكل سهل و مبسط بإستخدام لغة PHP."
+        },
+        {
+          "name": "JsonX",
+          "URL": "https://github.com/usernane/jsonx",
+          "description": "مكتبة تساعد على إنشاء سلاسل Json النصية في لغة PHP."
+        },
+        {
+          "name": "phpStructs",
+          "URL": "https://github.com/usernane/phpStructs",
+          "description": "مكتبة تحوي على هياكل البيانات الأساسية مثل Linked List و Stack. بالإضافة, بالإمكان إستخدامها لإنشاء DOM الخاص بصفحات المواقع الإلكترونية."
+        },
+        {
+          "name": "restEasy",
+          "URL": "https://github.com/usernane/restEasy",
+          "description": "مكتبة تساعد على تطوير REST APIs بإستخدام لغة PHP."
+        }
+      ]
+    },
+    {
+      "name": "يوسف الرشيدي",
+      "githubURL": "https://github.com/usefksa",
+      "projects": [
+        {
+          "name": "Saudi_GIS_Data",
+          "URL": "https://github.com/usefksa/Saudi_GIS_Data",
+          "description": "قائمة باسماء المدن و الاحياء السعودية مع معلومات حدود الاحياء الجغرافية."
+        },
+        {
+          "name": "engAraDictionaryFrom_ArabEyes",
+          "URL": "https://github.com/usefksa/engAraDictionaryFrom_ArabEyes",
+          "description": "قاعدة بيانات SQL للقاموس الانجليزي العربي المقدم من مجموعة عيون عربية."
+        }
+      ]
+    },
+    {
+      "name": "نُهى المزيني",
+      "githubURL": "https://github.com/nuhamozaini",
+      "projects": [
+        {
+          "name": "مناطق | Manateq",
+          "URL": "https://github.com/nuhamozaini/Manateq",
+          "description": "A Ruby gem to facilitate working with regions, cities and districts in Saudi Arabia"
+        }
+      ]
+    },
+    {
+      "name": "محمد العصيمي",
+      "githubURL": "https://github.com/mohammedhalosaimi",
+      "projects": [
+        {
+          "name": "IoT Smart Library Application",
+          "URL": "https://github.com/mohammedhalosaimi/IoT-Application-Building-a-Smart-Library",
+          "description": "مكتبة ذكية تمكنك من تسجيل دخول واستعارة كتب. مزايا: استخدام الوجه لتسجيل الدخول, اضافة موعد ارجاع الكتب لـ Google Calendar, استخدام الصوت في طلب الكتب."
+        },
+        {
+          "name": "Riyadh Coffee Shops Web Scraping",
+          "URL": "https://github.com/mohammedhalosaimi/Riyadh-Coffee-Shops-Web-Scraping",
+          "description": "Riyadh Coffee shops Data obtained by a web scrapping."
+        }
+      ]
+    },
+    {
+      "name": "علي الحارثي",
+      "githubURL": "https://github.com/ali-alharthi",
+      "projects": [
+        {
+          "name": "SaudiAddress",
+          "URL": "https://github.com/ali-alharthi/SaudiAddress",
+          "description": "SaudiAddress is a PHP package/library built to consume the Saudi National Address API (<a href=\"https://api.address.gov.sa\">api.address.gov.sa</a>). It makes it simple to use most of what the API has to offer. You can for example retrieve regions, cities, districts, services and addresses from geo coordinates, verify an address and more!"
+        }
+      ]
+    },
+    {
+      "name": "يوسف الخليفة",
+      "githubURL": "https://github.com/yosif111",
+      "projects": [
+        {
+          "name": "Saudi IBAN Validator",
+          "URL": "https://github.com/yosif111/saudi-iban-validator",
+          "description": "Saudi IBAN validator is a small javascript file to validate Saudi IBANs"
+        }
+      ]
+    },
+    {
+      "name": "علي العوهلي",
+      "githubURL": "https://github.com/alioh",
+      "projects": [
+        {
+          "name": "Saudi Arabia Districts Dataset",
+          "URL": "https://github.com/alioh/Saudi-Districts-Dataset",
+          "description": "This dataset is a collection of files related to Saudi Arabia's districts. The data were collected manually from This data includes general information about districts of the Kingdom of Saudi Arabia, such as the number of residents, the proportion of Saudis and foreigners, the distribution of males and females, in addition to the average income. Data were collected manually from Nine Tenths."
+        }
+      ]
+    },
+    {
+      "name": "فارس العتيبي",
+      "githubURL": "https://github.com/farisd3v",
+      "projects": [
+        {
+          "name": "PhpSanitization",
+          "URL": "https://github.com/farisd3v/PhpSanitization",
+          "description": "Simple PHP Sanitization Class, This is a simple class that can verify and clean values to assure they are valid. It can take a given string and remove or encode certain types of text values, so it can be displayed in Web pages lowering the risk of being used to perform security attacks. The class can also sanitize arrays of data by processing the array values one by one."
+        },
+        {
+          "name": "Uploady",
+          "URL": "https://github.com/farisd3v/Uploady",
+          "description": "Uploady is a Simple File Uploader Script with Multi File Upload Support, It comes with more than 20 features and you can set up it in less than 5 minutes."
+        }
+      ]
+    },
+    {
+      "name": "نواف المنصور",
+      "githubURL": "https://github.com/Nawaf-Almansour",
+      "projects": [
+        {
+          "name": "List of nationalities and countries in Arabic",
+          "URL": "https://github.com/Nawaf-Almansour/country-nationality-list-Arabic",
+          "description": "A list of countries includes information from more than 240 countries around the world in the Arabic language, which helps in knowing information and helps the user in writing his data. The data you will find in the file (dial code, country name, nationality name, code)"
+        }
+      ]
+    },
+    {
+      "name": "عبدالعزيز الخراشي",
+      "githubURL": "https://github.com/AzizAk",
+      "projects": [
+        {
+          "name": "react-native-detector",
+          "URL": "https://github.com/AzizAK/react-native-detector",
+          "description": "screenshots detector for react native"
+        },
+        {
+          "name": "whatsapp-bot",
+          "URL": "https://github.com/AzizAK/whatsapp-bot",
+          "description": "sends automated whatsapp messages"
+        }
+      ]
+    },
+    {
+      "name": "مؤيد السريع",
+      "githubURL": "https://github.com/moayadalsariya",
+      "projects": [
+        {
+          "name": "file-organizer",
+          "URL": "https://github.com/moayadalsariya/file_organizer",
+          "description": "command line tool help you to organise your files based on type of files"
+        }
+      ]
+    },
+    {
+      "NumberOfProjects": "10",
+      "name": "معاذ الهاجري",
+      "githubURL": "https://github.com/DevMoath",
+      "projects": [
+        {
+          "name": "infosystems.blog",
+          "URL": "https://github.com/DevMoath/infosystems.blog",
+          "description": "مدونة لطلاب تخصص نظم المعلومات جامعة الملك سعود تركز على شرح الخطة الدراسية وتجميع موارد المواد"
+        },
+        {
+          "name": "jql-builder",
+          "URL": "https://github.com/DevMoath/jql-builder",
+          "description": "Simple JQL builder for Jira search"
+        },
+        {
+          "name": "tailwindcss-typography-rtl",
+          "URL": "https://github.com/DevMoath/tailwindcss-typography-rtl",
+          "description": "Add RTL support for tailwindcss-typography plugin"
+        },
+        {
+          "name": "tailwindcss-capitalize-first",
+          "URL": "https://github.com/DevMoath/tailwindcss-capitalize-first",
+          "description": "Add utility class to capitalize first letter of a paragraph."
+        },
+        {
+          "name": "copy-text",
+          "URL": "https://github.com/DevMoath/copy-text",
+          "description": "Copy text to user clipboard."
+        },
+        {
+          "name": "pass",
+          "URL": "https://github.com/DevMoath/pass",
+          "description": "Node.js cli to generate passwords."
+        },
+        {
+          "name": "ar-num-to-en-num",
+          "URL": "https://github.com/DevMoath/ar-num-to-en-num",
+          "description": "Convert Arabic numbers to English numbers."
+        },
+        {
+          "name": "hide-twitter-trends",
+          "URL": "https://github.com/DevMoath/hide-twitter-trends",
+          "description": "Hide Twitter (Trending now, Who to follow, Topics to follow) taps."
+        },
+        {
+          "name": "online-jwt-builder",
+          "URL": "https://github.com/DevMoath/online-jwt-builder",
+          "description": "Web page used to generate fake, but valid, JSON Web Tokens."
+        },
+        {
+          "name": "password-generator-app",
+          "URL": "https://github.com/DevMoath/password-generator-app",
+          "description": "Password generator app to give you strong password."
+        }
+      ]
+    },
+    {
+      "name": "محمد الغموي",
+      "githubURL": "https://github.com/MohaTech10",
+      "projects": [
+        {
+          "name": "Typed Programming Language",
+          "URL": "https://github.com/MohaTech10/UQUCompiler",
+          "description": "A compiler written in Java targeting MIPS-32bit architecture"
+        }
+      ]
+    },
+    {
+      "name": "عبدالله مزين",
+      "githubURL": "https://github.com/Mzaien",
+      "projects": [
+        {
+          "name": "Next.js Packge template",
+          "URL": "https://github.com/Mzaien/Next-libs",
+          "description": "A package template to make new Next.js libraries"
+        },
+        {
+          "name": "Next.js client side Redirect library",
+          "URL": "https://github.com/Mzaien/Next-redirects",
+          "description": "Next.js library that redirect pages depending on a condition you provide"
+        }
+      ]
+    },
+    {
+      "name": "احمد المالكي",
+      "githubURL": "https://github.com/devAhmed07",
+      "projects": [
+        {
+          "name": "mghrd",
+          "URL": "https://github.com/devAhmed07/mghrd",
+          "description": "سكربت مغرد للتغريد التلقائي"
+        },
+        {
+          "name": "Twitter-bots",
+          "URL": "https://github.com/devAhmed07/Twitter-bots",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "يزيد المقوشي",
+      "githubURL": "https://github.com/yazeed44",
+      "projects": [
+        {
+          "name": "Fix invalid GeoJSON objects",
+          "URL": "https://github.com/yazeed44/gjf",
+          "description": "A tool to fix invalid GeoJSON objects through Python or command line"
+        },
+        {
+          "name": "MultiImagePicker",
+          "URL": "https://github.com/yazeed44/MultiImagePicker",
+          "description": "A library to pick multi images in Android"
+        },
+        {
+          "name": "social-media-detector-api",
+          "URL": "https://github.com/yazeed44/social-media-detector-api",
+          "description": "This api would allow you to check if a phone number has a certain social media app"
+        },
+        {
+          "name": "pptxer",
+          "URL": "https://github.com/yazeed44/pptxer",
+          "description": "This project is made to make it as easy as possible to scrape presentations (pptx files) from the internet and extract their text (body and notes). It can be used in Python or command line"
+        }
+      ]
+    },
+    {
+      "name": "سعود المطيري",
+      "githubURL": "https://github.com/SaudRD",
+      "projects": [
+        {
+          "name": "Jobs Email Sender",
+          "URL": "https://github.com/SaudRD/JobsEmailSender",
+          "description": "A twitter bot who check if there any IT jobs from a particular user and send you an Email of the job."
+        }
+      ]
+    },
+    {
+      "name": "احمد",
+      "githubURL": "https://github.com/ahmedelq",
+      "projects": [
+        {
+          "name": "NattyNote",
+          "URL": "https://github.com/ahmedelq/nattynote",
+          "description": "NattyNote: A browser extension to take time-stamped YouTube notes."
+        }
+      ]
+    },
+    {
+      "name": "احمد الصاعدي",
+      "githubURL": "https://github.com/AhmadAlsaadi",
+      "projects": [
+        {
+          "name": "Arabic-python-notebook",
+          "URL": "https://github.com/AhmadAlsaadi/Arabic-python-notebook",
+          "description": "يهدف هذا الكتاب الى توفير محتوى عربي سهل يمكن القارئ من تعلم لغة بايثون بحيث يمكن استخدامه كمادة علمية جامعية تدرس خلال ترم فصلي واحد في احد التخصصات الهندسية"
+        }
+      ]
+    }
+  ]
