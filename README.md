@@ -508,7 +508,7 @@
            <a href=https://github.com/Hussain-Alsalman/Interactive_map_SA_imports>JInteractive_map_SA_imports</a>
         </td>
         <td>
-            
+            &nbsp;
         </td>
     </tr>
     <tr>
@@ -1313,7 +1313,7 @@
            <a href=https://github.com/devAhmed07/Twitter-bots>Twitter-bots</a>
         </td>
         <td>
-            
+            &nbsp;
         </td>
     </tr>
     <tr>
