@@ -26,7 +26,7 @@ const readmeContent = `<table dir="rtl">
            <a href=${project.URL}>${project.name}</a>
         </td>
         <td>
-            ${project.description}
+            ${project.description.trim() == "" ? "&nbsp;" : project.description.trim()}
         </td>
     </tr>`
       )
