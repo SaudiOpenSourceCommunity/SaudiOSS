@@ -21,7 +21,7 @@
     "pretty-quick": "^1.11.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build"
   },
