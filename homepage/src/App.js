@@ -10,13 +10,13 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCode } from "@fortawesome/free-solid-svg-icons";
 import "./App.css";
-import fetchProjects from "./githubApi";
+import { fetchDevs } from "./githubApi";
 
 function App() {
   const [developers, loadDevelopers] = useState([]);
   useEffect(() => {
     const fetchDev = async () => {
-      const developers = await fetchProjects();
+      const developers = await fetchDevs();
       loadDevelopers(developers);
     };
     fetchDev();
@@ -95,7 +95,7 @@ function DevInfo({ developer }) {
               <Badge
                 className="rainbow-m-around_xx"
                 label={developer.projects.length}
-                title="the badge title"
+                title="total projects count"
                 style={{ padding: "0.25em 0.50em", margin: "-2em -1em 1.5em" }}
               />
             </Button>
