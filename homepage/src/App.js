@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="devs-container">
       {developers.map(developer => (
-        <DevInfo developer={developer} />
+        <DevInfo developer={developer} key={developer.name} />
       ))}
     </div>
   );
