@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  word-break: break-all;
 }
 
 .App-logo {
@@ -22,4 +23,102 @@
 }
 .container {
   justify-items: center;
+}
+
+.devs-title {
+  font-size: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.devs-title button {
+  border: 0px;
+  background-color: transparent;
+}
+
+.devs-title button.active {
+  border-bottom: 2px solid green;
+}
+
+.project-list-item {
+  background-color: white;
+  color: #3e3e3c;
+  border: 1px solid rgb(227, 229, 237);
+  border-radius: 14px;
+  box-shadow: rgb(227, 229, 237) 0px 1px 2px 0px;
+  padding: 20px;
+  font-size: 13px;
+  line-height: 19.5px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  align-content: space-around;
+  justify-content: space-between;
+}
+
+.project-list-item-user-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.project-list-item-project-details-container,
+.project-list-item-project-meta-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  text-align: center;
+}
+
+.topics-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.topic {
+  background-color: rgb(222, 222, 222);
+  border-radius: 5px;
+  padding: 4px;
+  margin: 3px;
+  font-size: 0.7rem;
+  color: rgb(82, 32, 32);
+  box-shadow: rgb(227, 229, 237) 0px 0.5px 1px 0px;
+}
+
+.w-1of4 {
+  width: 100%;
+}
+
+.w-2of4 {
+  width: 100%;
+}
+
+@media only screen and (min-width: 640px) {
+  .w-1of4 {
+    width: 25%;
+  }
+
+  .w-2of4 {
+    width: 50%;
+  }
+
+  .row-lg {
+    flex-direction: row;
+    gap: 8px;
+  }
+
+  .project-list-item-user-container {
+    justify-content: start;
+  }
 }

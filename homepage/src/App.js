@@ -10,23 +10,61 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCode } from "@fortawesome/free-solid-svg-icons";
 import "./App.css";
-import { fetchDevs } from "./githubApi";
+import { fetchDevs, fetchProjects } from "./githubApi";
 
 function App() {
   const [developers, loadDevelopers] = useState([]);
+  const [projects, loadProjects] = useState([]);
+  const [route, setRoute] = useState("devs");
   useEffect(() => {
     const fetchDev = async () => {
       const developers = await fetchDevs();
       loadDevelopers(developers);
     };
     fetchDev();
+    const fetchProject = async () => {
+      const projects = await fetchProjects();
+      loadProjects(projects);
+    };
+    fetchProject();
   }, []);
+
   if (developers.length === 0) return <></>;
   return (
-    <div className="devs-container">
-      {developers.map(developer => (
-        <DevInfo developer={developer} />
-      ))}
+    <div>
+      <div className="devs-title row-lg">
+        <button
+          className={route === "devs" ? "active" : ""}
+          onClick={() => setRoute("devs")}
+        >
+          المبرمجون
+        </button>
+        <button
+          className={route === "projects" ? "active" : ""}
+          onClick={() => setRoute("projects")}
+        >
+          المشاريع
+        </button>
+      </div>
+
+      {route === "projects" ? (
+        <div className="projects-container">
+          {projects.map(project => (
+            <ProjectInfo
+              project={project}
+              key={project.name + project.dev_name_ar}
+            />
+          ))}
+        </div>
+      ) : null}
+
+      {route === "devs" ? (
+        <div className="devs-container">
+          {developers.map(developer => (
+            <DevInfo developer={developer} />
+          ))}
+        </div>
+      ) : null}
     </div>
   );
 }
@@ -141,6 +179,87 @@ function DevInfo({ developer }) {
           {getPagination()}
         </Modal>
       </Card>
+    </div>
+  );
+}
+
+function ProjectInfo({ project }) {
+  const getDevGitHubURL = () => {
+    if (project.dev_github_url)
+      return (
+        <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
+          <a target="_blank" href={project.dev_github_url}>
+            {project.dev_name_ar}
+          </a>
+        </p>
+      );
+    return (
+      <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
+        {project.dev_name_ar}
+      </p>
+    );
+  };
+  const getProjectGitHubURL = () => {
+    if (project.URL)
+      return (
+        <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
+          <a target="_blank" href={project.URL}>
+            {project.name}
+          </a>
+        </p>
+      );
+    return (
+      <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
+        {project.name}
+      </p>
+    );
+  };
+  const getProjectLicense = () => {
+    if (project.license)
+      return (
+        <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
+          {project.license.name}
+        </p>
+      );
+    return (
+      <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
+        &nbsp;
+      </p>
+    );
+  };
+  const getProjectTopics = () => {
+    if (project.topics && project.topics.length > 0)
+      return (
+        <div className="topics-container">
+          {project.topics.map(topic => (
+            <span className="topic" key={topic}>
+              {topic}
+            </span>
+          ))}
+        </div>
+      );
+    return <div className="topics-container">&nbsp;</div>;
+  };
+  return (
+    <div className="project-list-item row-lg">
+      <div className="project-list-item-user-container w-1of4">
+        <Avatar
+          src={`${project.dev_github_url}.png`}
+          assistiveText={project.dev_name_ar}
+          title={project.dev_name_ar}
+          size="large"
+          style={{ height: "2.2rem", width: "2.2rem" }}
+        />
+        {getDevGitHubURL()}
+      </div>
+      <div className="project-list-item-project-details-container w-2of4">
+        {getProjectGitHubURL()}
+        {project.description}
+      </div>
+      <div className="project-list-item-project-meta-container w-1of4">
+        {getProjectLicense()}
+        {getProjectTopics()}
+      </div>
     </div>
   );
 }

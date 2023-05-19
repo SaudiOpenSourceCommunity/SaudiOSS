@@ -751,12 +751,12 @@
     "projects": [
       {
         "name": "hijri",
-        "URL": "https://pub.dartlang.org/packages/hijri",
+        "URL": "https://github.com/ahmedoid/hijri_date",
         "description": "Umm Alqura Hijri Calendar Converter in Dart language"
       },
       {
         "name": "hijri_picker",
-        "URL": "https://pub.dartlang.org/packages/hijri_picker",
+        "URL": "https://github.com/ahmedoid/hijri_picker",
         "description": "Hijri date picker in Dart language"
       }
     ]
@@ -1249,7 +1249,7 @@
       }
     ]
   },
-    {
+  {
     "name": "احمد الرويحي",
     "githubURL": "https://github.com/ahmedrowaihi",
     "projects": [
