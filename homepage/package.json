@@ -15,14 +15,14 @@
     "shuffle-array": "^1.0.1"
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "husky": "^2.3.0",
     "prettier": "^1.17.1",
     "pretty-quick": "^1.11.0"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts build",
+    "build": "react-scripts --openssl-legacy-provider build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
