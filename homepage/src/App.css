@@ -27,20 +27,27 @@
 
 .devs-title {
   font-size: 2.5rem;
+}
+.view-buttons-container {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 10px;
   align-items: center;
   justify-content: center;
+  margin-top: 20px;
 }
-
-.devs-title button {
+.view-buttons-container button {
   border: 0px;
   background-color: transparent;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: rgb(227, 229, 237) 0px 3px 4px 0px;
 }
 
-.devs-title button.active {
-  border-bottom: 2px solid green;
+.view-buttons-container button.active {
+  border: 2px solid green;
 }
 
 .project-list-item {
