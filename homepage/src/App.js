@@ -43,9 +43,8 @@ function App() {
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
-            stroke-width="1.5"
+            strokeWidth="1.5"
             stroke="currentColor"
-            class="w-6 h-6"
           >
             <path
               stroke-linecap="round"
@@ -63,9 +62,8 @@ function App() {
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
-            stroke-width="1.5"
+            strokeWidth="1.5"
             stroke="currentColor"
-            class="w-6 h-6"
           >
             <path
               stroke-linecap="round"
@@ -255,6 +253,19 @@ function ProjectInfo({ project }) {
       </p>
     );
   };
+  const getProjectLanguage = () => {
+    if (project.language)
+      return (
+        <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
+          {project.language}
+        </p>
+      );
+    return (
+      <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
+        &nbsp;
+      </p>
+    );
+  };
   const getProjectTopics = () => {
     if (project.topics && project.topics.length > 0)
       return (
@@ -285,6 +296,7 @@ function ProjectInfo({ project }) {
         {project.description}
       </div>
       <div className="project-list-item-project-meta-container w-1of4">
+        {getProjectLanguage()}
         {getProjectLicense()}
         {getProjectTopics()}
       </div>
