@@ -71,8 +71,8 @@ const newTemplate = template.replace("<!-- DEVELOPERS LIST -->", readmeContent);
       try {
         const response = await client.request(request_url);
       } catch (e) {
-        // possible rate limit error, wait for 10 minutes
-        await sleep(1000 * 60 * 10);
+        // In case of an error, return the project as is without details
+        return project;
       }
       const data = await response.json();
 
