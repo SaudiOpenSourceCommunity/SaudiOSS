@@ -68,13 +68,13 @@ const newTemplate = template.replace("<!-- DEVELOPERS LIST -->", readmeContent);
         /https?:\/\/github\.com\//,
         "https://api.github.com/repos/"
       ).trim();
-      const response = await client.request(request_url);
       try {
-        const data = await response.json();
+        const response = await client.request(request_url);
       } catch (e) {
         // possible rate limit error, wait for 10 minutes
         await sleep(1000 * 60 * 10);
       }
+      const data = await response.json();
 
       project.details = {
         id: data.id,
