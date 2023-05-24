@@ -16,17 +16,21 @@ const readmeContent = `<table dir="rtl">
     </tr>
     ${devs
       .map(
-        (dev) => `<tr>
+        dev => `<tr>
     <td rowspan="${dev.projects.length}">
         <a href="${dev.githubURL}"> ${dev.name} </a>
     </td>
     ${dev.projects
       .map(
-        (project) => `<td>
+        project => `<td>
            <a href=${project.URL}>${project.name}</a>
         </td>
         <td>
-            ${project.description.trim() == "" ? "&nbsp;" : project.description.trim()}
+            ${
+              project.description.trim() == ""
+                ? "&nbsp;"
+                : project.description.trim()
+            }
         </td>
     </tr>`
       )
@@ -49,7 +53,59 @@ const newTemplate = template.replace("<!-- DEVELOPERS LIST -->", readmeContent);
       {
         message: "Update readme.md",
         content: Buffer.from(newTemplate, "utf-8").toString(encoding),
-        sha,
+        sha
+      }
+    );
+  } catch (e) {
+    console.log(e);
+  }
+  // adding projects details
+  devs.forEach(dev => {
+    dev.projects = dev.projects.map(async project => {
+      if (project.details) return project;
+
+      const request_url = project.URL.replace(
+        /https?:\/\/github\.com\//,
+        "https://api.github.com/repos/"
+      ).trim();
+      const response = await client.request(request_url);
+      try {
+        const data = await response.json();
+      } catch (e) {
+        // possible rate limit error, wait for 10 minutes
+        await sleep(1000 * 60 * 10);
+      }
+
+      project.details = {
+        id: data.id,
+        language: data.language,
+        license: data.license,
+        topics: data.topics
+      };
+
+      console.log(
+        `✅ Project ${project.name} by ${dev.name} has been extracted`
+      );
+
+      return project;
+    });
+  });
+
+  try {
+    const res = await client.request(
+      "GET /repos/SaudiOpenSourceCommunity/SaudiOSS/contents/devs.json"
+    );
+
+    const { sha, encoding } = res.data;
+
+    client.request(
+      "PUT /repos/SaudiOpenSourceCommunity/SaudiOSS/contents/devs.json",
+      {
+        message: "Update devs.json",
+        content: Buffer.from(JSON.stringify(devs, null, 4), "utf-8").toString(
+          encoding
+        ),
+        sha
       }
     );
   } catch (e) {

@@ -25,12 +25,12 @@ function App() {
           projects.push({
             dev_name_ar: dev.name,
             dev_github_url: dev.githubURL,
-            id: project.details.id,
+            id: project?.details?.id,
             name: project.name,
             description: project.description,
-            language: project.details.language,
-            license: project.details.license,
-            topics: project.details.topics,
+            language: project?.details?.language,
+            license: project?.details?.license,
+            topics: project?.details?.topics,
             URL: project.URL
           });
         });
