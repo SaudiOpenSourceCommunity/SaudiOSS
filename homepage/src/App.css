@@ -1,3 +1,17 @@
+.ltr {
+  direction: ltr;
+}
+
+.center-items {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.rainbow-textarea {
+  overflow: scroll !important;
+}
+
 .App {
   text-align: center;
   word-break: break-all;
@@ -21,6 +35,7 @@
 .App-link {
   color: #09d3ac;
 }
+
 .container {
   justify-items: center;
 }
@@ -28,6 +43,7 @@
 .devs-title {
   font-size: 2.5rem;
 }
+
 .view-buttons-container {
   display: flex;
   flex-direction: row;
@@ -36,6 +52,7 @@
   justify-content: center;
   margin-top: 20px;
 }
+
 .view-buttons-container button {
   border: 0px;
   background-color: transparent;

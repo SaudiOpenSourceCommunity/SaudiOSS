@@ -1,16 +1,20 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import {
   Card,
   Button,
   Avatar,
   Modal,
   Badge,
-  Pagination
+  Pagination,
+  Input,
+  Picklist,
+  PicklistOption,
+  Textarea
 } from "react-rainbow-components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCode } from "@fortawesome/free-solid-svg-icons";
+import { faCode, faPlus, faCopy } from "@fortawesome/free-solid-svg-icons";
 import "./App.css";
-import { fetchDevs, fetchProjects } from "./githubApi";
+import { fetchDevs } from "./githubApi";
 
 function App() {
   const [developers, loadDevelopers] = useState([]);
@@ -45,6 +49,9 @@ function App() {
   return (
     <div>
       <div className="devs-title">المبرمجون</div>
+      <div className="center-items">
+        <AddDevButton />
+      </div>
       <div className="view-buttons-container">
         <button
           className={view === "devs" ? "active" : ""}
@@ -116,7 +123,7 @@ function DevInfo({ developer }) {
     return (
       <>
         <div>
-          <a target="_blank" href={project.URL}>
+          <a target="_blank" href={project.URL} rel="noreferrer">
             <b style={{ fontSize: "1.5em" }}>{project.name}</b>
           </a>
         </div>
@@ -129,7 +136,7 @@ function DevInfo({ developer }) {
     if (developer.githubURL)
       return (
         <h1 className="rainbow-p-top_large rainbow-font-size-heading_small rainbow-color_dark-1">
-          <a target="_blank" href={developer.githubURL}>
+          <a target="_blank" href={developer.githubURL} rel="noreferrer">
             {developer.name}
           </a>
         </h1>
@@ -226,7 +233,7 @@ function ProjectInfo({ project }) {
     if (project.dev_github_url)
       return (
         <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
-          <a target="_blank" href={project.dev_github_url}>
+          <a target="_blank" href={project.dev_github_url} rel="noreferrer">
             {project.dev_name_ar}
           </a>
         </p>
@@ -241,7 +248,7 @@ function ProjectInfo({ project }) {
     if (project.URL)
       return (
         <p className="rainbow-font-size-heading_small rainbow-color_dark-1">
-          <a target="_blank" href={project.URL}>
+          <a target="_blank" href={project.URL} rel="noreferrer">
             {project.name}
           </a>
         </p>
@@ -312,6 +319,278 @@ function ProjectInfo({ project }) {
         {getProjectLicense()}
         {getProjectTopics()}
       </div>
+    </div>
+  );
+}
+
+function AddDevButton({ project }) {
+  const [closed, handleOnClose] = useState(false);
+  const [name, setName] = useState("");
+  const [githubUsername, setGithubUsername] = useState("");
+  const [githubProjects, setGithubProjects] = useState([]);
+
+  const [activeProject, setActiveProject] = useState({
+    name: "",
+    URL: "",
+    description: "",
+    details: {
+      id: Math.floor(Math.random * 9999999999),
+      language: "",
+      license: {
+        name: ""
+      },
+      topics: []
+    }
+  });
+  const [projects, setProjects] = useState([]);
+
+  const getUserProjects = async () => {
+    try {
+      const respones = await fetch(
+        `https://api.github.com/users/${githubUsername}/repos`
+      );
+      const data = await respones.json();
+      console.log(data);
+      setGithubProjects(
+        data.map(project => {
+          return {
+            name: project.name,
+            URL: `https://github.com/${githubUsername}/${project.name}`,
+            description: "",
+            details: {
+              id: project.id,
+              license: project.license || { name: "" },
+              language: project.language || "",
+              topics: project.topics || []
+            }
+          };
+        })
+      );
+    } catch (e) {
+      console.log(e);
+    }
+  };
+
+  const devJSON = useMemo(() => {
+    if (name === "" || githubUsername === "" || projects.length === 0) {
+      return "";
+    }
+
+    return JSON.stringify(
+      {
+        name,
+        githubURL: `https://github.com/${githubUsername}`,
+        projects: projects
+      },
+      null,
+      4
+    );
+  }, [name, projects, githubUsername]);
+
+  const addActiveProject = () => {
+    setProjects([...projects, activeProject]);
+
+    setActiveProject({
+      name: "",
+      URL: "",
+      description: "",
+      details: {
+        id: Math.floor(Math.random * 9999999999),
+        language: "",
+        license: {
+          name: ""
+        },
+        topics: []
+      }
+    });
+  };
+
+  const [copyState, setCopyState] = useState("");
+
+  const copyProjects = async () => {
+    setCopyState("");
+    try {
+      await navigator.clipboard.writeText(devJSON);
+      setCopyState("تم النسخ الى المحفظة");
+    } catch (e) {
+      console.log(e);
+      setCopyState("فشل النسخ");
+    }
+  };
+
+  return (
+    <div>
+      <Button
+        variant="brand"
+        className="rainbow-m-around_medium"
+        onClick={() => handleOnClose(true)}
+      >
+        <FontAwesomeIcon icon={faPlus} className="rainbow-m-left_medium" />
+        أضف مشاريعك
+      </Button>
+
+      <Modal
+        isOpen={closed}
+        onRequestClose={() => handleOnClose(false)}
+        title="اضف مشاريعك"
+      >
+        <div style={{ textAlign: "center", paddingBottom: "2em" }}>
+          <div className="">
+            <Input
+              label="إسمك"
+              placeholder="إسمك"
+              className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto"
+              onChange={e => setName(e.target.value)}
+            />
+            <Input
+              label="حسابك على منصة Github"
+              placeholder="حسابك على منصة Github"
+              className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto"
+              onChange={e => setGithubUsername(e.target.value)}
+              onBlur={getUserProjects}
+            />
+            <div className="">
+              <Picklist
+                className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto"
+                label="إختر مشروعك"
+                onChange={value =>
+                  setActiveProject(
+                    githubProjects.find(
+                      project =>
+                        project.details.id.toString() === value.name.toString()
+                    )
+                  )
+                }
+                size="large"
+              >
+                {githubProjects
+                  .filter(project => {
+                    return !projects.find(
+                      addedProject => addedProject.details.id === project.id
+                    );
+                  })
+                  .map(project => (
+                    <PicklistOption
+                      key={project.details.id}
+                      name={project.details.id.toString()}
+                      label={project.name}
+                    />
+                  ))}
+              </Picklist>
+            </div>
+            <Input
+              label="إسم المشروع"
+              placeholder="إسم المشروع"
+              className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto"
+              type="text"
+              onChange={e =>
+                setActiveProject(activeProject => {
+                  return { ...activeProject, name: e.target.value };
+                })
+              }
+              value={activeProject.name}
+            />
+            <Input
+              label="رابط المشروع"
+              placeholder="رابط المشروع"
+              className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto ltr"
+              type="text"
+              onChange={e =>
+                setActiveProject(activeProject => {
+                  return { ...activeProject, URL: e.target.value };
+                })
+              }
+              value={activeProject.URL}
+            />
+            <Input
+              label="شرح للمشروع"
+              placeholder="شرح للمشروع"
+              className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto"
+              onChange={e =>
+                setActiveProject(activeProject => {
+                  return { ...activeProject, description: e.target.value };
+                })
+              }
+              value={activeProject.description}
+            />
+            <Input
+              label="اللغة البرمجية"
+              placeholder="اللغة البرمجية"
+              className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto ltr"
+              onChange={e =>
+                setActiveProject(activeProject => {
+                  return {
+                    ...activeProject,
+                    details: {
+                      ...activeProject.details,
+                      language: e.target.value
+                    }
+                  };
+                })
+              }
+              value={activeProject.details.language}
+            />
+            <Input
+              label="مواضيع المشروع"
+              placeholder="مواضيع المشروع مفصولة بفاصلة ,"
+              className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto"
+              onChange={e =>
+                setActiveProject(activeProject => {
+                  return {
+                    ...activeProject,
+                    details: {
+                      ...activeProject.details,
+                      topics: e.target.value.split(",")
+                    }
+                  };
+                })
+              }
+              value={activeProject.details.topics.join(",")}
+            />
+            <Button onClick={addActiveProject}>
+              <FontAwesomeIcon
+                icon={faPlus}
+                className="rainbow-m-left_medium"
+              />
+              أضف المشروع
+            </Button>
+
+            {devJSON ? (
+              <div>
+                <div className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto">
+                  <Textarea
+                    value={devJSON}
+                    grow={true}
+                    size="large"
+                    label={
+                      <div>
+                        انسخ هذا المكون واضفه الى &nbsp;
+                        <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/blob/master/devs.json">
+                          قائمة المبرمجين على قيتهب
+                        </a>
+                      </div>
+                    }
+                    className="ltr"
+                    rows={5}
+                  ></Textarea>
+                </div>
+                <div className="rainbow-m-vertical_x-large rainbow-p-horizontal_medium rainbow-m_auto">
+                  <Button onClick={copyProjects}>
+                    <FontAwesomeIcon
+                      icon={faCopy}
+                      className="rainbow-m-left_medium"
+                    />
+                    إنسخ
+                  </Button>
+                </div>
+                <div>
+                  <p>{copyState}</p>
+                </div>
+              </div>
+            ) : null}
+          </div>
+        </div>
+      </Modal>
     </div>
   );
 }
