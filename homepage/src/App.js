@@ -50,7 +50,7 @@ function App() {
     <div>
       <div className="devs-title">المبرمجون</div>
       <div className="center-items">
-        <AddDevButton />
+        <AddDevButton developers={developers} />
       </div>
       <div className="view-buttons-container">
         <button
@@ -323,7 +323,7 @@ function ProjectInfo({ project }) {
   );
 }
 
-function AddDevButton({ project }) {
+function AddDevButton({ developers }) {
   const [closed, handleOnClose] = useState(false);
   const [name, setName] = useState("");
   const [githubUsername, setGithubUsername] = useState("");
@@ -346,28 +346,47 @@ function AddDevButton({ project }) {
 
   const getUserProjects = async () => {
     try {
+      const previousDev = developers.find(developer =>
+        developer.githubURL
+          ?.toLowerCase()
+          .match(`https://github.com/${githubUsername}`.toLowerCase())
+      );
+      setName(previousDev ? previousDev.name : "");
+      const previousProjects = previousDev?.projects || [];
+      setProjects(previousProjects);
+
       const respones = await fetch(
         `https://api.github.com/users/${githubUsername}/repos`
       );
       const data = await respones.json();
-      console.log(data);
-      setGithubProjects(
-        data.map(project => {
-          return {
-            name: project.name,
-            URL: `https://github.com/${githubUsername}/${project.name}`,
-            description: "",
-            details: {
-              id: project.id,
-              license: project.license || { name: "" },
-              language: project.language || "",
-              topics: project.topics || []
-            }
-          };
-        })
-      );
+
+      setGithubProjects([
+        // ...previousProjects,
+        ...data
+          // .filter((project) => {
+          //   const x = previousProjects.find(
+          //     (previousProject) =>
+          //       previousProject.details.id === project.id
+          //   );
+
+          //   return !x;
+          // })
+          .map(project => {
+            return {
+              name: project.name,
+              URL: `https://github.com/${githubUsername}/${project.name}`,
+              description: "",
+              details: {
+                id: project.id,
+                license: project.license || { name: "" },
+                language: project.language || "",
+                topics: project.topics || []
+              }
+            };
+          })
+      ]);
     } catch (e) {
-      console.log(e);
+      console.error(e);
     }
   };
 
@@ -413,7 +432,7 @@ function AddDevButton({ project }) {
       await navigator.clipboard.writeText(devJSON);
       setCopyState("تم النسخ الى المحفظة");
     } catch (e) {
-      console.log(e);
+      console.error(e);
       setCopyState("فشل النسخ");
     }
   };
@@ -466,7 +485,8 @@ function AddDevButton({ project }) {
                 {githubProjects
                   .filter(project => {
                     return !projects.find(
-                      addedProject => addedProject.details.id === project.id
+                      addedProject =>
+                        addedProject.details.id === project.details.id
                     );
                   })
                   .map(project => (
