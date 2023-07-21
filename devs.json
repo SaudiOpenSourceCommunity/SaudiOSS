@@ -3048,5 +3048,62 @@
         "details": {}
       }
     ]
+  },
+  {
+    "name": "ياسر طواش",
+    "githubURL": "https://github.com/tawashy/urway.js",
+    "projects": [
+      {
+        "name": "URWAY Payment Gateway",
+        "URL": "https://github.com/tawashy/urway.js",
+        "description": "The URWAY.js library provides convenient access to the URWAY API from applications written in server-side JavaScript.",
+        "details": {
+          "id": 590138090,
+          "language": "TypeScript",
+          "license": null,
+          "topics": []
+        }
+      }
+    ]
+  },
+  {
+    "name": "جريبة صالح",
+    "githubURL": "https://github.com/JuribaDev",
+    "projects": [
+      {
+        "name": "any_language_number_input_formatter",
+        "URL": "https://github.com/JuribaDev/any_language_number_input_formatter",
+        "description": "This Flutter package is designed to effortlessly convert numerical values from any language into Arabic numerals. مكتبة تحول اي رقم الى رقم عربي.",
+        "details": {
+          "id": 649732989,
+          "language": "Dart",
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+          },
+          "topics": []
+        }
+      },
+      {
+        "name": "quara_sunmi_printer",
+        "URL": "https://github.com/JuribaDev/quara_sunmi_printer",
+        "description": "This Flutter plugin offers seamless integration with Sunmi devices such as V1, V1s, V2 Pro, and more. Its capabilities streamline the development process, making it a breeze to harness the features and functionalities of these Sunmi devices within your Flutter applications. Whether you're looking to extend your app's compatibility or exploit specific features offered by these devices, our plugin can serve as your valuable toolkit. Compatible with a range of Sunmi devices, the plugin ensures your app reaches a broader audience with enhanced performance.",
+        "details": {
+          "id": 494131988,
+          "language": "Java",
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+          },
+          "topics": []
+        }
+      }
+    ]
   }
 ]

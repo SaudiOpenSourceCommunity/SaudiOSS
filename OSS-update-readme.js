@@ -60,36 +60,41 @@ const newTemplate = template.replace("<!-- DEVELOPERS LIST -->", readmeContent);
     console.log(e);
   }
   // adding projects details
-  devs.forEach(dev => {
-    dev.projects = dev.projects.map(async project => {
-      if (project.details) return project;
+  await Promise.all(
+    devs.map(async dev => {
+      dev.projects = await Promise.all(
+        dev.projects.map(async project => {
+          if (project.details) return project;
 
-      const request_url = project.URL.replace(
-        /https?:\/\/github\.com\//,
-        "https://api.github.com/repos/"
-      ).trim();
-      try {
-        const response = await client.request(request_url);
-      } catch (e) {
-        // In case of an error, return the project as is without details
-        return project;
-      }
-      const data = await response.json();
+          const request_url = project.URL.replace(
+            /https?:\/\/github\.com\//,
+            "https://api.github.com/repos/"
+          ).trim();
+          try {
+            const response = await client.request(request_url);
+            const data = await response.json();
 
-      project.details = {
-        id: data.id,
-        language: data.language,
-        license: data.license,
-        topics: data.topics
-      };
+            project.details = {
+              id: data.id,
+              language: data.language,
+              license: data.license,
+              topics: data.topics
+            };
 
-      console.log(
-        `✅ Project ${project.name} by ${dev.name} has been extracted`
+            console.log(
+              `✅ Project ${project.name} by ${dev.name} has been extracted`
+            );
+
+            return project;
+          } catch (e) {
+            // In case of an error, return the project as is without details
+            console.error(e);
+            return project;
+          }
+        })
       );
-
-      return project;
-    });
-  });
+    })
+  );
 
   try {
     const res = await client.request(

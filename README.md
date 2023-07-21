@@ -1,13 +1,13 @@
 <div dir="rtl">
     <h1>
     قائمة بالمشاريع السعودية المفتوحة المصدر:
-  </h1>
+    </h1>
     <p>
         هناك الكثير من المشاريع المفتوحة المصدر التي بنيت بأيدي سعودية. هذه القائمة تحمل بعضها حتى يتسنى للجميع الإستفادة منها. القائمة مرتبة بشكل عشوائي ولايوجد أي معنى للترتيب.
     </p>
     <h1>
     المشاريع:
-  </h1>
+    </h1>
     <table dir="rtl">
     <tr>
         <th>المبرمج</th>
@@ -831,13 +831,13 @@
         <a href="https://github.com/ahmedoid"> أحمد الجعيد </a>
     </td>
     <td>
-           <a href=https://pub.dartlang.org/packages/hijri>hijri</a>
+           <a href=https://github.com/ahmedoid/hijri_date>hijri</a>
         </td>
         <td>
             Umm Alqura Hijri Calendar Converter in Dart language
         </td>
     </tr><td>
-           <a href=https://pub.dartlang.org/packages/hijri_picker>hijri_picker</a>
+           <a href=https://github.com/ahmedoid/hijri_picker>hijri_picker</a>
         </td>
         <td>
             Hijri date picker in Dart language
@@ -1389,10 +1389,38 @@
             React Native I18n Storage هي مكتبة مخصصة لحل ازمة إدارة إعدادات I18nManager واللغة في تطبيقات React-Native عن طريق مزامنتها مع التخزين المحلي منذ بدء تشغيل التطبيق الأصلي! مما يكسر العديد من الحواجز الجديدة ويوفر اساليب لم تكن متاحة من قبل لتخصيص كل ما يتعلق بمسائل اللغة!، علاوة على حفظ قدر كبير من الاداء والسرعة في تشغيل وتبديل اللغات وجهات العرض
         </td>
     </tr>
+    <tr>
+    <td rowspan="1">
+        <a href="https://github.com/tawashy/urway.js"> ياسر طواش </a>
+    </td>
+    <td>
+           <a href=https://github.com/tawashy/urway.js>URWAY Payment Gateway</a>
+        </td>
+        <td>
+            The URWAY.js library provides convenient access to the URWAY API from applications written in server-side JavaScript.
+        </td>
+    </tr>
+    <tr>
+    <td rowspan="2">
+        <a href="https://github.com/JuribaDev"> جريبة صالح </a>
+    </td>
+    <td>
+           <a href=https://github.com/JuribaDev/any_language_number_input_formatter>any_language_number_input_formatter</a>
+        </td>
+        <td>
+            This Flutter package is designed to effortlessly convert numerical values from any language into Arabic numerals. مكتبة تحول اي رقم الى رقم عربي.
+        </td>
+    </tr><td>
+           <a href=https://github.com/JuribaDev/quara_sunmi_printer>quara_sunmi_printer</a>
+        </td>
+        <td>
+            This Flutter plugin offers seamless integration with Sunmi devices such as V1, V1s, V2 Pro, and more. Its capabilities streamline the development process, making it a breeze to harness the features and functionalities of these Sunmi devices within your Flutter applications. Whether you're looking to extend your app's compatibility or exploit specific features offered by these devices, our plugin can serve as your valuable toolkit. Compatible with a range of Sunmi devices, the plugin ensures your app reaches a broader audience with enhanced performance.
+        </td>
+    </tr>
     
 </table>
     <h1>كيف أضيف مشروعي ؟
-  </h1> لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح:
+    </h1> لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح:
     <br>
     <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/issues/new">Issue</a>
     <br>
@@ -1401,21 +1429,21 @@
     تكوينة ملف json المطلوبة:
 </div>
 
-```
+```json
 {
- "name": "إسمك",
- "githubURL": "رابط حسابك على المنصة",
- "projects": [
-        {
-            "name": "اسم المشروع الأول",
-            "URL": "رابط المشروع على المنصة",
-            "description": "شرح مختصر عن فكرة المشروع"
-        },
-        {
-            "name": "اسم المشروع الثاني",
-            "URL": "رابط المشروع على المنصة",
-            "description": "شرح مختصر عن فكرة المشروع"
-        },
-    ]
-
+  "name": "إسمك",
+  "githubURL": "رابط حسابك على المنصة",
+  "projects": [
+    {
+      "name": "اسم المشروع الأول",
+      "URL": "رابط المشروع على المنصة",
+      "description": "شرح مختصر عن فكرة المشروع"
+    },
+    {
+      "name": "اسم المشروع الثاني",
+      "URL": "رابط المشروع على المنصة",
+      "description": "شرح مختصر عن فكرة المشروع"
+    }
+  ]
+}
 ```
