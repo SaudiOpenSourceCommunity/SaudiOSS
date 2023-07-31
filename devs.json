@@ -1260,4 +1260,27 @@
       }
     ]
   }
+  ,
+    {
+    "name": "مهند العتيبي",
+    "githubURL": "https://github.com/mo9a7i",
+    "projects": [
+      {
+        "name": "swarmapp-api",
+        "URL": "https://github.com/6degrees/swarmapp-api",
+        "description": "مكتبة Node.js توفر واجهة برمجية لواجهة برمجة تطبيقات SwarmApp (Foursquare) ، وهي واجهة برمجة التطبيقات الرسمية لتطبيق SwarmApp للشبكات الاجتماعية."
+      },
+      {
+        "name": "arabicStrings",
+        "URL": "https://github.com/6degrees/arabic-strings",
+        "description": "حزمة NPM تقوم بتوفير وظائف لغوية للمساعدة في إدارة النصوص العربية."
+      },
+      {
+        "name": "SourceCodeSpitter",
+        "URL": "https://github.com/6degrees/SourceCodeSpitter",
+        "description": "أداة سطر أوامر تقوم بإنشاء ملف تفريغ واحد يحتوي على محتوى جميع ملفات مجلد معين ، باستثناء الملفات المحددة في .gitignore و .spitignore. هذه الأداة مفيدة للتجميع السريع لمقتطفات التعليمات البرمجية المصدر لأغراض المشاركة أو التوثيق."
+      }
+      
+    ]
+  }
 ]
