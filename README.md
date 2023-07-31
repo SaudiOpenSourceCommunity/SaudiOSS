@@ -1391,6 +1391,17 @@
     </tr>
     <tr>
     <td rowspan="1">
+        <a href="https://github.com/Saud-Alghamdi"> سعود الغامدي </a>
+    </td>
+    <td>
+           <a href=https://github.com/Saud-Alghamdi/seu-students>seu-students</a>
+        </td>
+        <td>
+            تطبيق ويب بنيته لطلاب الجامعة السعودية الإلكترونية، هدفه رئيسي هو تحصيل المحتوى الدراسي بكل يسر وسهولة (كتب، سلايدات، أسايمنتات، كويزات، حلول، تيست بانك، الخ ..)
+        </td>
+    </tr>
+    <tr>
+    <td rowspan="1">
         <a href="https://github.com/tawashy/urway.js"> ياسر طواش </a>
     </td>
     <td>
@@ -1415,6 +1426,29 @@
         </td>
         <td>
             This Flutter plugin offers seamless integration with Sunmi devices such as V1, V1s, V2 Pro, and more. Its capabilities streamline the development process, making it a breeze to harness the features and functionalities of these Sunmi devices within your Flutter applications. Whether you're looking to extend your app's compatibility or exploit specific features offered by these devices, our plugin can serve as your valuable toolkit. Compatible with a range of Sunmi devices, the plugin ensures your app reaches a broader audience with enhanced performance.
+        </td>
+    </tr>
+    <tr>
+    <td rowspan="3">
+        <a href="https://github.com/mo9a7i"> مهند العتيبي </a>
+    </td>
+    <td>
+           <a href=https://github.com/6degrees/swarmapp-api>swarmapp-api</a>
+        </td>
+        <td>
+            مكتبة Node.js توفر واجهة برمجية لواجهة برمجة تطبيقات SwarmApp (Foursquare) ، وهي واجهة برمجة التطبيقات الرسمية لتطبيق SwarmApp للشبكات الاجتماعية.
+        </td>
+    </tr><td>
+           <a href=https://github.com/6degrees/arabic-strings>arabicStrings</a>
+        </td>
+        <td>
+            حزمة NPM تقوم بتوفير وظائف لغوية للمساعدة في إدارة النصوص العربية.
+        </td>
+    </tr><td>
+           <a href=https://github.com/6degrees/SourceCodeSpitter>SourceCodeSpitter</a>
+        </td>
+        <td>
+            أداة سطر أوامر تقوم بإنشاء ملف تفريغ واحد يحتوي على محتوى جميع ملفات مجلد معين ، باستثناء الملفات المحددة في .gitignore و .spitignore. هذه الأداة مفيدة للتجميع السريع لمقتطفات التعليمات البرمجية المصدر لأغراض المشاركة أو التوثيق.
         </td>
     </tr>
     
