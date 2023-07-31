@@ -3056,11 +3056,17 @@
       {
         "name": "seu-students",
         "URL": "https://github.com/Saud-Alghamdi/seu-students",
-        "description": "تطبيق ويب بنيته لطلاب الجامعة السعودية الإلكترونية، هدفه رئيسي هو تحصيل المحتوى الدراسي بكل يسر وسهولة (كتب، سلايدات، أسايمنتات، كويزات، حلول، تيست بانك، الخ ..)"
+        "description": "تطبيق ويب بنيته لطلاب الجامعة السعودية الإلكترونية، هدفه رئيسي هو تحصيل المحتوى الدراسي بكل يسر وسهولة (كتب، سلايدات، أسايمنتات، كويزات، حلول، تيست بانك، الخ ..)",
+        "details": {
+          "id": 613376283,
+          "language": "JavaScript",
+          "license": null,
+          "topics": []
+        }
       }
     ]
-   },
-   {
+  },
+  {
     "name": "ياسر طواش",
     "githubURL": "https://github.com/tawashy/urway.js",
     "projects": [
@@ -3117,26 +3123,50 @@
       }
     ]
   },
-    {
+  {
     "name": "مهند العتيبي",
     "githubURL": "https://github.com/mo9a7i",
     "projects": [
       {
         "name": "swarmapp-api",
         "URL": "https://github.com/6degrees/swarmapp-api",
-        "description": "مكتبة Node.js توفر واجهة برمجية لواجهة برمجة تطبيقات SwarmApp (Foursquare) ، وهي واجهة برمجة التطبيقات الرسمية لتطبيق SwarmApp للشبكات الاجتماعية."
+        "description": "مكتبة Node.js توفر واجهة برمجية لواجهة برمجة تطبيقات SwarmApp (Foursquare) ، وهي واجهة برمجة التطبيقات الرسمية لتطبيق SwarmApp للشبكات الاجتماعية.",
+        "details": {
+          "id": 481394655,
+          "language": "TypeScript",
+          "license": null,
+          "topics": [
+            "foursquare-api",
+            "javascript",
+            "nodejs",
+            "npm-package",
+            "swarmapp",
+            "typescript"
+          ]
+        }
       },
       {
         "name": "arabicStrings",
         "URL": "https://github.com/6degrees/arabic-strings",
-        "description": "حزمة NPM تقوم بتوفير وظائف لغوية للمساعدة في إدارة النصوص العربية."
+        "description": "حزمة NPM تقوم بتوفير وظائف لغوية للمساعدة في إدارة النصوص العربية.",
+        "details": {
+          "id": 646222156,
+          "language": "TypeScript",
+          "license": null,
+          "topics": []
+        }
       },
       {
         "name": "SourceCodeSpitter",
         "URL": "https://github.com/6degrees/SourceCodeSpitter",
-        "description": "أداة سطر أوامر تقوم بإنشاء ملف تفريغ واحد يحتوي على محتوى جميع ملفات مجلد معين ، باستثناء الملفات المحددة في .gitignore و .spitignore. هذه الأداة مفيدة للتجميع السريع لمقتطفات التعليمات البرمجية المصدر لأغراض المشاركة أو التوثيق."
+        "description": "أداة سطر أوامر تقوم بإنشاء ملف تفريغ واحد يحتوي على محتوى جميع ملفات مجلد معين ، باستثناء الملفات المحددة في .gitignore و .spitignore. هذه الأداة مفيدة للتجميع السريع لمقتطفات التعليمات البرمجية المصدر لأغراض المشاركة أو التوثيق.",
+        "details": {
+          "id": 653301753,
+          "language": "JavaScript",
+          "license": null,
+          "topics": []
+        }
       }
-      
     ]
   }
 ]
