@@ -3050,6 +3050,17 @@
     ]
   },
   {
+    "name": "سعود الغامدي",
+    "githubURL": "https://github.com/Saud-Alghamdi",
+    "projects": [
+      {
+        "name": "seu-students",
+        "URL": "https://github.com/Saud-Alghamdi/seu-students",
+        "description": "تطبيق ويب بنيته لطلاب الجامعة السعودية الإلكترونية، هدفه رئيسي هو تحصيل المحتوى الدراسي بكل يسر وسهولة (كتب، سلايدات، أسايمنتات، كويزات، حلول، تيست بانك، الخ ..)"
+      }
+    ]
+   },
+   {
     "name": "ياسر طواش",
     "githubURL": "https://github.com/tawashy/urway.js",
     "projects": [
@@ -3105,8 +3116,7 @@
         }
       }
     ]
-  }
-  ,
+  },
     {
     "name": "مهند العتيبي",
     "githubURL": "https://github.com/mo9a7i",
