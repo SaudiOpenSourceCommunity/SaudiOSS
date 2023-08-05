@@ -56,7 +56,9 @@
           "id": 181668252,
           "language": "Jupyter Notebook",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -322,7 +324,9 @@
           "id": 108549839,
           "language": "JavaScript",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -339,7 +343,9 @@
           "id": 74274339,
           "language": "JavaScript",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -403,7 +409,9 @@
           "id": 10413981,
           "language": null,
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -420,7 +428,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -437,7 +447,9 @@
           "id": 69798086,
           "language": "PHP",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -510,7 +522,9 @@
             "url": "https://api.github.com/licenses/apache-2.0",
             "node_id": "MDc6TGljZW5zZTI="
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -527,7 +541,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -544,7 +560,9 @@
             "url": "https://api.github.com/licenses/apache-2.0",
             "node_id": "MDc6TGljZW5zZTI="
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -555,7 +573,9 @@
           "id": 51691609,
           "language": "Makefile",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -635,7 +655,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -652,7 +674,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -663,7 +687,9 @@
           "id": 50200724,
           "language": "Java",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -680,7 +706,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -697,7 +725,9 @@
             "url": "https://api.github.com/licenses/apache-2.0",
             "node_id": "MDc6TGljZW5zZTI="
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -743,7 +773,9 @@
           "id": 144569240,
           "language": "Swift",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -817,7 +849,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -897,7 +931,9 @@
           "id": 143309418,
           "language": "Swift",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -924,7 +960,9 @@
           "id": 183825418,
           "language": "Swift",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -935,7 +973,9 @@
           "id": 136664450,
           "language": "Swift",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -946,7 +986,9 @@
           "id": 137423568,
           "language": "Swift",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -957,7 +999,9 @@
           "id": 145258658,
           "language": "C++",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -968,7 +1012,9 @@
           "id": 153848062,
           "language": "Objective-C",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -979,7 +1025,9 @@
           "id": 153845393,
           "language": "Swift",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1004,7 +1052,9 @@
           "id": 140111185,
           "language": "Swift",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1015,7 +1065,9 @@
           "id": 139255101,
           "language": "Swift",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1032,7 +1084,9 @@
           "id": 6357621,
           "language": "JavaScript",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1089,7 +1143,9 @@
         "name": "KSA-numbers-extractor",
         "URL": "https://github.com/Sal7one/KSA-numbers-extractor",
         "description": "A Python script to extract Saudi phone numbers from the clipboard",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -1101,7 +1157,9 @@
         "name": "AlDftr",
         "URL": "https://github.com/mznmel/AlDftr",
         "description": "Wiki-Based Knowledge Organizer",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -1113,7 +1171,9 @@
         "name": "arabic-jekyll",
         "URL": "https://github.com/a3ammar/arabic-jekyll",
         "description": "ابدأ بالتدوين باستخدام جيكل بلحضات وبدون لمس سطر الأوامر",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -1135,7 +1195,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1152,7 +1214,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1169,7 +1233,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1259,7 +1325,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1331,7 +1399,9 @@
           "id": 351465884,
           "language": "PHP",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1342,7 +1412,9 @@
           "id": 351464721,
           "language": "PHP",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1353,7 +1425,9 @@
           "id": 68263893,
           "language": "CSS",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1366,7 +1440,9 @@
         "name": "HTTPProxy",
         "URL": "https://github.com/hak5/wifipineapple-modules/tree/master/HTTPProxy",
         "description": "The Official WiFi Pineapple Module Repository",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -1416,7 +1492,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1432,7 +1510,9 @@
           "id": 111248781,
           "language": "Jupyter Notebook",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1448,7 +1528,9 @@
           "id": 111248781,
           "language": "Jupyter Notebook",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1464,7 +1546,9 @@
           "id": 111248781,
           "language": "Jupyter Notebook",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1481,7 +1565,9 @@
           "id": 111248781,
           "language": "Jupyter Notebook",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1497,7 +1583,9 @@
           "id": 111248781,
           "language": "Jupyter Notebook",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1514,7 +1602,9 @@
           "id": 19008912,
           "language": "PHP",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1537,7 +1627,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1589,7 +1681,9 @@
           "id": 92989895,
           "language": "JavaScript",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1606,7 +1700,9 @@
           "id": 122369578,
           "language": "C#",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1724,7 +1820,9 @@
             "url": "https://api.github.com/licenses/unlicense",
             "node_id": "MDc6TGljZW5zZTE1"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1747,7 +1845,9 @@
             "url": "https://api.github.com/licenses/gpl-3.0",
             "node_id": "MDc6TGljZW5zZTk="
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1764,7 +1864,9 @@
             "url": "https://api.github.com/licenses/gpl-3.0",
             "node_id": "MDc6TGljZW5zZTk="
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1781,7 +1883,9 @@
             "url": "https://api.github.com/licenses/gpl-3.0",
             "node_id": "MDc6TGljZW5zZTk="
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -1804,14 +1908,18 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
         "name": "Mokawleb",
         "URL": "https://github.com/Faares/Mokawleb",
         "description": "JS/Nodejs Template Engine",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -1823,25 +1931,33 @@
         "name": "vcbld",
         "URL": "https://github.com/MoAlyousef/vcbld",
         "description": "تطبيق لبناء برامج c++ باستخدام vcpkg",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "Stereotaxis",
         "URL": "https://github.com/MoAlyousef/Stereotaxis",
         "description": "تطبيق جراحي للآيفون والأندرويد لحساب الإحداثيات اللازمة للخزعات الدماغية",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "Results",
         "URL": "https://github.com/MoAlyousef/Results",
         "description": "مكتبة للتعامل مع الأخطاء والحالات الاستثنائية في لغة C++",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "vcpkg_wasm",
         "URL": "https://github.com/MoAlyousef/vcpkg_wasm",
         "description": "أداة لربط مكتبات C++ بتطبيقات الشبكة العنكبوتية",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -1881,7 +1997,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1932,7 +2050,9 @@
             "url": null,
             "node_id": "MDc6TGljZW5zZTA="
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -1976,7 +2096,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2025,7 +2147,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2042,7 +2166,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2059,7 +2185,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2076,7 +2204,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2093,7 +2223,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2123,43 +2255,57 @@
         "name": "nova-address-autocomplete",
         "URL": "https://github.com/naifalshaye/nova-address-autocomplete",
         "description": "Nova address field that autocompletes the user input to show suggested addresses using Google Place service.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "nova-random-password-generation",
         "URL": "https://github.com/naifalshaye/nova-random-password-generation",
         "description": "A Laravel Nova password field with generating random password option",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "nova-text-field-with-icon",
         "URL": "https://github.com/naifalshaye/nova-text-field-with-icon",
         "description": "A Laravel Nova text field with a custom icon",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "nova-paypal",
         "URL": "https://github.com/naifalshaye/nova-paypal",
         "description": "A Laravel Nova card to display PayPal current balance and latest transactions.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "nova-saudi-id-number-validation",
         "URL": "https://github.com/naifalshaye/nova-saudi-id-number-validation",
         "description": "Saudi national ID number validation field for Laravel Nova, just for the frontend it will not prevent from submitting the form.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "nova-twitter-timeline",
         "URL": "https://github.com/naifalshaye/nova-twitter-timeline",
         "description": "Nova card that displays the latest user timeline and mentions tweets",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "toggle-switch",
         "URL": "https://github.com/naifalshaye/toggle-switch",
         "description": "A Laravel Nova toggle switch field",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "Monitor Nova Login",
@@ -2175,7 +2321,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2192,7 +2340,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2203,7 +2353,9 @@
           "id": 167153349,
           "language": "PHP",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2214,7 +2366,9 @@
           "id": 167359514,
           "language": "PHP",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2231,7 +2385,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -2397,19 +2553,25 @@
         "name": "Python - web scraping",
         "URL": "https://github.com/lamoboos223/web_scraping",
         "description": "This is a very basic web scraping app that will send email when episode of your show is out.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "Python - facial landmarks",
         "URL": "https://github.com/lamoboos223/facial-landmarks",
         "description": "This code is just a refernce for my personal further projects. all credits goes to pyimagesearch blog for the wonderful lesson.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "Vue js - whatsapp direct char",
         "URL": "https://github.com/lamoboos223/whatsapp-direct-chat",
         "description": "A web app to directly chat with someone om whatsapp without saving their numbers",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -2561,7 +2723,9 @@
           "id": 74471175,
           "language": "TSQL",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2597,7 +2761,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -2614,7 +2780,9 @@
           "id": 181811082,
           "language": "Python",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -2625,7 +2793,9 @@
           "id": 229814986,
           "language": "Jupyter Notebook",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -2648,7 +2818,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -2671,7 +2843,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -2688,7 +2862,9 @@
           "id": 315291592,
           "language": "Python",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -2777,7 +2953,9 @@
           "id": 233834770,
           "language": null,
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -2823,7 +3001,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -2862,7 +3042,9 @@
         "name": "infosystems.blog",
         "URL": "https://github.com/DevMoath/infosystems.blog",
         "description": "مدونة لطلاب تخصص نظم المعلومات جامعة الملك سعود تركز على شرح الخطة الدراسية وتجميع موارد المواد",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "jql-builder",
@@ -2893,49 +3075,65 @@
         "name": "tailwindcss-typography-rtl",
         "URL": "https://github.com/DevMoath/tailwindcss-typography-rtl",
         "description": "Add RTL support for tailwindcss-typography plugin",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "tailwindcss-capitalize-first",
         "URL": "https://github.com/DevMoath/tailwindcss-capitalize-first",
         "description": "Add utility class to capitalize first letter of a paragraph.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "copy-text",
         "URL": "https://github.com/DevMoath/copy-text",
         "description": "Copy text to user clipboard.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "pass",
         "URL": "https://github.com/DevMoath/pass",
         "description": "Node.js cli to generate passwords.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "ar-num-to-en-num",
         "URL": "https://github.com/DevMoath/ar-num-to-en-num",
         "description": "Convert Arabic numbers to English numbers.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "hide-twitter-trends",
         "URL": "https://github.com/DevMoath/hide-twitter-trends",
         "description": "Hide Twitter (Trending now, Who to follow, Topics to follow) taps.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "online-jwt-builder",
         "URL": "https://github.com/DevMoath/online-jwt-builder",
         "description": "Web page used to generate fake, but valid, JSON Web Tokens.",
-        "details": {}
+        "details": {
+          
+        }
       },
       {
         "name": "password-generator-app",
         "URL": "https://github.com/DevMoath/password-generator-app",
         "description": "Password generator app to give you strong password.",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -2980,7 +3178,9 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -3019,7 +3219,9 @@
           "id": 19765425,
           "language": "CSS",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -3030,7 +3232,9 @@
           "id": 75886650,
           "language": "CSS",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -3135,7 +3339,9 @@
         "name": "Jobs Email Sender",
         "URL": "https://github.com/SaudRD/JobsEmailSender",
         "description": "A twitter bot who check if there any IT jobs from a particular user and send you an Email of the job.",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -3147,7 +3353,9 @@
         "name": "NattyNote",
         "URL": "https://github.com/ahmedelq/nattynote",
         "description": "NattyNote: A browser extension to take time-stamped YouTube notes.",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -3159,7 +3367,9 @@
         "name": "Arabic-python-notebook",
         "URL": "https://github.com/AhmadAlsaadi/Arabic-python-notebook",
         "description": "يهدف هذا الكتاب الى توفير محتوى عربي سهل يمكن القارئ من تعلم لغة بايثون بحيث يمكن استخدامه كمادة علمية جامعية تدرس خلال ترم فصلي واحد في احد التخصصات الهندسية",
-        "details": {}
+        "details": {
+          
+        }
       }
     ]
   },
@@ -3171,7 +3381,28 @@
         "name": "react-native-i18n-storage",
         "URL": "https://github.com/ahmedrowaihi/react-native-i18n-storage",
         "description": "React Native I18n Storage هي مكتبة مخصصة لحل ازمة إدارة إعدادات I18nManager واللغة في تطبيقات React-Native عن طريق مزامنتها مع التخزين المحلي منذ بدء تشغيل التطبيق الأصلي! مما يكسر العديد من الحواجز الجديدة ويوفر اساليب لم تكن متاحة من قبل لتخصيص كل ما يتعلق بمسائل اللغة!، علاوة على حفظ قدر كبير من الاداء والسرعة في تشغيل وتبديل اللغات وجهات العرض",
-        "details": {}
+        "details": {
+          
+        }
+      }
+    ]
+  },
+  {
+    "name": "سعود الغامدي",
+    "githubURL": "https://github.com/Saud-Alghamdi",
+    "projects": [
+      {
+        "name": "seu-students",
+        "URL": "https://github.com/Saud-Alghamdi/seu-students",
+        "description": "تطبيق ويب بنيته لطلاب الجامعة السعودية الإلكترونية، هدفه رئيسي هو تحصيل المحتوى الدراسي بكل يسر وسهولة (كتب، سلايدات، أسايمنتات، كويزات، حلول، تيست بانك، الخ ..)",
+        "details": {
+          "id": 613376283,
+          "language": "JavaScript",
+          "license": null,
+          "topics": [
+            
+          ]
+        }
       }
     ]
   },
@@ -3187,7 +3418,9 @@
           "id": 590138090,
           "language": "TypeScript",
           "license": null,
-          "topics": []
+          "topics": [
+            
+          ]
         }
       }
     ]
@@ -3210,7 +3443,9 @@
             "url": null,
             "node_id": "MDc6TGljZW5zZTA="
           },
-          "topics": []
+          "topics": [
+            
+          ]
         }
       },
       {
@@ -3227,7 +3462,59 @@
             "url": null,
             "node_id": "MDc6TGljZW5zZTA="
           },
-          "topics": []
+          "topics": [
+            
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "مهند العتيبي",
+    "githubURL": "https://github.com/mo9a7i",
+    "projects": [
+      {
+        "name": "swarmapp-api",
+        "URL": "https://github.com/6degrees/swarmapp-api",
+        "description": "مكتبة Node.js توفر واجهة برمجية لواجهة برمجة تطبيقات SwarmApp (Foursquare) ، وهي واجهة برمجة التطبيقات الرسمية لتطبيق SwarmApp للشبكات الاجتماعية.",
+        "details": {
+          "id": 481394655,
+          "language": "TypeScript",
+          "license": null,
+          "topics": [
+            "foursquare-api",
+            "javascript",
+            "nodejs",
+            "npm-package",
+            "swarmapp",
+            "typescript"
+          ]
+        }
+      },
+      {
+        "name": "arabicStrings",
+        "URL": "https://github.com/6degrees/arabic-strings",
+        "description": "حزمة NPM تقوم بتوفير وظائف لغوية للمساعدة في إدارة النصوص العربية.",
+        "details": {
+          "id": 646222156,
+          "language": "TypeScript",
+          "license": null,
+          "topics": [
+            
+          ]
+        }
+      },
+      {
+        "name": "SourceCodeSpitter",
+        "URL": "https://github.com/6degrees/SourceCodeSpitter",
+        "description": "أداة سطر أوامر تقوم بإنشاء ملف تفريغ واحد يحتوي على محتوى جميع ملفات مجلد معين ، باستثناء الملفات المحددة في .gitignore و .spitignore. هذه الأداة مفيدة للتجميع السريع لمقتطفات التعليمات البرمجية المصدر لأغراض المشاركة أو التوثيق.",
+        "details": {
+          "id": 653301753,
+          "language": "JavaScript",
+          "license": null,
+          "topics": [
+            
+          ]
         }
       }
     ]
