@@ -1,11 +1,9 @@
-name: update-readme-file
-run-name: a new dev added to the list, let's update readme
-permissions:
-  contents: write
+name: Update Readme.md and Devs.json
 on:
   pull_request:
     types:
       - closed
+
 jobs:
   if_merged:
     if: github.event.pull_request.merged == true
@@ -21,7 +19,10 @@ jobs:
           node-version: 18
       - name: install dependency
         run: npm ci
+        working-directory: ./utilities
       - name: run script
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        run: node OSS-update-readme.js
+        run: |
+          cd utilities
+          node update_readme.js
