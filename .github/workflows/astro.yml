@@ -17,10 +17,14 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v3
+      - name: echoing current directory
+        run: |
+          pwd
+          ls
       - name: Install, build, and upload your site
         uses: withastro/action@v0
         with:
-            path: ./homepage/
+            path: homepage
 
   deploy:
     needs: build
