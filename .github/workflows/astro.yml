@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 # might need testing and tweaking to work with homepage directory
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   workflow_dispatch:
 
 permissions:
