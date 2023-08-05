@@ -1,49 +1,27 @@
 {
-  "name": "oss-saudi",
-  "version": "0.2.0",
-  "private": false,
+  "name": "a",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.25",
-    "@fortawesome/free-solid-svg-icons": "^5.11.2",
-    "@fortawesome/react-fontawesome": "^0.1.5",
-    "mdbreact": "^4.20.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-flippy": "^1.1.0",
-    "react-rainbow-components": "^1.6.1",
-    "react-scripts": "5.0.1",
-    "shuffle-array": "^1.0.1"
+    "@astrojs/image": "^0.17.2",
+    "@astrojs/tailwind": "^4.0.0",
+    "@fontsource-variable/cairo": "^5.0.5",
+    "@fontsource/cairo": "^5.0.5",
+    "@fontsource/twinkle-star": "^5.0.5",
+    "astro": "^2.9.6",
+    "astro-icon": "^0.8.1",
+    "flowbite": "^1.8.1",
+    "sharp": "^0.32.4",
+    "tailwindcss": "^3.3.3"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0",
-    "husky": "^2.3.0",
-    "prettier": "^1.17.1",
-    "pretty-quick": "^1.11.0"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "deploy": "gh-pages -d build"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged"
-    }
-  },
-  "homepage": "SaudiOSS"
+    "axios": "^1.4.0"
+  }
 }

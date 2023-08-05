@@ -1,0 +1,41 @@
+---
+const { repo } = Astro.props;
+import { Icon } from "astro-icon";
+---
+
+<li class="p-2 rounded-lg 
+border-b border-b-emerald-600 dark:border-b-slate-600
+mb-2
+hover:bg-emerald-100 border-opacity-40 border-dotted
+dark:hover:bg-white dark:hover:bg-opacity-10
+group">
+  <a class="flex" href={ repo.URL } target="_blank">
+    
+    <Icon class="h-5 me-2 lg:me-3 inline text-emerald-800 dark:text-slate-400" pack="mdi" name="github" />
+    <div class="w-full">
+        <div class="flex ">
+            <h5>{ repo.name } </h5>
+            <span dir="ltr" class="mx-2
+            py-0 h-min
+            bg-emerald-400 text-white text-sm font-regular
+            rounded block px-2
+            dark:bg-gray-400 dark:text-gray-900
+            ">{repo.details.language}</span>
+        </div>
+        <small class="mt-1 block text-emerald-700 dark:text-slate-400">{ repo.description}</small>
+        <div class="w-full flex flex-wrap space-1 rtl:space-x-reverse mt-1">
+            {repo.details?.topics?.map(item => (
+                <span dir="ltr" class=" me-1 mb-1
+                block px-1 whitespace-nowrap 
+                text-sm h-min w-min
+                rounded 
+                bg-emerald-200 bg-opacity-50 text-emerald-800 
+                dark:bg-gray-700 dark:bg-opacity-80 dark:text-gray-400
+                group-hover:dark:bg-gray-800">{item}</span>
+            ))}
+        </div>
+        
+                 
+    </div>
+    
+  </a>
