@@ -20,7 +20,7 @@ jobs:
       - name: echoing current directory
         run: |
           pwd
-          ls
+          ls homepage/
       - name: Install, build, and upload your site
         uses: withastro/action@v0
         with:
