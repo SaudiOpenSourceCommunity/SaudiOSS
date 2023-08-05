@@ -1,0 +1,37 @@
+--- 
+import '@fontsource-variable/cairo';
+
+
+
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Saudi Open Source Community">
+		<meta name="viewport" content="width=device-width" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta property="og:image" content="/favicon.ico" />
+		<meta name="theme-color" content="#003300" />
+		<link rel="manifest" href="/manifest.json" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body class="
+		dark:text-white 
+		dark:bg-gradient-to-tr dark:from-sky-500 dark:to-green-500
+		bg-gradient-to-tr from-sky-200 to-green-200 
+		text-green-800
+		bg-opacity-50">
+		<slot />
+		<script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.0/flowbite.min.js"></script>
+
+	</body>
+</html>
