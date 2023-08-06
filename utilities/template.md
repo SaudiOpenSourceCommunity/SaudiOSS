@@ -9,12 +9,12 @@
     المشاريع:
     </h1>
     <!-- DEVELOPERS LIST -->
-    <h1>كيف أضيف مشروعي ؟
-    </h1> لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح:
+    <h1>كيف أضيف مشروعي ؟</h1> 
+    لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح:
     <br>
     <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/issues/new">Issue</a>
     <br>
-    او قم بإضافة مشاريعك بتعديل ملف <code>devs.json</code> ورفع pull request على المنصة 
+    او قم بإضافة مشاريعك بتعديل ملف `devs.json` ورفع pull request على المنصة 
     <br><br>
     تكوينة ملف json المطلوبة:
 </div>
