@@ -1,9 +1,10 @@
 name: Deploy to GitHub Pages
 
-# might need testing and tweaking to work with homepage directory
 on:
   push:
     branches: [ master ]
+    paths:
+      - 'homepage/**'
   workflow_dispatch:
 
 permissions:
