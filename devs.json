@@ -1,5 +1,21 @@
 [
   {
+    "name": "محمد سعود السهلي",
+    "githubURL": "https://github.com/MohammedSaudAlsahli",
+    "projects": [
+      {
+        "name": "rss-cli",
+        "URL": "https://github.com/MohammedSaudAlsahli/rss-cli",
+        "description": "A terminal rss reader.",
+        "details": {
+          "language": "Python",
+          "license": "MIT",
+          "topics": ["rich", "terminal", "rss-reader"]
+        }
+      }
+    ]
+  },
+  {
     "name": "عبدالله حمدي",
     "githubURL": "https://github.com/ajhamdi",
     "projects": [
