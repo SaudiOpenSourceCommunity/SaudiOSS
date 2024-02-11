@@ -904,7 +904,7 @@
        </td>
        </tr>
        <tr>
-          <td rowspan="20">
+          <td rowspan="25">
              <a href="https://github.com/naifalshaye"> نايف الشايع </a>
           </td>
           <td>
@@ -925,119 +925,119 @@
           <a href=https://github.com/naifalshaye/mailchimp>mailchimp</a>
        </td>
        <td>
-          A Nova Laravel tool that integrates with MailChimp to manage mail list subscribers and send mail newsletters.
+            Laravel Nova tool that integrates with MailChimp to manage mail list subscribers and send mail newsletters.
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-mysql>nova-mysql</a>
        </td>
        <td>
-          A Nova Laravel MySQL Server Managment
+          Laravel Nova MySQL Server Managment
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/worldclock>worldclock</a>
        </td>
        <td>
-          A Laravel Nova card to display world clocks
+          Laravel Nova card to display world clocks
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-cpanel-mail>nova-cpanel-mail</a>
        </td>
        <td>
-          A Laravel Nova tool that integrates with Cpanel Mail to manage Email Addresses
+          Laravel Nova tool that integrates with Cpanel Mail to manage Email Addresses
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/soundcloud>soundcloud</a>
        </td>
        <td>
-          A Laravel Nova field to play a SoundCloud audio
+          Laravel Nova field to play a SoundCloud audio
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-map-address>nova-map-address</a>
        </td>
        <td>
-          A Nova field to place a marker on the map to get coordinates then it reverses geocoding the coordinates to get a street address
+          Laravel Nova field to place a marker on the map to get coordinates then it reverses geocoding the coordinates to get a street address
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-address-autocomplete>nova-address-autocomplete</a>
        </td>
        <td>
-          Nova address field that autocompletes the user input to show suggested addresses using Google Place service.
+          Laravel Nova address field that autocompletes the user input to show suggested addresses using Google Place service.
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-random-password-generation>nova-random-password-generation</a>
        </td>
        <td>
-          A Laravel Nova password field with generating random password option
+          Laravel Nova password field with generating random password option
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-text-field-with-icon>nova-text-field-with-icon</a>
        </td>
        <td>
-          A Laravel Nova text field with a custom icon
+          Laravel Nova text field with a custom icon
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-paypal>nova-paypal</a>
        </td>
        <td>
-          A Laravel Nova card to display PayPal current balance and latest transactions.
+          Laravel Nova card to display PayPal current balance and latest transactions.
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-saudi-id-number-validation>nova-saudi-id-number-validation</a>
        </td>
        <td>
-          Saudi national ID number validation field for Laravel Nova, just for the frontend it will not prevent from submitting the form.
+          Laravel Nova Saudi national ID number validation field, just for the frontend it will not prevent from submitting the form.
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-twitter-timeline>nova-twitter-timeline</a>
        </td>
        <td>
-          Nova card that displays the latest user timeline and mentions tweets
+          Laravel Nova card that displays the latest user timeline and mentions tweets
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/toggle-switch>toggle-switch</a>
        </td>
        <td>
-          A Laravel Nova toggle switch field
+          Laravel Nova 3 toggle switch field
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/Nova-Login-Monitor>Monitor Nova Login</a>
        </td>
        <td>
-          Monitor Nova Login via Slack notifications, Receive a notification every time someone's login to your system.
+          Monitor Laravel Nova Login via Slack notifications, Receive a notification every time someone's login to your system.
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/laravel-paypal>Laravel PayPal</a>
        </td>
        <td>
-          To communicate with PayPal API to get current balance and transactions.
+          Laravel Nova Tool communicate with PayPal API to get current balance and transactions.
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-sms>Laravel Nova SMS</a>
        </td>
        <td>
-          A Laravel Nova SMS Tool to send SMS messages via the most popular providers.
+          Laravel Nova SMS Tool to send SMS messages via the most popular providers.
        </td>
        </tr>
        <td>
           <a href=https://github.com/naifalshaye/nova-push-notifications>Laravel Nova Push Notifications</a>
        </td>
        <td>
-          A Laravel Nova tool to send push notifications.
+          Laravel Nova tool to send push notifications.
        </td>
        </tr>
        <td>
@@ -1046,6 +1046,46 @@
        <td>
           An open source Laravel application for Twitter data automations and archiving.
        </td>
+       </tr>
+       <tr>
+        <td>
+            <a href="https://github.com/naifalshaye/toggle-switch-field">A Laravel Nova 4 toggle switch field</a>
+        </td>
+        <td>
+           Laravel Nova Toggle Switch Field for Nova 4.
+        </td>
+       </tr>
+       <tr>
+        <td>
+            <a href="https://github.com/naifalshaye/chatgpt-seeder">Laravel Nova 4 ChatGPT Seeder</a>
+        </td>
+        <td>
+           A powerful tool that leverages the capabilities of ChatGPT to automate the generation of realistic and meaningful data for your database seeding need.
+        </td>
+       </tr>
+       <tr>
+        <td>
+            <a href="https://github.com/naifalshaye/ai-validation">Laravel AI Validation Rule</a>
+        </td>
+        <td>
+            AI Validator Rule for Laravel: Uses ChatGPT (GPT-3.5-turbo) to easily check and filter user inputs.
+        </td>
+       </tr>
+       <tr>
+        <td>
+            <a href="https://github.com/naifalshaye/chatcmd">ChatCMD</a>
+        </td>
+        <td>
+            ChatCMD is an open source AI-driven CLI-based command lookup using ChatGPT to lookup relevant CLI commands based on user input and other generating and lookup features.
+        </td>
+       </tr>
+       <tr>
+        <td>
+            <a href="https://github.com/naifalshaye/chatgpt">Laravel Nova 4 ChatGPT Integration Tool</a>
+        </td>
+        <td>
+           Laravel Nova 4 ChatGPT Integration Tool combines Laravel Nova 4 with the ChatGPT API.
+        </td>
        </tr>
        <tr>
           <td rowspan="2">
