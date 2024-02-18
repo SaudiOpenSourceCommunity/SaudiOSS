@@ -1,10 +1,10 @@
 
 name: Deploy Astro site to Pages
-
 on:
-  pull_request:
-    types:
-      - closed
+  push:
+    branches:
+      - main
+  
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -59,7 +59,6 @@ jobs:
           path: ${{ env.BUILD_PATH }}/dist
 
   deploy:
-    if: github.event.pull_request.merged == true
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
