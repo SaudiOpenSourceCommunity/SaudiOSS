@@ -15,11 +15,6 @@ async function downloadAvatar(username) {
   
   const avatarPath = path.join(targetDirectory, `${username}.png`);
 
-  if (fs.existsSync(avatarPath)) {
-    return avatarPath;
-  }
-  console.log('does not exist')
-
   try {
     const avatarUrl = `https://github.com/${username}.png?size=200`;
     const response = await axiosInstance.get(avatarUrl, { responseType: "arraybuffer" });
