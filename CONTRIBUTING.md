@@ -4,9 +4,7 @@
 
 ## كيف أضيف مشروعي ؟
 
-لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق فتح: [Issue](https://github.com/SaudiOpenSourceCommunity/SaudiOSS/issues/new)
-
-او قم بإضافة مشاريعك بتعديل ملف `devs.json` ورفع pull request على المنصة 
+لديك مشروع أياً كان؟ أسعدنا بمشاركتك عن طريق إضافة مشاريعك بتعديل ملف [devs.json](https://github.com/SaudiOpenSourceCommunity/SaudiOSS/edit/master/devs.json) ورفع pull request على المنصة 
  <br><br>
 
 **تكوينة ملف json المطلوبة:**
