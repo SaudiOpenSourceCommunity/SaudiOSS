@@ -1,3 +1,4 @@
+[![Deploy Astro site to Pages](https://github.com/SaudiOpenSourceCommunity/SaudiOSS/actions/workflows/DeployAstro.yml/badge.svg)](https://github.com/SaudiOpenSourceCommunity/SaudiOSS/actions/workflows/DeployAstro.yml)
 # قائمة بالمشاريع السعودية المفتوحة المصدر
 
 هناك الكثير من المشاريع المفتوحة المصدر التي بنيت بأيدي سعودية. هذه القائمة تحمل بعضها حتى يتسنى للجميع الإستفادة منها. القائمة مرتبة بشكل عشوائي ولايوجد أي معنى للترتيب.
