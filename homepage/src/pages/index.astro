@@ -3,40 +3,61 @@ import Layout from "../layouts/Layout.astro";
 import Developers from "../components/sections/Developers.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
-const title = "مجموعة المصادر المفتوحة السعودية";
+import { Image } from "@astrojs/image/components";
+const title = "المجموعة السعودية للمصادر المفتوحة";
 ---
 
 <Layout title={title}>
-    <main>
-        <Header title={title} />
-        <section id="intro" class="text-green-600 dark:text-white">
-            <div class="container mx-auto p-2 ">
-                <p>
-                    الهدف من فكرة جمع المشاريع المفتوحة المصدر هو تحفيز المجتمع التقني السعودي لإثراء المحتوى البرمجي وخلق بيئة تعارف بين المبرمجين من خلال عرض بعض من أعمالهم. هذه المجموعة تدار من قبل
-                    
-                </p>
-            </div>
-        </section>
-        <section id="cta" class="py-8 p-2 text-green-600 dark:text-white">
-			<div class="container mx-auto">
-				<div class="
-                flex justify-between justify-items-center items-center 
+    <main class="flex flex-col sm:flex-row justify-start sm:flex-start items-center  p-2">
+        <!-- Image container with responsive width -->
+        <div class="w-32 h-32 ">
+            <!-- Assuming <Image /> is a custom React component that accepts width, height, and other props. -->
+            <Image
+                width={250}
+                height={250}
+                src="/SaudiOSS/logo.png"
+                alt="Saudi Open Source Community"
+                class="rounded-full w-full h-full object-cover object-center"
+            />
+        </div>
+    
+        <!-- Header with minimal padding -->
+        <Header title={title} class="flex-shrink-0 p-0" />
+    </main>
+    
+	<section id="intro" class="text-green-600 dark:text-white">
+		<div class="container mx-auto p-2">
+			<p>
+				الهدف من فكرة جمع المشاريع المفتوحة المصدر هو تحفيز المجتمع التقني السعودي لإثراء المحتوى البرمجي وخلق بيئة تعارف بين المبرمجين من خلال عرض بعض من
+				أعمالهم. هذه المجموعة تدار من قبل
+			</p>
+		</div>
+	</section>
+	<section id="cta" class="py-8 p-2 text-green-600 dark:text-white">
+		<div class="container mx-auto">
+			<div
+				class="flex justify-between justify-items-center items-center
                 p-4 rounded-lg
                 bg-white bg-opacity-50
-                dark:bg-white dark:bg-opacity-50 dark:text-green-600" role="alert">
-					<div>شاركنا وقم بإضافة مشروعك هنا</div>
-					<a target="_blank" href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS#user-content-%D9%83%D9%8A%D9%81-%D8%A3%D8%B6%D9%8A%D9%81-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%8A-----" 
-                    class="block 
+                dark:bg-white dark:bg-opacity-50 dark:text-green-600"
+				role="alert"
+			>
+				<div>شاركنا وقم بإضافة مشروعك هنا</div>
+				<a
+					target="_blank"
+					href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS#user-content-%D9%83%D9%8A%D9%81-%D8%A3%D8%B6%D9%8A%D9%81-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%8A-----"
+					class="block
                     font-medium rounded-lg text-sm px-5 py-2.5
-                    focus:outline-none focus:ring-4 
-                    focus:ring-green-300 
+                    focus:outline-none focus:ring-4
+                    focus:ring-green-300
                     text-white bg-green-500
-                    hover:bg-green-400 dark:focus:ring-green-900">إضافة</a>
-				</div>
+                    hover:bg-green-400 dark:focus:ring-green-900"
+					>إضافة</a
+				>
 			</div>
-		</section>
+		</div>
+	</section>
 
-        <Developers />
-		<Footer />
-    </main>
+	<Developers />
+	<Footer />
 </Layout>
