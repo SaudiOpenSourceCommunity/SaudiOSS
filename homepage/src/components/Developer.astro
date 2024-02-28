@@ -1,47 +1,10 @@
 ---
-import { downloadAvatar, downloadPlaceholder } from "./../utilities/getAvatar";
 import { Icon } from "astro-icon";
 import { Image } from "@astrojs/image/components";
 import RepoLink from "./RepoLink.astro";
 
 const { dev } = Astro.props;
-let imagePath = null;
-
-const usernameRegex = /github\.com\/([^/]+)(\/|$)/;
-
-if (dev.githubURL) {
-	// Regular expression to extract the username from a GitHub URL
-	
-	const match = dev.githubURL.match(usernameRegex);
-
-	if (match && match[1]) {
-		const username = match[1];
-		imagePath = await downloadAvatar(username);
-
-	} else {
-        // FIX: need to fix the code to go to the first project
-		console.log("Invalid GitHub URL or username not found.");
-        console.log("URL: " + dev.githubURL);
-        console.log("name" + dev.name);
-        imagePath = await downloadPlaceholder(dev.name);	
-    }
-} else {
-    // if username not provided, steal it from the first project
-    console.log("No GitHub URL found for" + dev.name + ".");
-    const url = dev.projects[0].URL;
-    const match = url.match(usernameRegex);
-    if (match && match[1]) {
-		const username = match[1];
-		imagePath = await downloadAvatar(username);
-
-	} else {
-		console.log("Couldn't get url from project.");
-        imagePath = await downloadPlaceholder(dev.name);	
-        dev.githubURL = "#";
-    }
-}
-
-imagePath = imagePath?.replaceAll("\\", "/").replaceAll("public", "");
+const imagePath = `${dev.githubURL}.png?size=64`;
 ---
 
 <div class="

@@ -1075,11 +1075,11 @@
   },
   {
     "name": "عبدالله القثامي",
-    "githubURL": "https://github.com/efrontsa",
+    "githubURL": "https://github.com/algethamy",
     "projects": [
       {
         "name": "Carbony",
-        "URL": "https://github.com/efrontsa/carbony",
+        "URL": "https://github.com/algethamy/carbony",
         "description": "مكتبة للتعامل مع التواريخ الهجرية للغة PHP مبنية على أسس مكتبة Carbon الشهيرة",
         "details": {
           "id": 116293912,
@@ -1366,6 +1366,7 @@
   },
   {
     "name": "منى الرزقان",
+    "githubURL": "https://github.com/ArwaAlrazooq",
     "projects": [
       {
         "name": "Arabic-twitter-analysis",
@@ -1382,6 +1383,7 @@
   },
   {
     "name": "خلود الغامدي",
+    "githubURL": "https://github.com/ArwaAlrazooq",
     "projects": [
       {
         "name": "Arabic-twitter-analysis",
@@ -1398,6 +1400,7 @@
   },
   {
     "name": "روان المعثم",
+    "githubURL": "https://github.com/ArwaAlrazooq",
     "projects": [
       {
         "name": "Arabic-twitter-analysis",
@@ -1431,6 +1434,7 @@
   },
   {
     "name": "إيمان النخيلان",
+    "githubURL": "https://github.com/ArwaAlrazooq",
     "projects": [
       {
         "name": "Arabic-twitter-analysis",
@@ -1539,11 +1543,11 @@
   },
   {
     "name": "عبدالعزيز الفهيقي",
-    "githubURL": "https://github.com/alfuhigi",
+    "githubURL": "https://github.com/ajf-sa",
     "projects": [
       {
         "name": "medicines-expired-date",
-        "URL": "https://github.com/alfuhigi/medicines-expired-date",
+        "URL": "https://github.com/ajf-sa/medicines-expired-date",
         "description": "انتهاء تواريخ الادوية",
         "details": {
           "id": 122369578,
@@ -2697,11 +2701,11 @@
   },
   {
     "name": "فارس العتيبي",
-    "githubURL": "https://github.com/farisd3v",
+    "githubURL": "https://github.com/farisc0de",
     "projects": [
       {
         "name": "PhpSanitization",
-        "URL": "https://github.com/farisd3v/PhpSanitization",
+        "URL": "https://github.com/farisc0de/PhpSanitization",
         "description": "Simple PHP Sanitization Class, This is a simple class that can verify and clean values to assure they are valid. It can take a given string and remove or encode certain types of text values, so it can be displayed in Web pages lowering the risk of being used to perform security attacks. The class can also sanitize arrays of data by processing the array values one by one.",
         "details": {
           "id": 328045828,
@@ -2737,7 +2741,7 @@
       },
       {
         "name": "Uploady",
-        "URL": "https://github.com/farisd3v/Uploady",
+        "URL": "https://github.com/farisc0de/Uploady",
         "description": "Uploady is a Simple File Uploader Script with Multi File Upload Support, It comes with more than 20 features and you can set up it in less than 5 minutes.",
         "details": {
           "id": 323133229,
@@ -2934,11 +2938,11 @@
   },
   {
     "name": "محمد الغموي",
-    "githubURL": "https://github.com/MohaTech10",
+    "githubURL": "https://github.com/mhmdvoid",
     "projects": [
       {
         "name": "Typed Programming Language",
-        "URL": "https://github.com/MohaTech10/UQUCompiler",
+        "URL": "https://github.com/mhmdvoid/UQUCompiler",
         "description": "A compiler written in Java targeting MIPS-32bit architecture",
         "details": {
           "id": 382432599,
@@ -3178,7 +3182,7 @@
   },
   {
     "name": "ياسر طواش",
-    "githubURL": "https://github.com/tawashy/urway.js",
+    "githubURL": "https://github.com/tawashy",
     "projects": [
       {
         "name": "URWAY Payment Gateway",
