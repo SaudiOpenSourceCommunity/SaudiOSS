@@ -12,9 +12,10 @@ flex rounded-lg justify-between gap-3 items-center
 p-3 
 bg-emerald-300 bg-opacity-50 hover:bg-opacity-60
 dark:bg-blue-800 dark:bg-opacity-20 
-dark:hover:bg-opacity-10 
-
-">
+dark:hover:bg-opacity-10"
+id={dev.githubURL}
+data-type = "dev"
+>
 	<a target="_blank" href={dev.githubURL} class="flex gap-3 items-center">
 		<Image width={64} height={64} aspectRatio="1:1" format="png" class="w-10 h-10 rounded-full" src={imagePath} alt={dev.name} />
 		<p>{dev.name}</p>

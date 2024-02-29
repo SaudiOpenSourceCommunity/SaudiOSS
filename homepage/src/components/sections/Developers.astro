@@ -1,14 +1,63 @@
 ---
-import Developer from '../../components/Developer.astro'
-import devs from '../../../../devs.json'
+import Developer from "../../components/Developer.astro";
+import devs from "../../../../devs.json";
 ---
-<section id="developers" class="">
-    <div class="container mx-auto p-2">
-        <h2 class="text-2xl font-bold mb-4">المبرمجون</h2>
-        <div class="grid lg:grid-cols-4 gap-2">
-            {devs.map(dev => (
-                <Developer dev={dev} />
-            ))}
-        </div>
-    </div>
+<script is:inline async>
+	document.body.onload = async () => {
+	const search = new URLSearchParams(window.location.search).get("search") || undefined;
+	if(search === undefined) return;
+	const devs = await fetch("https://raw.githubusercontent.com/SaudiOpenSourceCommunity/SaudiOSS/master/devs.json").then((res) => res.json());
+	const seachedDevs = devs.filter((dev) => {
+	   const searchRegex = new RegExp(search, "i");
+	   const gitHubId = dev.githubURL.split("/").pop();
+	   return searchRegex.test(dev.name) 
+	   || dev.projects.some((project) => searchRegex.test(project.name))
+	   || searchRegex.test(gitHubId)
+	   || dev.projects.some((project) => searchRegex.test(project.details.language))
+	});
+	const divs = document.querySelectorAll("[data-type='dev']");
+	divs.forEach((div) => {
+		if (!seachedDevs.find((dev) => dev.githubURL === div.id)) {
+			div.style.display = "none";
+		}
+	});
+	document.getElementById("search").value = search;
+	};
+	
+</script>
+
+<section id="developers">
+	<div class="container mx-auto p-2">
+		<div class="flex justify-between items-center">
+			<h2 class="text-2xl font-bold mb-2 p-2">المبرمجون</h2>
+			<form id="searchForm" class="w-full sm:max-w-md lg:max-w-lg mx-auto relative" action="#developers" method="GET">
+				<div class="relative w-full">
+					<input
+						type="search"
+						id="search"
+						name="search"
+						class="w-full text-sm bg-white bg-opacity-80 rounded-lg text-gray-900 border-0 focus:ring-2 focus:ring-green-500 focus:ring-opacity-50"
+						placeholder="أبحث"
+						aria-label="Search developers"
+					/>
+					<button
+						type="submit"
+						class="absolute h-full bottom-0 left-0 mt-2 mr-2 p-2 text-sm font-medium text-white bg-green-500 hover:bg-green-600 focus:outline-none focus:ring-4 focus:ring-green-500 focus:ring-opacity-50"
+						aria-label="Submit search"
+					>
+						<svg class="w-6 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20">
+							<path
+								fill-rule="evenodd"
+								d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+								clip-rule="evenodd"></path>
+						</svg>
+						<span class="sr-only">Search</span>
+					</button>
+				</div>
+			</form>
+		</div>
+		<div class="grid lg:grid-cols-4 gap-2">
+			{devs.map((dev) => <Developer dev={dev} />)}
+		</div>
+	</div>
 </section>
