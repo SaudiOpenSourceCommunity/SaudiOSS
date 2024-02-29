@@ -8,9 +8,9 @@ import devs from "../../../../devs.json";
 	if(search === undefined) return;
 	const devs = await fetch("https://raw.githubusercontent.com/SaudiOpenSourceCommunity/SaudiOSS/master/devs.json").then((res) => res.json());
 	const seachedDevs = devs.filter((dev) => {
-	   const searchRegex = new RegExp(search, "i");
+	   const searchRegex = new RegExp(search.split(" ").join(".*"), "i");
 	   const gitHubId = dev.githubURL.split("/").pop();
-	   return searchRegex.test(dev.name) 
+	   return searchRegex.test(dev.name)
 	   || dev.projects.some((project) => searchRegex.test(project.name))
 	   || searchRegex.test(gitHubId)
 	   || dev.projects.some((project) => searchRegex.test(project.details.language))
