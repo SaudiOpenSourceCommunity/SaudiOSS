@@ -1148,7 +1148,23 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": ["arabic"]
+          "topics": ["arabic", "programming", "compiler"]
+        }
+      },
+      {
+        "name": "Hypothesizer-Debugger",
+        "URL": "https://github.com/Alaboudi1/Hypothesizer-Debugger",
+        "description": "Hypothesizer is an interactive debugger for web applications that allows developers to recreate bugs they are experiencing and get helpful feedback.",
+        "details": {
+          "id": 345244718,
+          "language": "TypeScript",
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "topics": ["debugger", "typescript", "web"]
         }
       }
     ]
