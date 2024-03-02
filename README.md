@@ -11,7 +11,7 @@
     <a href="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/actions/workflows/DeployAstro.yml">
         <img src="https://github.com/SaudiOpenSourceCommunity/SaudiOSS/actions/workflows/DeployAstro.yml/badge.svg" alt="build status"></a>
     <a href="https://twitter.com/OSS_Saudi">
-        <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/OSS_Saudi">
+        <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Follow_𝕏-@OSS__Saudi-blue">
 </p>
 
 
