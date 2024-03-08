@@ -12,6 +12,15 @@
           "license": "MIT",
           "topics": ["rich", "terminal", "rss-reader"]
         }
+      },{
+        "name": "ytserver",
+        "URL": "https://github.com/MohammedSaudAlsahli/YtServer",
+        "description": "A server for yt-dlp.",
+        "details": {
+          "language": "Python",
+          "license": "MIT",
+          "topics": ["FastAPI", "poetry", "downloader"]
+        }
       }
     ]
   },
