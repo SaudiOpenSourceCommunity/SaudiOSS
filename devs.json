@@ -12,7 +12,8 @@
           "license": "MIT",
           "topics": ["rich", "terminal", "rss-reader"]
         }
-      },{
+      },
+      {
         "name": "ytserver",
         "URL": "https://github.com/MohammedSaudAlsahli/YtServer",
         "description": "A server for yt-dlp.",
@@ -2204,7 +2205,7 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": ["laravel","nova4","toggle"]
+          "topics": ["laravel", "nova4", "toggle"]
         }
       },
       {
@@ -2221,7 +2222,7 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": ["laravel","nova4","chatgpt","ai"]
+          "topics": ["laravel", "nova4", "chatgpt", "ai"]
         }
       },
       {
@@ -2238,7 +2239,7 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": ["laravel","chatgpt","ai"]
+          "topics": ["laravel", "chatgpt", "ai"]
         }
       },
       {
@@ -2255,11 +2256,7 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": [
-            "laravel",
-            "chatgpt",
-            "ai"
-          ]
+          "topics": ["laravel", "chatgpt", "ai"]
         }
       },
       {
@@ -2276,12 +2273,7 @@
             "url": "https://api.github.com/licenses/mit",
             "node_id": "MDc6TGljZW5zZTEz"
           },
-          "topics": [
-            "cmd",
-            "command-line",
-            "chatgpt",
-            "ai"
-          ]
+          "topics": ["cmd", "command-line", "chatgpt", "ai"]
         }
       }
     ]
@@ -3305,6 +3297,22 @@
           "license": null,
           "topics": []
         }
+      }
+    ]
+  },
+  {
+    "name": "ممدوح الظفيري",
+    "githubURL": "https://github.com/Mamdouh66",
+    "projects": [
+      {
+        "name": "Extracty",
+        "URL": "https://github.com/Mamdouh66/Extracty",
+        "description": "مكتبة تسهل استخراج بيانات مهيكلة من المواقع غير المهيلكة"
+      },
+      {
+        "name": "Emails-Summarizer",
+        "URL": "https://github.com/Mamdouh66/Emails-Summarizer",
+        "description": "برنامج يلخص الايميلات الواردة"
       }
     ]
   }
