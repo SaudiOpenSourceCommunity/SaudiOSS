@@ -13,7 +13,7 @@ import devs from "../../../../devs.json";
 	   return searchRegex.test(dev.name)
 	   || dev.projects.some((project) => searchRegex.test(project.name))
 	   || searchRegex.test(gitHubId)
-	   || dev.projects.some((project) => searchRegex.test(project.details.language))
+	   || dev.projects.some((project) => searchRegex.test(project.details?.language))
 	});
 	const divs = document.querySelectorAll("[data-type='dev']");
 	divs.forEach((div) => {
