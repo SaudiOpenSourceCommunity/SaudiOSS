@@ -1,5 +1,21 @@
 [
-  {
+ {
+    "name": "محمد عسيري",
+    "githubURL": "https://github.com/assirims",
+    "projects": [
+      {
+        "name": "Simplified Lectures-Evaluation Platform",
+        "URL": "https://github.com/assirims/simple_course_evalution",
+        "description": "Lectures Evaluation Platform A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality",
+        "details": {
+          "language": "Ruyb on Rails",
+          "license": "MIT",
+          "topics": ["feedback", "platform"]
+        }
+      }
+    ]
+  },
+      {
     "name": "محمد سعود السهلي",
     "githubURL": "https://github.com/MohammedSaudAlsahli",
     "projects": [
