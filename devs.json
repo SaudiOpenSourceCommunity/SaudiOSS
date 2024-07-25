@@ -2801,6 +2801,26 @@
             "uploady"
           ]
         }
+      },
+      {
+        "name": "ansible-role-apache",
+        "URL": "https://github.com/farisc0de/ansible-role-apache",
+        "description": "Ansible Role - Apache 2.x."
+      },
+      {
+        "name": "ProtectedPHPInfo",
+        "URL": "https://github.com/farisc0de/ProtectedPHPInfo",
+        "description": "PHP Info with Password Protection"
+      },
+       {
+        "name": "ansible-role-lynisscan",
+        "URL": "https://github.com/farisc0de/ansible-role-lynisscan",
+        "description": "An Ansible role to perform a scan with Lynis"
+      },
+       {
+        "name": "PhpMigration",
+        "URL": "https://github.com/farisc0de/PhpMigration",
+        "description": "Migration Library for PHP"
       }
     ]
   },
