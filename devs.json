@@ -3383,5 +3383,16 @@
       "description": "منصة الكترونية تتيح للطلاب عرض مشاريعهم الجامعية للشركات الراغبة في الاستفادة منها أو التعاون مع الطلاب في تطوير المشاريع"
     }
   ]
+},
+{
+  "name": "عبدالملك سلمان السفيران",
+  "githubURL": "https://github.com/alive2tinker",
+  "projects": [
+    {
+      "name": "Nova Resource Activities",
+      "URL": "https://github.com/alive2tinker/nova-resource-activities",
+      "description": "this package is a resource tool that lists activities performed on the resource in the detailed view of the resource. It utilizes Spatie/activity-log package."
+    }
+  ]
 }
 ]
