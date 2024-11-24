@@ -3396,3 +3396,30 @@
   ]
 }
 ]
+
+{
+  "name": "محمد النصيرات",
+  "githubURL": "https://github.com/nuseirat",
+  "projects": [
+    {
+      "name": "Aou GPA Calculator",
+      "URL": "https://github.com/nuseirat/Aou-GPA-Calculator",
+      "description": " The AOU GPA Calculator is an online tool for Arab Open University students to easily calculate their GPA by inputting grades and study hours, offering a convenient way to assess academic performance. "
+    },
+    {
+      "name": "CertifyMaster",
+      "URL": "https://github.com/nuseirat/CertifyMaster",
+      "description": " a comprehensive online platform dedicated to providing curated lists of free educational resources, certifications, and training programs across various technologies and fields. "
+    },
+   {
+      "name": "ViewGetter YT",
+      "URL": "https://github.com/nuseirat/ViewGetterYT",
+      "description": " Maximize your reach, grow your audience, and take your channel to the next level with ViewGetter YT! "
+    },
+   {
+      "name": "Student Information System Portal",
+      "URL": "https://github.com/nuseirat/Student-Information-System-Portal",
+      "description": " This project is a student portal for Arab Open University (AOU) students. It provides a user-friendly interface for students to access various academic and administrative services, including course information, grades, financial details, and more. "
+    }
+  ]
+}
