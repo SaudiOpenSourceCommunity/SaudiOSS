@@ -1,5 +1,5 @@
 [
- {
+  {
     "name": "محمد عسيري",
     "githubURL": "https://github.com/assirims",
     "projects": [
@@ -15,7 +15,7 @@
       }
     ]
   },
-      {
+  {
     "name": "محمد سعود السهلي",
     "githubURL": "https://github.com/MohammedSaudAlsahli",
     "projects": [
@@ -2812,12 +2812,12 @@
         "URL": "https://github.com/farisc0de/ProtectedPHPInfo",
         "description": "PHP Info with Password Protection"
       },
-       {
+      {
         "name": "ansible-role-lynisscan",
         "URL": "https://github.com/farisc0de/ansible-role-lynisscan",
         "description": "An Ansible role to perform a scan with Lynis"
       },
-       {
+      {
         "name": "PhpMigration",
         "URL": "https://github.com/farisc0de/PhpMigration",
         "description": "Migration Library for PHP"
@@ -3353,83 +3353,83 @@
     ]
   },
   {
-  "name": "عبدالله المحسن",
-  "githubURL": "https://github.com/Abdullah-Dev115",
-  "projects": [
-    {
-      "name": "Post Random Images from Folder On X",
-      "URL": "https://github.com/Abdullah-Dev115/Post-Random-Images-from-folder-on-X",
-      "description": " يا هلا والله! هذا سكربت بسيط فكرته انك تنشر صورة عشوائية من مجلد عندك إلى منصة تويتر (X) و بس 🌚"
-    },
-    {
-      "name": "Share Random Image To X by AWS",
-      "URL": "https://github.com/Abdullah-Dev115/ShareRandomImagesTo-X-ByAWS",
-      "description": "يا هلا والله! هذا المشروع البسيط فكرته أنك عندك مجلد صور ترفعه على مجلد في AWS حاوية (S3 Bucket) ثم بعدها تربط المجلد بالكود والي بدورة راح ينشر صورة عشوائية من المجلد على تويتر(X) كل فترة زمنية معينة!"
-    }
-  ]
-},
-{
-  "name": "راشد شراحيلي",
-  "githubURL": "https://github.com/RashedSharahili",
-  "projects": [
-    {
-      "name": "طريقة استخدام واجهات برمجة التطبيقات API بشكل مبسط",
-      "URL": "https://github.com/RashedSharahili/LangsApi",
-      "description": "مستودع تعليمي لطريقة استخدام واجهات برمجة التطبيقات API بشكل مبسط"
-    },
-    {
-      "name": "إنفيستك",
-      "URL": "https://github.com/RashedSharahili/investech",
-      "description": "منصة الكترونية تتيح للطلاب عرض مشاريعهم الجامعية للشركات الراغبة في الاستفادة منها أو التعاون مع الطلاب في تطوير المشاريع"
-    }
-  ]
-},
-{
-  "name": "عبدالملك سلمان السفيران",
-  "githubURL": "https://github.com/alive2tinker",
-  "projects": [
-    {
-      "name": "Nova Resource Activities",
-      "URL": "https://github.com/alive2tinker/nova-resource-activities",
-      "description": "this package is a resource tool that lists activities performed on the resource in the detailed view of the resource. It utilizes Spatie/activity-log package."
-    }
-  ]
-},
-    {
-        "name": "محمد النصيرات",
-        "githubURL": "https://github.com/nuseirat",
-        "projects": [
-            {
-                "name": "Aou GPA Calculator",
-                "URL": "https://github.com/nuseirat/Aou-GPA-Calculator",
-                "description": " The AOU GPA Calculator is an online tool for Arab Open University students to easily calculate their GPA by inputting grades and study hours, offering a convenient way to assess academic performance. "
-            },
-            {
-                "name": "CertifyMaster",
-                "URL": "https://github.com/nuseirat/CertifyMaster",
-                "description": " a comprehensive online platform dedicated to providing curated lists of free educational resources, certifications, and training programs across various technologies and fields. "
-            },
-            {
-                "name": "ViewGetter YT",
-                "URL": "https://github.com/nuseirat/ViewGetterYT",
-                "description": " Maximize your reach, grow your audience, and take your channel to the next level with ViewGetter YT! "
-            },
-            {
-                "name": "Student Information System Portal",
-                "URL": "https://github.com/nuseirat/Student-Information-System-Portal",
-                "description": " This project is a student portal for Arab Open University (AOU) students. It provides a user-friendly interface for students to access various academic and administrative services, including course information, grades, financial details, and more. "
-            }
-        ]
-    },
- {
-  "name": "Nora Alhuwaidi",
-  "githubURL": "https://github.com/AlhuwaidiNora",
-  "projects": [
-    {
-      "name": "Saudi-X-Analyzer",
-      "URL": "https://github.com/AlhuwaidiNora/Saudi-X-Analyzer",
-      "description": "تطبيق جافا لتحليل المواضيع المتداولة على منصة X (تويتر) في المملكة العربية السعودية"
-    }
-  ]
-}
+    "name": "عبدالله المحسن",
+    "githubURL": "https://github.com/Abdullah-Dev115",
+    "projects": [
+      {
+        "name": "Post Random Images from Folder On X",
+        "URL": "https://github.com/Abdullah-Dev115/Post-Random-Images-from-folder-on-X",
+        "description": " يا هلا والله! هذا سكربت بسيط فكرته انك تنشر صورة عشوائية من مجلد عندك إلى منصة تويتر (X) و بس 🌚"
+      },
+      {
+        "name": "Share Random Image To X by AWS",
+        "URL": "https://github.com/Abdullah-Dev115/ShareRandomImagesTo-X-ByAWS",
+        "description": "يا هلا والله! هذا المشروع البسيط فكرته أنك عندك مجلد صور ترفعه على مجلد في AWS حاوية (S3 Bucket) ثم بعدها تربط المجلد بالكود والي بدورة راح ينشر صورة عشوائية من المجلد على تويتر(X) كل فترة زمنية معينة!"
+      }
+    ]
+  },
+  {
+    "name": "راشد شراحيلي",
+    "githubURL": "https://github.com/RashedSharahili",
+    "projects": [
+      {
+        "name": "طريقة استخدام واجهات برمجة التطبيقات API بشكل مبسط",
+        "URL": "https://github.com/RashedSharahili/LangsApi",
+        "description": "مستودع تعليمي لطريقة استخدام واجهات برمجة التطبيقات API بشكل مبسط"
+      },
+      {
+        "name": "إنفيستك",
+        "URL": "https://github.com/RashedSharahili/investech",
+        "description": "منصة الكترونية تتيح للطلاب عرض مشاريعهم الجامعية للشركات الراغبة في الاستفادة منها أو التعاون مع الطلاب في تطوير المشاريع"
+      }
+    ]
+  },
+  {
+    "name": "عبدالملك سلمان السفيران",
+    "githubURL": "https://github.com/alive2tinker",
+    "projects": [
+      {
+        "name": "Nova Resource Activities",
+        "URL": "https://github.com/alive2tinker/nova-resource-activities",
+        "description": "this package is a resource tool that lists activities performed on the resource in the detailed view of the resource. It utilizes Spatie/activity-log package."
+      }
+    ]
+  },
+  {
+    "name": "محمد النصيرات",
+    "githubURL": "https://github.com/nuseirat",
+    "projects": [
+      {
+        "name": "Aou GPA Calculator",
+        "URL": "https://github.com/nuseirat/Aou-GPA-Calculator",
+        "description": " The AOU GPA Calculator is an online tool for Arab Open University students to easily calculate their GPA by inputting grades and study hours, offering a convenient way to assess academic performance. "
+      },
+      {
+        "name": "CertifyMaster",
+        "URL": "https://github.com/nuseirat/CertifyMaster",
+        "description": " a comprehensive online platform dedicated to providing curated lists of free educational resources, certifications, and training programs across various technologies and fields. "
+      },
+      {
+        "name": "ViewGetter YT",
+        "URL": "https://github.com/nuseirat/ViewGetterYT",
+        "description": " Maximize your reach, grow your audience, and take your channel to the next level with ViewGetter YT! "
+      },
+      {
+        "name": "Student Information System Portal",
+        "URL": "https://github.com/nuseirat/Student-Information-System-Portal",
+        "description": " This project is a student portal for Arab Open University (AOU) students. It provides a user-friendly interface for students to access various academic and administrative services, including course information, grades, financial details, and more. "
+      }
+    ]
+  },
+  {
+    "name": "نورة راشد الهويدي",
+    "githubURL": "https://github.com/AlhuwaidiNora",
+    "projects": [
+      {
+        "name": "Saudi-X-Analyzer",
+        "URL": "https://github.com/AlhuwaidiNora/Saudi-X-Analyzer",
+        "description": "تطبيق جافا لتحليل المواضيع المتداولة على منصة X (تويتر) في المملكة العربية السعودية"
+      }
+    ]
+  }
 ]
