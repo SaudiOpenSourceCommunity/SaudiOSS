@@ -3432,4 +3432,15 @@
       }
     ]
   }
+  {
+    "name": "نورة راشد الهويدي",
+    "githubURL": "https://github.com/AlhuwaidiNora",
+    "projects": [
+      {
+        "name": "Saudi-X-Analyzer",
+        "URL": "https://github.com/AlhuwaidiNora/Saudi-Market-Intelligence",
+        "description": "AI-Powered Saudi Market Intelligence Platform"
+      }
+    ]
+  }
 ]
