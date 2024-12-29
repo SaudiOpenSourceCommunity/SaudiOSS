@@ -3429,6 +3429,11 @@
         "name": "Saudi-X-Analyzer",
         "URL": "https://github.com/AlhuwaidiNora/Saudi-X-Analyzer",
         "description": "تطبيق جافا لتحليل المواضيع المتداولة على منصة X (تويتر) في المملكة العربية السعودية"
+      },
+      {
+        "name": "Saudi-Market-Intelligence",
+        "URL": "https://github.com/AlhuwaidiNora/Saudi-Market-Intelligence",
+        "description": "AI-Powered Saudi Market Intelligence Platform"
       }
     ]
   }
