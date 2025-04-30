@@ -1,5 +1,28 @@
 [
   {
+    "name": "الوليد",
+    "githubURL": "https://github.com/alwalxed",
+    "projects": [
+      {
+        "name": "Qafiayh | قافية",
+        "URL": "https://github.com/alwalxed/qafiyah",
+        "description": "Arabic poetry platform and database featuring 944K+ verses from 932 poets across 10 eras",
+        "details": {
+          "language": "TypeScript",
+          "license": "MIT",
+          "topics": [
+            "poetry",
+            "nextjs",
+            "monorepo",
+            "react",
+            "turborepo",
+            "drizzle-orm"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "name": "محمد عسيري",
     "githubURL": "https://github.com/assirims",
     "projects": [
