@@ -3461,3 +3461,20 @@
     ]
   }
 ]
+{
+  "name": "Saad Almalki",
+  "githubURL": "https://github.com/Saad711T",
+  "projects": [
+    {
+      "name": "Database Connector",
+      "URL": "https://github.com/Saad711T/DatabaseConnector",
+      "description": "تطبيق سطح مكتب مبني بلغة بايثون ومكتبة تيكنتر - التطبيق مخصص لإظهار قواعد بيانات ماي اس كيو ال ومايكروسوفت سيكول سيرفر على جهازك والإرتباط بها"
+    },
+    {
+      "name": "HospitalDW",
+      "URL": "https://github.com/Saad711T/HospitalDW",
+      "description": "مستودع بيانات لعدة قواعد بيانات مرتبطة ببعضها وهي عبارة عن نظام مستشفى متكامل"
+    }
+  ]
+}
+
