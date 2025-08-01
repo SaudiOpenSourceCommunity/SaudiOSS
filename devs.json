@@ -3473,6 +3473,15 @@
         "name": "HospitalDW",
         "URL": "https://github.com/Saad711T/HospitalDW",
         "description": "مستودع بيانات لعدة قواعد بيانات مرتبطة ببعضها وهي عبارة عن نظام مستشفى متكامل"
+      },
+      {
+    "name": "0xSm0ky",
+    "githubURL": "https://github.com/0xSm0ky",
+    "projects": [
+      {
+        "name": "hijri-daily-note-plugin",
+        "URL": "https://github.com/0xSm0ky/hijri-daily-note-plugin",
+        "description": "إضافة لأوبسيديان تنشئ ملاحظات يومية باستخدام التقويم الهجري الإسلامي (نظام أم القرى)."
       }
     ]
   }
