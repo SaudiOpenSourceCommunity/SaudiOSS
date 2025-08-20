@@ -3486,5 +3486,84 @@
         "description": "إضافة لأوبسيديان تنشئ ملاحظات يومية باستخدام التقويم الهجري الإسلامي (نظام أم القرى)."
       }
     ]
+  },
+  {
+    "name": "سليمان الرميح",
+    "githubURL": "https://github.com/SloMR",
+    "projects": [
+      {
+        "name": "PastePoint",
+        "URL": "https://github.com/SloMR/pastepoint",
+        "description": "PastePoint is a secure, feature-rich file-sharing service designed for local networks, and private sessions.",
+        "details": {
+          "language": ["Rust", "TypeScript", "JavaScript", "HTML", "CSS", "Docker", "Nginx"],
+          "license": "GPL-3.0",
+          "topics": [
+            "css",
+            "chat",
+            "docker",
+            "rust",
+            "open-source",
+            "angular",
+            "typescript",
+            "encryption",
+            "docker-compose",
+            "websocket",
+            "webrtc",
+            "dtls",
+            "secure",
+            "attachment",
+            "localnetwork",
+            "end-to-end-encryption",
+            "actix",
+            "tailwind",
+            "flowbite",
+            "actix-rs"
+          ]
+        }
+      },
+      {
+        "name": "Watchs-Extension",
+        "URL": "https://github.com/SloMR/Watchs-Extension",
+        "description": "Chrome extension to get rid of shorts on YouTube and to be able to control the video on our own.",
+        "details": {
+          "language": ["HTML", "JavaScript", "CSS"],
+          "license": "MIT",
+          "topics": [
+            "url",
+            "chrome-extension",
+            "chrome",
+            "youtube",
+            "shorts",
+            "video"
+          ]
+        }
+      },
+      {
+        "name": "Subtitles-Renamer",
+        "URL": "https://github.com/SloMR/Subtitles-Renamer",
+        "description": "Shell Script used to rename the subtitles by adding the language code at the end of each subtitle to support plex subtitle list.",
+        "details": {
+          "language": "Shell",
+          "license": "MIT",
+          "topics": [
+            "files",
+            "subtitles",
+            "subtitle",
+            "rename-files"
+          ]
+        }
+      },
+      {
+        "name": "ArabicToUTF-8",
+        "URL": "https://github.com/SloMR/ArabicToUTF-8",
+        "description": "Arabic to UTF-8 converter",
+        "details": {
+          "language": "Shell",
+          "license": "MIT",
+          "topics": ["shell"]
+        }
+      }
+    ]
   }
 ]
