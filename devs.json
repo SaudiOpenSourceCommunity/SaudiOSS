@@ -3565,5 +3565,16 @@
         }
       }
     ]
-  }
+  },
+  {
+  "name": "Abdullah Wex",
+  "githubURL": "https://github.com/Abdullah-Wex",
+  "projects": [
+    {
+      "name": "EpubSage",
+      "URL": "https://github.com/Abdullah-Wex/epubsage",
+      "description": "مكتبة بايثون لاستخراج محتوى وبيانات ملفات EPUB بشكل منظم، تدعم معيار Dublin Core وتتعامل مع جميع تنسيقات الناشرين المختلفة"
+    }
+  ]
+}
 ]
