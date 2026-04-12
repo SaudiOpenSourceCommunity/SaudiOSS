@@ -60,7 +60,8 @@
           "language": "Python",
           "license": "MIT",
           "topics": ["streampay", "ai-agent", "cli-tool", "agents", "payments", "subscription"]
-        },
+        }
+      },
         {
         "name": "streampay-cli",
         "URL": "https://github.com/MohammedSaudAlsahli/streampay-cli",
