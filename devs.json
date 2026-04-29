@@ -3586,5 +3586,20 @@
       "description": "مكتبة بايثون لاستخراج محتوى وبيانات ملفات EPUB بشكل منظم، تدعم معيار Dublin Core وتتعامل مع جميع تنسيقات الناشرين المختلفة"
     }
   ]
+},
+{
+  "name": "Faisal Alharbi",
+  "githubURL": "https://github.com/LovelyFaisal",
+  "projects": [
+    {
+      "name": "Category System",
+      "URL": "https://github.com/LovelyFaisal/category-system",
+      "description": "Adjacency List Implementation in Spring Boot",
+      "details": {
+          "language": "Java",
+          "topics": ["Databases", "Data-Structures", "Algorithms","Java", "Spring Boot"]
+        }
+    }
+  ]
 }
 ]
