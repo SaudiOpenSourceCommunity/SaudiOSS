@@ -3573,6 +3573,36 @@
           "license": "MIT",
           "topics": ["shell"]
         }
+      },
+      {
+        "name": "TransLora",
+        "URL": "https://github.com/SloMR/TransLora",
+        "description": "AI-powered subtitle translation tool built around OpenAI-compatible chat completion APIs.",
+        "details": {
+          "language": "Python",
+          "license": "MIT",
+          "topics": [
+            "translation",
+            "subtitles",
+            "openai",
+            "localization"
+          ]
+        }
+      },
+      {
+        "name": "Jellyfin Continue Watching Deduplicator",
+        "URL": "https://github.com/SloMR/jellyfin-plugin-dedupe-continue-watching",
+        "description": "Server-side Jellyfin plugin that deduplicates the Continue Watching row, showing only the most recently played episode per series.",
+        "details": {
+          "language": ["C#", "HTML", "PowerShell", "Shell"],
+          "license": "GPL-3.0",
+          "topics": [
+            "jellyfin",
+            "plugin",
+            "continue-watching",
+            "deduplication"
+          ]
+        }
       }
     ]
   },
