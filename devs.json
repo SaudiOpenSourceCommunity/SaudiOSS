@@ -3631,5 +3631,29 @@
         }
     }
   ]
+},
+{
+  "name": "Yousef Alharbi",
+  "githubURL": "https://github.com/y2w8",
+  "projects": [
+    {
+      "name": "nmrs-tui",
+      "URL": "https://github.com/y2w8/nmrs-tui",
+      "description": "A fast, Vim-friendly NetworkManager TUI built in Rust",
+      "details": {
+          "language": "Rust",
+          "topics": ["Linux", "Rust", "Wifi", "Tui", "NetworkManager"]
+        }
+    },
+    {
+      "name": "neolij.nvim",
+      "URL": "https://github.com/y2w8/neolij.nvim",
+      "description": "Seamless Neovim/Zellij integration with built-in navigation, pane/tab management, and Lua scripting",
+      "details": {
+          "language": "Lua",
+          "topics": ["Neovim", "Lua", "Plugin"]
+        }
+    }
+  ]
 }
 ]
