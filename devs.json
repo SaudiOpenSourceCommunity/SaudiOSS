@@ -3655,5 +3655,20 @@
         }
     }
   ]
+},
+{
+  "name": "عبدالرحمن العمودي",
+  "githubURL": "https://github.com/aramoudi",
+  "projects": [
+    {
+      "name": "الخريطة السعودية مفتوحة المصدر",
+      "URL": "https://github.com/aramoudi/opensaudimap",
+      "description": "خريطة محلية مفتوحة المصدر بديل لخدمة ربط قوقل ماب",
+      "details": {
+          "language": "Lua",
+          "topics": ["map", "openstreetmap", "saudiarabia", "api", "selfhosted", "self-hosted", "gis", "geospatial", "geodata", "geojson"]
+        }
+    }
+  ]
 }
 ]
