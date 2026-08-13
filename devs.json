@@ -3670,5 +3670,20 @@
         }
     }
   ]
+},
+{
+  "name": "صالح المقوشي",
+  "githubURL": "https://github.com/sasmaq",
+  "projects": [
+    {
+      "name": "Incrmit",
+      "URL": "https://github.com/sasmaq/incrmit",
+      "description": "Increment semantic versions across multiple files from a TOML config.",
+      "details": {
+          "language": "Go",
+          "topics": ["Go", "CLI", "Versioning"]
+      }
+    }
+  ]
 }
 ]
