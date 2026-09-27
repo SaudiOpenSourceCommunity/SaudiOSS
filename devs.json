@@ -1,12 +1,12 @@
 [
   {
-    "name": "الوليد",
-    "githubURL": "https://github.com/alwalxed",
+    "name": "راقم",
+    "githubURL": "https://github.com/raaqimorg",
     "projects": [
       {
-        "name": "Qafiayh | قافية",
-        "URL": "https://github.com/alwalxed/qafiyah",
-        "description": "Arabic poetry platform and database featuring 944K+ verses from 932 poets across 10 eras",
+        "name": "Qafiyah | قافية",
+        "URL": "https://github.com/raaqimorg/qafiyah",
+        "description": "The Arabic poetry reference: an open-source catalog of poems and poets with a free API",
         "details": {
           "language": "TypeScript",
           "license": "MIT",
