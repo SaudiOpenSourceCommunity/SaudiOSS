@@ -3685,5 +3685,29 @@
       }
     }
   ]
+},
+{
+  "name": "أسامة الهواوي",
+  "githubURL": "https://github.com/OsamahAlhwawi",
+  "projects": [
+    {
+      "name": "wa-client",
+      "URL": "https://github.com/OsamahAlhwawi/wa-client",
+      "description": "Typed, zero-dependency client for the WhatsApp Business Cloud API: messages, templates, media, webhooks with signature verification",
+      "details": {
+        "language": "TypeScript",
+        "license": "MPL-2.0",
+        "topics": [
+          "nodejs",
+          "npm-package",
+          "typescript",
+          "webhook",
+          "whatsapp",
+          "whatsapp-business",
+          "whatsapp-cloud-api"
+        ]
+      }
+    }
+  ]
 }
 ]
